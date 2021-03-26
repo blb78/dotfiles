@@ -4,3 +4,6 @@
 [submodule "rofi"]
 	path = rofi
 	url = git@github.com:blb78/rofi.git
+[submodule "tmux"]
+	path = tmux
+	url = git@github.com:blb78/tmux.git
