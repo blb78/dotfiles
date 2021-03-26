@@ -3,3 +3,6 @@
 .Optional Title
 [source,shell]
 git clone git@github.com:blb78/dotfiles.git
+
+
+include::blb78/rofi/blob/main/README.adoc
