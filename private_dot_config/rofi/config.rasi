@@ -1,0 +1,30 @@
+configuration {
+/*---------- General setting ----------*/
+	modi: "drun,run,filebrowser,window";
+	case-sensitive: false;
+	cycle: true;
+	filter: "";
+	scroll-method: 0;
+	normalize-match: true;
+	show-icons: true;
+	icon-theme: "Papirus-Dark";
+	steal-focus: false;
+
+/*---------- Matching setting ----------*/
+	matching: "normal";
+	tokenize: true;
+/*---------- History and Sorting ----------*/
+	disable-history: false;
+	sorting-method: "normal";
+	max-history-size: 25;
+
+/*---------- Display setting ----------*/
+	display-window: "Windows";
+	display-windowcd: "Window CD";
+	display-run: "Run";
+	display-ssh: "SSH";
+	display-drun: "Apps";
+	display-combi: "Combi";
+	display-keys: "Keys";
+	display-filebrowser: "Files";
+}
