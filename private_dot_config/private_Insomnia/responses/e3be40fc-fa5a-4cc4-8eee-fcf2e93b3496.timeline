@@ -1,0 +1,277 @@
+[
+	{
+		"value": "Preparing request to https://downloadcenter.dev.mylectra.com/api/software",
+		"name": "Text",
+		"timestamp": 1684335181353
+	},
+	{
+		"value": "Current time is 2023-05-17T14:53:01.353Z",
+		"name": "Text",
+		"timestamp": 1684335181353
+	},
+	{
+		"value": "Enable automatic URL encoding",
+		"name": "Text",
+		"timestamp": 1684335181353
+	},
+	{
+		"value": "Using default HTTP version",
+		"name": "Text",
+		"timestamp": 1684335181356
+	},
+	{
+		"value": "Enable SSL validation",
+		"name": "Text",
+		"timestamp": 1684335181356
+	},
+	{
+		"value": "Enable cookie sending with jar of 6 cookies",
+		"name": "Text",
+		"timestamp": 1684335181356
+	},
+	{
+		"name": "Text",
+		"value": "Too old connection (157 seconds), disconnect it\n",
+		"timestamp": 1684335181358
+	},
+	{
+		"name": "Text",
+		"value": "Connection 1 seems to be dead!\n",
+		"timestamp": 1684335181358
+	},
+	{
+		"name": "Text",
+		"value": "Closing connection 1\n",
+		"timestamp": 1684335181358
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (OUT), TLS alert, close notify (256):\n",
+		"timestamp": 1684335181358
+	},
+	{
+		"name": "Text",
+		"value": "  Trying 20.56.190.42:443...\n",
+		"timestamp": 1684335181398
+	},
+	{
+		"name": "Text",
+		"value": "Connected to downloadcenter.dev.mylectra.com (20.56.190.42) port 443 (#2)\n",
+		"timestamp": 1684335181417
+	},
+	{
+		"name": "Text",
+		"value": "ALPN, offering h2\n",
+		"timestamp": 1684335181418
+	},
+	{
+		"name": "Text",
+		"value": "ALPN, offering http/1.1\n",
+		"timestamp": 1684335181418
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (OUT), TLS handshake, Client hello (1):\n",
+		"timestamp": 1684335181423
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (IN), TLS handshake, Server hello (2):\n",
+		"timestamp": 1684335181446
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):\n",
+		"timestamp": 1684335181446
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (IN), TLS handshake, Certificate (11):\n",
+		"timestamp": 1684335181446
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (IN), TLS handshake, CERT verify (15):\n",
+		"timestamp": 1684335181446
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (IN), TLS handshake, Finished (20):\n",
+		"timestamp": 1684335181446
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (OUT), TLS change cipher, Change cipher spec (1):\n",
+		"timestamp": 1684335181446
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (OUT), TLS handshake, Finished (20):\n",
+		"timestamp": 1684335181446
+	},
+	{
+		"name": "Text",
+		"value": "SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256\n",
+		"timestamp": 1684335181446
+	},
+	{
+		"name": "Text",
+		"value": "ALPN, server accepted to use h2\n",
+		"timestamp": 1684335181446
+	},
+	{
+		"name": "Text",
+		"value": "Server certificate:\n",
+		"timestamp": 1684335181446
+	},
+	{
+		"name": "Text",
+		"value": " subject: CN=*.dev.mylectra.com\n",
+		"timestamp": 1684335181446
+	},
+	{
+		"name": "Text",
+		"value": " start date: Apr 24 00:00:00 2023 GMT\n",
+		"timestamp": 1684335181446
+	},
+	{
+		"name": "Text",
+		"value": " expire date: Jul 23 23:59:59 2023 GMT\n",
+		"timestamp": 1684335181446
+	},
+	{
+		"name": "Text",
+		"value": " subjectAltName: host \"downloadcenter.dev.mylectra.com\" matched cert's \"*.dev.mylectra.com\"\n",
+		"timestamp": 1684335181446
+	},
+	{
+		"name": "Text",
+		"value": " issuer: C=AT; O=ZeroSSL; CN=ZeroSSL RSA Domain Secure Site CA\n",
+		"timestamp": 1684335181446
+	},
+	{
+		"name": "Text",
+		"value": " SSL certificate verify ok.\n",
+		"timestamp": 1684335181446
+	},
+	{
+		"name": "Text",
+		"value": "Using HTTP2, server supports multiplexing\n",
+		"timestamp": 1684335181446
+	},
+	{
+		"name": "Text",
+		"value": "Connection state changed (HTTP/2 confirmed)\n",
+		"timestamp": 1684335181446
+	},
+	{
+		"name": "Text",
+		"value": "Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0\n",
+		"timestamp": 1684335181446
+	},
+	{
+		"name": "Text",
+		"value": "Using Stream ID: 1 (easy handle 0x22980546c000)\n",
+		"timestamp": 1684335181446
+	},
+	{
+		"name": "HeaderOut",
+		"value": "GET /api/software HTTP/2\r\nHost: downloadcenter.dev.mylectra.com\r\nuser-agent: insomnia/2022.6.0\r\nauthorization: Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Ik9EWTBSREJGTlVFM1JEVTVRVE13TVVRMk9EVXhRVFpCTkVRNU5qRTRPRUZETmprd09VVTRPQSJ9.eyJodHRwczovL21ldGFkYXRhLmxlY3RyYS5jb20iOnsic2l0ZXNQZXJtaXNzaW9ucyI6W3sic2l0ZUlkIjoiOWY4Mjg4ZGMtNzhkZS00ZjA4LWIwYmEtMjBkNWYwYjM4NTk5IiwicGVybWlzc2lvbnMiOlsiQURNU1UiLCJBUElfTUdUIiwiQzEiLCJDMiIsIkNPTlRST0wiLCJJTVBST1ZFIiwiSlVTVF9QVCIsIktBTF9TVEwiLCJLVUJJWCIsIk1BSV9NQU5BR0VSIiwiTUFUX01BTkFHRVIiLCJNT0RfM0QiLCJNT0RfQ0xBIiwiTU9EX0VYUCIsIk1ZX0NPTlRSQUNUUyIsIk9EX0ZBIiwiT1BFWCIsIk9SRF9GT1JNIiwiT1JEX01BTkFHRVIiLCJQQVRURVJOX0VYUCIsIlBDT05WIiwiUFJPRF9NQU5BR0VSIiwiUkVMX01BTkFHRVIiLCJTVVBQT1JUIiwiU1lTX01BTkFHRVIiXX1dLCJzaXRlSWQiOiI5ZjgyODhkYy03OGRlLTRmMDgtYjBiYS0yMGQ1ZjBiMzg1OTkiLCJ0ZW5hbnRJZCI6IjA3ZmJjZmE5LWUzZjAtNDYzMi1iOGEyLWE5OWFiOWU2YjgwYyIsInVzZXJzVmlzaWJpbGl0eSI6IlNJVEUifSwiaXNzIjoiaHR0cHM6Ly9sb2dpbi5kZXYubXlsZWN0cmEuY29tLyIsInN1YiI6ImF1dGgwfDYyMWY2ZjI5MjhkODZkMDA2YTY2YTkwZCIsImF1ZCI6WyJodHRwczovL2Rvd25sb2FkY2VudGVyLmRldi5teWxlY3RyYS5jb20iLCJodHRwczovL2Rldi1sZWN0cmEtc2VydmljZXMuZXUuYXV0aDAuY29tL3VzZXJpbmZvIl0sImlhdCI6MTY3OTYzMzUzNCwiZXhwIjoxNjc5NzE5OTM0LCJhenAiOiJZVzVxS3VzYU9naTNYaU41WHBxRzZvZmRBQW5hbE96ZCIsInNjb3BlIjoib3BlbmlkIHByb2ZpbGUgZW1haWwifQ.Qvn8MGqbdO_O9qfrR28DkltBYQUOfhQZiwWP-4Tcs1AdxOf00nUrl5IMgzvfcDlSObDesa0KX4A2IeWe-2sjH-U4tT0z23ZU8Q4bftNE_YUmNgVoLNbeGaSyW_-mIcxfXmKvjuYQrtRATDe1zTfpViLBsFLS1Bcsy-KdgPzQnN46ywPgB9uq7N5LUO7JZCNvW3GwmuCBVpo22F1YB18otsgZ7XpTTGrZ9Vh92ffEKGjxrser1CM0qt_IM_Sna_mZcEpWbvx4M-_HppRwMcK7J67adJzNmzm14OauAql7hGt3dky-zQgSsNiQwnVfXoQU_FQKA5cPnhvSKNQFB0seGg\r\naccept: */*\r\n\r\n",
+		"timestamp": 1684335181446
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (IN), TLS handshake, Newsession Ticket (4):\n",
+		"timestamp": 1684335181446
+	},
+	{
+		"name": "Text",
+		"value": "Connection state changed (MAX_CONCURRENT_STREAMS == 250)!\n",
+		"timestamp": 1684335181462
+	},
+	{
+		"name": "HeaderIn",
+		"value": "HTTP/2 401 \r\n",
+		"timestamp": 1684335181470
+	},
+	{
+		"name": "HeaderIn",
+		"value": "cache-control: no-cache, no-store, max-age=0, must-revalidate\r\n",
+		"timestamp": 1684335181470
+	},
+	{
+		"name": "HeaderIn",
+		"value": "content-security-policy: frame-ancestors 'none';\r\n",
+		"timestamp": 1684335181470
+	},
+	{
+		"name": "HeaderIn",
+		"value": "content-type: application/json\r\n",
+		"timestamp": 1684335181470
+	},
+	{
+		"name": "HeaderIn",
+		"value": "date: Wed, 17 May 2023 14:53:21 GMT\r\n",
+		"timestamp": 1684335181470
+	},
+	{
+		"name": "HeaderIn",
+		"value": "expires: 0\r\n",
+		"timestamp": 1684335181470
+	},
+	{
+		"name": "HeaderIn",
+		"value": "feature-policy: fullscreen 'self';\r\n",
+		"timestamp": 1684335181471
+	},
+	{
+		"name": "HeaderIn",
+		"value": "pragma: no-cache\r\n",
+		"timestamp": 1684335181471
+	},
+	{
+		"name": "HeaderIn",
+		"value": "referrer-policy: strict-origin\r\n",
+		"timestamp": 1684335181471
+	},
+	{
+		"name": "HeaderIn",
+		"value": "server-timing: intid;desc=045ecb4804849e97\r\n",
+		"timestamp": 1684335181471
+	},
+	{
+		"name": "HeaderIn",
+		"value": "strict-transport-security: max-age=15724800; includeSubDomains\r\n",
+		"timestamp": 1684335181471
+	},
+	{
+		"name": "HeaderIn",
+		"value": "x-content-type-options: nosniff\r\n",
+		"timestamp": 1684335181471
+	},
+	{
+		"name": "HeaderIn",
+		"value": "x-frame-options: DENY\r\n",
+		"timestamp": 1684335181471
+	},
+	{
+		"name": "HeaderIn",
+		"value": "x-xss-protection: 1; mode=block\r\n",
+		"timestamp": 1684335181471
+	},
+	{
+		"name": "HeaderIn",
+		"value": "\r\n",
+		"timestamp": 1684335181471
+	},
+	{
+		"name": "Text",
+		"value": "Received 104 B chunk",
+		"timestamp": 1684335181471
+	},
+	{
+		"name": "Text",
+		"value": "Connection #2 to host downloadcenter.dev.mylectra.com left intact\n",
+		"timestamp": 1684335181472
+	}
+]

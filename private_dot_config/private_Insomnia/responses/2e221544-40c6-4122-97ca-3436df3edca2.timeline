@@ -1,0 +1,142 @@
+[
+	{
+		"value": "Preparing request to https://gateway-auth.cloudservices.dev.mylectra.com/auth/my-credentials",
+		"name": "Text",
+		"timestamp": 1684763772625
+	},
+	{
+		"value": "Current time is 2023-05-22T13:56:12.625Z",
+		"name": "Text",
+		"timestamp": 1684763772625
+	},
+	{
+		"value": "Enable automatic URL encoding",
+		"name": "Text",
+		"timestamp": 1684763772625
+	},
+	{
+		"value": "Using default HTTP version",
+		"name": "Text",
+		"timestamp": 1684763772627
+	},
+	{
+		"value": "Enable SSL validation",
+		"name": "Text",
+		"timestamp": 1684763772627
+	},
+	{
+		"value": "Enable cookie sending with jar of 10 cookies",
+		"name": "Text",
+		"timestamp": 1684763772627
+	},
+	{
+		"name": "Text",
+		"value": "Found bundle for host gateway-auth.cloudservices.dev.mylectra.com: 0x1f78038f5ec0 [can multiplex]\n",
+		"timestamp": 1684763772628
+	},
+	{
+		"name": "Text",
+		"value": "Re-using existing connection! (#12) with host gateway-auth.cloudservices.dev.mylectra.com\n",
+		"timestamp": 1684763772628
+	},
+	{
+		"name": "Text",
+		"value": "Connected to gateway-auth.cloudservices.dev.mylectra.com (20.56.190.42) port 443 (#12)\n",
+		"timestamp": 1684763772628
+	},
+	{
+		"name": "Text",
+		"value": "Using Stream ID: b (easy handle 0x1f7802cf9000)\n",
+		"timestamp": 1684763772628
+	},
+	{
+		"name": "HeaderOut",
+		"value": "POST /auth/my-credentials HTTP/2\r\nHost: gateway-auth.cloudservices.dev.mylectra.com\r\nuser-agent: insomnia/2022.6.0\r\ncontent-type: application/json\r\nauthorization: Bearer dGVhbS5jaG9jb2xhdC4xQGNob2NvbGF0LmNvbTpMZWN0cmFDaG9jb2xhdDMzKgo=\r\naccept: */*\r\ncontent-length: 114\r\n\r\n",
+		"timestamp": 1684763772628
+	},
+	{
+		"name": "DataOut",
+		"value": "\"{\\n    \\\"clientId\\\": \\\"QLq1lbDmEhcs3siGNIAbRnNfCdWd3OxO\\\",\\n    \\\"audience\\\": \\\"https://c1.dev.mylectra.com\\\"\\n}\"",
+		"timestamp": 1684763772628
+	},
+	{
+		"name": "Text",
+		"value": "We are completely uploaded and fine\n",
+		"timestamp": 1684763772628
+	},
+	{
+		"name": "HeaderIn",
+		"value": "HTTP/2 400 \r\n",
+		"timestamp": 1684763772672
+	},
+	{
+		"name": "HeaderIn",
+		"value": "content-type: application/json\r\n",
+		"timestamp": 1684763772672
+	},
+	{
+		"name": "HeaderIn",
+		"value": "date: Mon, 22 May 2023 13:56:33 GMT\r\n",
+		"timestamp": 1684763772672
+	},
+	{
+		"name": "HeaderIn",
+		"value": "server-timing: intid;desc=77d30d61ef7eccba\r\n",
+		"timestamp": 1684763772672
+	},
+	{
+		"name": "HeaderIn",
+		"value": "strict-transport-security: max-age=15724800; includeSubDomains\r\n",
+		"timestamp": 1684763772672
+	},
+	{
+		"name": "HeaderIn",
+		"value": "vary: Origin\r\n",
+		"timestamp": 1684763772672
+	},
+	{
+		"name": "HeaderIn",
+		"value": "vary: Access-Control-Request-Method\r\n",
+		"timestamp": 1684763772672
+	},
+	{
+		"name": "HeaderIn",
+		"value": "vary: Access-Control-Request-Headers\r\n",
+		"timestamp": 1684763772672
+	},
+	{
+		"name": "HeaderIn",
+		"value": "vary: Origin\r\n",
+		"timestamp": 1684763772672
+	},
+	{
+		"name": "HeaderIn",
+		"value": "vary: Access-Control-Request-Method\r\n",
+		"timestamp": 1684763772672
+	},
+	{
+		"name": "HeaderIn",
+		"value": "vary: Access-Control-Request-Headers\r\n",
+		"timestamp": 1684763772672
+	},
+	{
+		"name": "HeaderIn",
+		"value": "x-frame-options: DENY\r\n",
+		"timestamp": 1684763772672
+	},
+	{
+		"name": "HeaderIn",
+		"value": "\r\n",
+		"timestamp": 1684763772672
+	},
+	{
+		"name": "Text",
+		"value": "Received 128 B chunk",
+		"timestamp": 1684763772672
+	},
+	{
+		"name": "Text",
+		"value": "Connection #12 to host gateway-auth.cloudservices.dev.mylectra.com left intact\n",
+		"timestamp": 1684763772673
+	}
+]

@@ -1,0 +1,77 @@
+[
+	{
+		"value": "Preparing request to http://localhost:9080/api/software/lates",
+		"name": "Text",
+		"timestamp": 1679633168301
+	},
+	{
+		"value": "Current time is 2023-03-24T04:46:08.301Z",
+		"name": "Text",
+		"timestamp": 1679633168301
+	},
+	{
+		"value": "Enable automatic URL encoding",
+		"name": "Text",
+		"timestamp": 1679633168301
+	},
+	{
+		"value": "Using default HTTP version",
+		"name": "Text",
+		"timestamp": 1679633168302
+	},
+	{
+		"value": "Enable SSL validation",
+		"name": "Text",
+		"timestamp": 1679633168302
+	},
+	{
+		"name": "Text",
+		"value": "Too old connection (192 seconds), disconnect it\n",
+		"timestamp": 1679633168302
+	},
+	{
+		"name": "Text",
+		"value": "Connection 3 seems to be dead!\n",
+		"timestamp": 1679633168302
+	},
+	{
+		"name": "Text",
+		"value": "Closing connection 3\n",
+		"timestamp": 1679633168302
+	},
+	{
+		"name": "Text",
+		"value": "Hostname in DNS cache was stale, zapped\n",
+		"timestamp": 1679633168302
+	},
+	{
+		"name": "Text",
+		"value": "  Trying 127.0.0.1:9080...\n",
+		"timestamp": 1679633168302
+	},
+	{
+		"name": "Text",
+		"value": "connect to 127.0.0.1 port 9080 failed: Connexion refusée\n",
+		"timestamp": 1679633168302
+	},
+	{
+		"name": "Text",
+		"value": "  Trying ::1:9080...\n",
+		"timestamp": 1679633168302
+	},
+	{
+		"name": "Text",
+		"value": "Immediate connect fail for ::1: Ne peut attribuer l'adresse demandée\n",
+		"timestamp": 1679633168302
+	},
+	{
+		"name": "Text",
+		"value": "Failed to connect to localhost port 9080 after 0 ms: Connexion refusée\n",
+		"timestamp": 1679633168302
+	},
+	{
+		"name": "Text",
+		"value": "Closing connection 4\n",
+		"timestamp": 1679633168302
+	}
+]

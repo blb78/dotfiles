@@ -1,0 +1,25 @@
+[2023-05-23 09:39:12.110] [info]  Running version 2022.6.0
+[2023-05-23 09:39:12.128] [error] [electron client protocol] FAILED to set default protocol 'insomnia://'
+[2023-05-23 09:39:12.141] [info]  [electron client protocol] the current executable is not the default protocol for 'insomnia://'
+[2023-05-23 09:39:12.172] [info]  [electron client protocol] the default application set for 'insomnia://' is 'insomnia.desktop
+'
+[2023-05-23 09:39:12.424] [info]  [fix] Running database repairs
+[2023-05-23 09:39:12.472] [info]  [db] Initialized DB at /home/blebris/.config/Insomnia/insomnia.$TYPE.db
+[2023-05-23 09:39:12.473] [info]  [db] Init responses DB
+[2023-05-23 09:39:12.473] [info]  [db] Init websocket-responses DB
+[2023-05-23 09:39:12.476] [info]  [localstorage] Initialized at /home/blebris/.config/Insomnia/localStorage
+[2023-05-23 09:39:12.564] [info]  [main] Loading file:///opt/Insomnia/resources/app.asar/index.html
+[2023-05-23 09:39:13.076] [info]  [updater] Updater not running platform=linux dev=false
+[2023-05-23 09:39:35.844] [info]  [response] Delete body 
+[2023-05-23 09:39:35.846] [info]  [response] Delete timeline /home/blebris/.config/Insomnia/responses/e591ae9e-522f-4263-b114-06e778407518.timeline
+[2023-05-23 12:39:13.083] [info]  [updater] Updater not running platform=linux dev=false
+[2023-05-23 12:48:02.789] [info]  [response] Delete body /home/blebris/.config/Insomnia/responses/c23e1991-e7ce-4cca-89d6-56367780e614.response
+[2023-05-23 12:48:02.789] [info]  [response] Delete timeline /home/blebris/.config/Insomnia/responses/7c9d702f-9610-4dc7-a2cb-bc332426ffef.timeline
+[2023-05-23 12:50:04.361] [info]  [response] Delete body /home/blebris/.config/Insomnia/responses/47e0c782-1c0f-441b-a8de-9043c9a4f7a1.response
+[2023-05-23 12:50:04.362] [info]  [response] Delete timeline /home/blebris/.config/Insomnia/responses/3f048847-bbb3-4d6a-b7db-e8885f69fc78.timeline
+[2023-05-23 12:50:09.881] [info]  [response] Delete body /home/blebris/.config/Insomnia/responses/72d22b87-784e-4555-ab70-70f10a302862.response
+[2023-05-23 12:50:09.881] [info]  [response] Delete timeline /home/blebris/.config/Insomnia/responses/2864ffd1-aae5-40d2-8ee9-6f5f897ad51d.timeline
+[2023-05-23 12:50:11.944] [info]  [response] Delete body /home/blebris/.config/Insomnia/responses/1ef5e3f9-076e-49ef-9500-ba917f6fe5d5.response
+[2023-05-23 12:50:11.945] [info]  [response] Delete timeline /home/blebris/.config/Insomnia/responses/95a0cc54-b296-45cd-a5f0-752aca65d75c.timeline
+[2023-05-23 12:52:18.303] [info]  [response] Delete timeline /home/blebris/.config/Insomnia/responses/22732cc9-1336-48af-bc14-4b335cf582ae.timeline
+[2023-05-23 12:52:18.304] [info]  [response] Delete body /home/blebris/.config/Insomnia/responses/fe38bc1f-511f-41b1-a906-77a4651467e4.response

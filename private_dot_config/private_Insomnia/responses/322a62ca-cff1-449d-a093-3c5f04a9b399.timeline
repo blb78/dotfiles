@@ -1,0 +1,142 @@
+[
+	{
+		"value": "Preparing request to https://improve-cuttingroom.dev.mylectra.com/api/site-subscriptions?siteId=85ad28db-d775-4fa4-a361-06e9a22b5c06",
+		"name": "Text",
+		"timestamp": 1684760613903
+	},
+	{
+		"value": "Current time is 2023-05-22T13:03:33.903Z",
+		"name": "Text",
+		"timestamp": 1684760613903
+	},
+	{
+		"value": "Enable automatic URL encoding",
+		"name": "Text",
+		"timestamp": 1684760613903
+	},
+	{
+		"value": "Using default HTTP version",
+		"name": "Text",
+		"timestamp": 1684760613904
+	},
+	{
+		"value": "Enable SSL validation",
+		"name": "Text",
+		"timestamp": 1684760613904
+	},
+	{
+		"value": "Enable cookie sending with jar of 6 cookies",
+		"name": "Text",
+		"timestamp": 1684760613904
+	},
+	{
+		"name": "Text",
+		"value": "Found bundle for host improve-cuttingroom.dev.mylectra.com: 0x1f7803aa48a0 [can multiplex]\n",
+		"timestamp": 1684760613905
+	},
+	{
+		"name": "Text",
+		"value": "Re-using existing connection! (#5) with host improve-cuttingroom.dev.mylectra.com\n",
+		"timestamp": 1684760613905
+	},
+	{
+		"name": "Text",
+		"value": "Connected to improve-cuttingroom.dev.mylectra.com (20.56.190.42) port 443 (#5)\n",
+		"timestamp": 1684760613905
+	},
+	{
+		"name": "Text",
+		"value": "Using Stream ID: 3 (easy handle 0x1f7802cf9000)\n",
+		"timestamp": 1684760613905
+	},
+	{
+		"name": "HeaderOut",
+		"value": "GET /api/site-subscriptions?siteId=85ad28db-d775-4fa4-a361-06e9a22b5c06 HTTP/2\r\nHost: improve-cuttingroom.dev.mylectra.com\r\nuser-agent: insomnia/2022.6.0\r\nauthorization: Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Ik9EWTBSREJGTlVFM1JEVTVRVE13TVVRMk9EVXhRVFpCTkVRNU5qRTRPRUZETmprd09VVTRPQSJ9.eyJodHRwczovL21ldGFkYXRhLmxlY3RyYS5jb20iOnsic2l0ZXNQZXJtaXNzaW9ucyI6W3sic2l0ZUlkIjoiODVhZDI4ZGItZDc3NS00ZmE0LWEzNjEtMDZlOWEyMmI1YzA2IiwicGVybWlzc2lvbnMiOlsiQURNU1UiLCJBUElfTUdUIiwiQzEiLCJDMiIsIkMzIiwiQzQiLCJDNSIsIklNUFJPVkUiLCJLVUJJWCIsIk1BVF9NQU5BR0VSIiwiTU9EXzNEIiwiTU9EX0VYUCIsIk1ZX0NPTlRSQUNUUyIsIk5FVEVWRU4iLCJPRF9GQSIsIk9QRVgiLCJPUkRfRk9STSIsIk9SRF9NQU5BR0VSIiwiUEFUVEVSTl9FWFAiLCJQQ09OViIsIlBST0RfTUFOQUdFUiIsIlJFVFZJRVdTIiwiU1VQUE9SVCIsIlNZU19NQU5BR0VSIl19LHsic2l0ZUlkIjoiNDNkMmVlMWEtOGM5Yi00NTYyLWE3NmItZTViMzlhNmNmOWEzIiwicGVybWlzc2lvbnMiOlsiQURNU1UiLCJNQUlfTUFOQUdFUiJdfV0sInNpdGVJZCI6Ijg1YWQyOGRiLWQ3NzUtNGZhNC1hMzYxLTA2ZTlhMjJiNWMwNiIsInRlbmFudElkIjoiOWJkZmQyNTEtMWQ3Yi00MGYzLWI2ODktZmFkOTFkODYzOTllIiwidXNlcnNWaXNpYmlsaXR5IjoiU0lURSJ9LCJpc3MiOiJodHRwczovL2xvZ2luLmRldi5teWxlY3RyYS5jb20vIiwic3ViIjoiYXV0aDB8NjBjODk1M2VlNjViYjgwMDcwZTc1MWZhIiwiYXVkIjpbImh0dHBzOi8vZG93bmxvYWRjZW50ZXIuZGV2Lm15bGVjdHJhLmNvbSIsImh0dHBzOi8vZGV2LWxlY3RyYS1zZXJ2aWNlcy5ldS5hdXRoMC5jb20vdXNlcmluZm8iXSwiaWF0IjoxNjg0NzU4Mzc4LCJleHAiOjE2ODQ4NDQ3NzgsImF6cCI6IllXNXFLdXNhT2dpM1hpTjVYcHFHNm9mZEFBbmFsT3pkIiwic2NvcGUiOiJvcGVuaWQgcHJvZmlsZSBlbWFpbCJ9.UGOpHv1klYKC9kdd-rW6cTH5HtDb8q6DjRhx8Wy_CNc3AutNcSORqoeJ1MjEiQLdaYZvMmz4eoCQIN4ZjQcGGrlINyFR8xRgsTH-iVIWnoxgKthSh3XzmwltV9nlUtv75nEb20ZvBOs1TkSAjryW9T6X7xDbwovqAZ12j7QQGbuObhlXC9BzERKQuJi-UFJgOfTfy8I3eKpus7YDCrEthg5t6qycCZZn77_5JgepOExpJyCDHkU2UmQD0JwixrZOBR8wzeSjMhDCJHrtL17saAA7sXpV0fVESruO00E1GFHH2-hhA8wXDBXNFbjIZrET_RwKu4vFtASEqTPew_FfAw\r\naccept: */*\r\n\r\n",
+		"timestamp": 1684760613905
+	},
+	{
+		"name": "HeaderIn",
+		"value": "HTTP/2 401 \r\n",
+		"timestamp": 1684760613928
+	},
+	{
+		"name": "HeaderIn",
+		"value": "cache-control: no-cache, no-store, max-age=0, must-revalidate\r\n",
+		"timestamp": 1684760613928
+	},
+	{
+		"name": "HeaderIn",
+		"value": "content-security-policy: frame-ancestors 'none';\r\n",
+		"timestamp": 1684760613928
+	},
+	{
+		"name": "HeaderIn",
+		"value": "content-type: application/json\r\n",
+		"timestamp": 1684760613928
+	},
+	{
+		"name": "HeaderIn",
+		"value": "date: Mon, 22 May 2023 13:03:54 GMT\r\n",
+		"timestamp": 1684760613928
+	},
+	{
+		"name": "HeaderIn",
+		"value": "expires: 0\r\n",
+		"timestamp": 1684760613928
+	},
+	{
+		"name": "HeaderIn",
+		"value": "permissions-policy: fullscreen 'self';\r\n",
+		"timestamp": 1684760613928
+	},
+	{
+		"name": "HeaderIn",
+		"value": "pragma: no-cache\r\n",
+		"timestamp": 1684760613928
+	},
+	{
+		"name": "HeaderIn",
+		"value": "referrer-policy: strict-origin\r\n",
+		"timestamp": 1684760613928
+	},
+	{
+		"name": "HeaderIn",
+		"value": "server-timing: intid;desc=0acbebfa01e1904f\r\n",
+		"timestamp": 1684760613928
+	},
+	{
+		"name": "HeaderIn",
+		"value": "strict-transport-security: max-age=15724800; includeSubDomains\r\n",
+		"timestamp": 1684760613928
+	},
+	{
+		"name": "HeaderIn",
+		"value": "x-content-type-options: nosniff\r\n",
+		"timestamp": 1684760613928
+	},
+	{
+		"name": "HeaderIn",
+		"value": "x-frame-options: DENY\r\n",
+		"timestamp": 1684760613928
+	},
+	{
+		"name": "HeaderIn",
+		"value": "x-xss-protection: 1; mode=block\r\n",
+		"timestamp": 1684760613928
+	},
+	{
+		"name": "HeaderIn",
+		"value": "\r\n",
+		"timestamp": 1684760613928
+	},
+	{
+		"name": "Text",
+		"value": "Received 114 B chunk",
+		"timestamp": 1684760613929
+	},
+	{
+		"name": "Text",
+		"value": "Connection #5 to host improve-cuttingroom.dev.mylectra.com left intact\n",
+		"timestamp": 1684760613929
+	}
+]

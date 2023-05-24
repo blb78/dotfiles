@@ -1,0 +1,892 @@
+[
+	{
+		"value": "Preparing request to https://knowledgecentercms.test.mylectra.com/admin/login",
+		"name": "Text",
+		"timestamp": 1681224319236
+	},
+	{
+		"value": "Current time is 2023-04-11T14:45:19.236Z",
+		"name": "Text",
+		"timestamp": 1681224319236
+	},
+	{
+		"value": "Enable automatic URL encoding",
+		"name": "Text",
+		"timestamp": 1681224319236
+	},
+	{
+		"value": "Rejected cookie: Cookie not in this host's domain. Cookie:login.microsoftonline.com Request:knowledgecentercms.test.mylectra.com",
+		"name": "Text",
+		"timestamp": 1681224319734
+	},
+	{
+		"value": "Saved 7 cookies",
+		"name": "Text",
+		"timestamp": 1681224319737
+	},
+	{
+		"value": "Using default HTTP version",
+		"name": "Text",
+		"timestamp": 1681224319237
+	},
+	{
+		"value": "Enable SSL validation",
+		"name": "Text",
+		"timestamp": 1681224319237
+	},
+	{
+		"value": "Enable cookie sending with jar of 6 cookies",
+		"name": "Text",
+		"timestamp": 1681224319237
+	},
+	{
+		"name": "Text",
+		"value": "Too old connection (143 seconds), disconnect it\n",
+		"timestamp": 1681224319237
+	},
+	{
+		"name": "Text",
+		"value": "Connection 1 seems to be dead!\n",
+		"timestamp": 1681224319237
+	},
+	{
+		"name": "Text",
+		"value": "Closing connection 1\n",
+		"timestamp": 1681224319238
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (OUT), TLS alert, close notify (256):\n",
+		"timestamp": 1681224319238
+	},
+	{
+		"name": "Text",
+		"value": "Too old connection (142 seconds), disconnect it\n",
+		"timestamp": 1681224319239
+	},
+	{
+		"name": "Text",
+		"value": "Connection 2 seems to be dead!\n",
+		"timestamp": 1681224319239
+	},
+	{
+		"name": "Text",
+		"value": "Closing connection 2\n",
+		"timestamp": 1681224319239
+	},
+	{
+		"name": "Text",
+		"value": "Too old connection (143 seconds), disconnect it\n",
+		"timestamp": 1681224319240
+	},
+	{
+		"name": "Text",
+		"value": "Connection 0 seems to be dead!\n",
+		"timestamp": 1681224319240
+	},
+	{
+		"name": "Text",
+		"value": "Closing connection 0\n",
+		"timestamp": 1681224319240
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (OUT), TLS alert, close notify (256):\n",
+		"timestamp": 1681224319240
+	},
+	{
+		"name": "Text",
+		"value": "Hostname in DNS cache was stale, zapped\n",
+		"timestamp": 1681224319241
+	},
+	{
+		"name": "Text",
+		"value": "  Trying 20.76.121.40:443...\n",
+		"timestamp": 1681224319276
+	},
+	{
+		"name": "Text",
+		"value": "Connected to knowledgecentercms.test.mylectra.com (20.76.121.40) port 443 (#3)\n",
+		"timestamp": 1681224319296
+	},
+	{
+		"name": "Text",
+		"value": "ALPN, offering h2\n",
+		"timestamp": 1681224319296
+	},
+	{
+		"name": "Text",
+		"value": "ALPN, offering http/1.1\n",
+		"timestamp": 1681224319296
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (OUT), TLS handshake, Client hello (1):\n",
+		"timestamp": 1681224319302
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (IN), TLS handshake, Server hello (2):\n",
+		"timestamp": 1681224319323
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):\n",
+		"timestamp": 1681224319324
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (IN), TLS handshake, Certificate (11):\n",
+		"timestamp": 1681224319324
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (IN), TLS handshake, CERT verify (15):\n",
+		"timestamp": 1681224319324
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (IN), TLS handshake, Finished (20):\n",
+		"timestamp": 1681224319325
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (OUT), TLS change cipher, Change cipher spec (1):\n",
+		"timestamp": 1681224319325
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (OUT), TLS handshake, Finished (20):\n",
+		"timestamp": 1681224319325
+	},
+	{
+		"name": "Text",
+		"value": "SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256\n",
+		"timestamp": 1681224319325
+	},
+	{
+		"name": "Text",
+		"value": "ALPN, server accepted to use h2\n",
+		"timestamp": 1681224319325
+	},
+	{
+		"name": "Text",
+		"value": "Server certificate:\n",
+		"timestamp": 1681224319325
+	},
+	{
+		"name": "Text",
+		"value": " subject: CN=*.test.mylectra.com\n",
+		"timestamp": 1681224319325
+	},
+	{
+		"name": "Text",
+		"value": " start date: Mar 29 00:00:00 2023 GMT\n",
+		"timestamp": 1681224319325
+	},
+	{
+		"name": "Text",
+		"value": " expire date: Jun 27 23:59:59 2023 GMT\n",
+		"timestamp": 1681224319325
+	},
+	{
+		"name": "Text",
+		"value": " subjectAltName: host \"knowledgecentercms.test.mylectra.com\" matched cert's \"*.test.mylectra.com\"\n",
+		"timestamp": 1681224319325
+	},
+	{
+		"name": "Text",
+		"value": " issuer: C=AT; O=ZeroSSL; CN=ZeroSSL RSA Domain Secure Site CA\n",
+		"timestamp": 1681224319325
+	},
+	{
+		"name": "Text",
+		"value": " SSL certificate verify ok.\n",
+		"timestamp": 1681224319325
+	},
+	{
+		"name": "Text",
+		"value": "Using HTTP2, server supports multiplexing\n",
+		"timestamp": 1681224319325
+	},
+	{
+		"name": "Text",
+		"value": "Connection state changed (HTTP/2 confirmed)\n",
+		"timestamp": 1681224319325
+	},
+	{
+		"name": "Text",
+		"value": "Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0\n",
+		"timestamp": 1681224319325
+	},
+	{
+		"name": "Text",
+		"value": "Using Stream ID: 1 (easy handle 0x108002cf2800)\n",
+		"timestamp": 1681224319325
+	},
+	{
+		"name": "HeaderOut",
+		"value": "POST /admin/login HTTP/2\r\nHost: knowledgecentercms.test.mylectra.com\r\nuser-agent: insomnia/2022.6.0\r\ncookie: x-ms-gateway-slice=estsfd; stsservicecookie=estsfd; _pomerium_csrf=MTY4MTIyNDE4NXxJbW8wVDFvNU1uQlVTVE1yY1Rrd1RrZDFValIyTDNWS1JYaGpVSFkwUjA1SlowbERaSGx4Vm01UU1ITTlJZ289fMGXHhqvyahaEsx1Ch7H0LvGKXWg2k_TWzX4c7hALbaW; buid=0.AXkAlCTrFZhSR0OBo-LTwIoPghNaefCieM1Jpv0OYegt5xl5AAA.AQABAAEAAAD--DLA3VO7QrddgJg7Wevr3tWX4oeHkuAzWT3Aytj599lyRSFLBbJAe-CND2uC44kwC-8yybYlGIsaXkpYSK7s9PeNXpCfHBlr4OJ-P0I0Rd_iFHWvN6FzvCTCP0Ht8Y0gAA; fpc=Ap2lS6z_NopEpx8lPTY2meyNqYUGAQAAAPlox9sOAAAA\r\ncontent-type: application/json\r\naccept: */*\r\ncontent-length: 107\r\n\r\n",
+		"timestamp": 1681224319325
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (IN), TLS handshake, Newsession Ticket (4):\n",
+		"timestamp": 1681224319325
+	},
+	{
+		"name": "DataOut",
+		"value": "{\"email\": \"admin@lectra.fr\", \"password\":\"VBETBNMTL2d67GRHa6iq3zRZEhjdPiRcgaFt2CKCbEN5YZ9gqaRsiSab32fftDnE\"}",
+		"timestamp": 1681224319325
+	},
+	{
+		"name": "Text",
+		"value": "We are completely uploaded and fine\n",
+		"timestamp": 1681224319325
+	},
+	{
+		"name": "Text",
+		"value": "Connection state changed (MAX_CONCURRENT_STREAMS == 250)!\n",
+		"timestamp": 1681224319344
+	},
+	{
+		"name": "HeaderIn",
+		"value": "HTTP/2 302 \r\n",
+		"timestamp": 1681224319355
+	},
+	{
+		"name": "HeaderIn",
+		"value": "content-type: text/html; charset=UTF-8\r\n",
+		"timestamp": 1681224319355
+	},
+	{
+		"name": "HeaderIn",
+		"value": "date: Tue, 11 Apr 2023 14:45:29 GMT\r\n",
+		"timestamp": 1681224319355
+	},
+	{
+		"name": "HeaderIn",
+		"value": "location: https://aks15-euw-main-pomerium-auth.infra.mylectra.com/.pomerium/sign_in?pomerium_expiry=1681224629&pomerium_issued=1681224329&pomerium_redirect_uri=https%3A%2F%2Fknowledgecentercms.test.mylectra.com%2Fadmin%2Flogin&pomerium_signature=gU56mh9HMT4yHSZ3XcP2y52JeaqMR1XpF4OIuh1FAco%3D\r\n",
+		"timestamp": 1681224319355
+	},
+	{
+		"name": "HeaderIn",
+		"value": "server: envoy\r\n",
+		"timestamp": 1681224319355
+	},
+	{
+		"name": "HeaderIn",
+		"value": "strict-transport-security: max-age=15724800; includeSubDomains\r\n",
+		"timestamp": 1681224319355
+	},
+	{
+		"name": "HeaderIn",
+		"value": "x-frame-options: DENY\r\n",
+		"timestamp": 1681224319355
+	},
+	{
+		"name": "HeaderIn",
+		"value": "x-pomerium-intercepted-response: true\r\n",
+		"timestamp": 1681224319355
+	},
+	{
+		"name": "HeaderIn",
+		"value": "x-xss-protection: 1; mode=block\r\n",
+		"timestamp": 1681224319355
+	},
+	{
+		"name": "HeaderIn",
+		"value": "content-length: 10665\r\n",
+		"timestamp": 1681224319355
+	},
+	{
+		"name": "HeaderIn",
+		"value": "\r\n",
+		"timestamp": 1681224319355
+	},
+	{
+		"name": "Text",
+		"value": "Ignoring the response-body\n",
+		"timestamp": 1681224319355
+	},
+	{
+		"name": "Text",
+		"value": "Received 4.6 KB chunk",
+		"timestamp": 1681224319355
+	},
+	{
+		"name": "Text",
+		"value": "Received 5.8 KB chunk",
+		"timestamp": 1681224319364
+	},
+	{
+		"name": "Text",
+		"value": "Connection #3 to host knowledgecentercms.test.mylectra.com left intact\n",
+		"timestamp": 1681224319364
+	},
+	{
+		"name": "Text",
+		"value": "Issue another request to this URL: 'https://aks15-euw-main-pomerium-auth.infra.mylectra.com/.pomerium/sign_in?pomerium_expiry=1681224629&pomerium_issued=1681224329&pomerium_redirect_uri=https%3A%2F%2Fknowledgecentercms.test.mylectra.com%2Fadmin%2Flogin&pomerium_signature=gU56mh9HMT4yHSZ3XcP2y52JeaqMR1XpF4OIuh1FAco%3D'\n",
+		"timestamp": 1681224319364
+	},
+	{
+		"name": "Text",
+		"value": "Switch from POST to GET\n",
+		"timestamp": 1681224319364
+	},
+	{
+		"name": "Text",
+		"value": "  Trying 20.50.185.182:443...\n",
+		"timestamp": 1681224319369
+	},
+	{
+		"name": "Text",
+		"value": "Connected to aks15-euw-main-pomerium-auth.infra.mylectra.com (20.50.185.182) port 443 (#4)\n",
+		"timestamp": 1681224319391
+	},
+	{
+		"name": "Text",
+		"value": "ALPN, offering h2\n",
+		"timestamp": 1681224319391
+	},
+	{
+		"name": "Text",
+		"value": "ALPN, offering http/1.1\n",
+		"timestamp": 1681224319391
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (OUT), TLS handshake, Client hello (1):\n",
+		"timestamp": 1681224319407
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (IN), TLS handshake, Server hello (2):\n",
+		"timestamp": 1681224319431
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):\n",
+		"timestamp": 1681224319431
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (IN), TLS handshake, Certificate (11):\n",
+		"timestamp": 1681224319431
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (IN), TLS handshake, CERT verify (15):\n",
+		"timestamp": 1681224319432
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (IN), TLS handshake, Finished (20):\n",
+		"timestamp": 1681224319432
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (OUT), TLS change cipher, Change cipher spec (1):\n",
+		"timestamp": 1681224319432
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (OUT), TLS handshake, Finished (20):\n",
+		"timestamp": 1681224319432
+	},
+	{
+		"name": "Text",
+		"value": "SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256\n",
+		"timestamp": 1681224319432
+	},
+	{
+		"name": "Text",
+		"value": "ALPN, server accepted to use h2\n",
+		"timestamp": 1681224319432
+	},
+	{
+		"name": "Text",
+		"value": "Server certificate:\n",
+		"timestamp": 1681224319432
+	},
+	{
+		"name": "Text",
+		"value": " subject: CN=*.infra.mylectra.com\n",
+		"timestamp": 1681224319432
+	},
+	{
+		"name": "Text",
+		"value": " start date: Mar 28 00:00:00 2023 GMT\n",
+		"timestamp": 1681224319432
+	},
+	{
+		"name": "Text",
+		"value": " expire date: Jun 26 23:59:59 2023 GMT\n",
+		"timestamp": 1681224319432
+	},
+	{
+		"name": "Text",
+		"value": " subjectAltName: host \"aks15-euw-main-pomerium-auth.infra.mylectra.com\" matched cert's \"*.infra.mylectra.com\"\n",
+		"timestamp": 1681224319432
+	},
+	{
+		"name": "Text",
+		"value": " issuer: C=AT; O=ZeroSSL; CN=ZeroSSL RSA Domain Secure Site CA\n",
+		"timestamp": 1681224319432
+	},
+	{
+		"name": "Text",
+		"value": " SSL certificate verify ok.\n",
+		"timestamp": 1681224319432
+	},
+	{
+		"name": "Text",
+		"value": "Using HTTP2, server supports multiplexing\n",
+		"timestamp": 1681224319432
+	},
+	{
+		"name": "Text",
+		"value": "Connection state changed (HTTP/2 confirmed)\n",
+		"timestamp": 1681224319432
+	},
+	{
+		"name": "Text",
+		"value": "Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0\n",
+		"timestamp": 1681224319432
+	},
+	{
+		"name": "Text",
+		"value": "Using Stream ID: 1 (easy handle 0x108002cf2800)\n",
+		"timestamp": 1681224319432
+	},
+	{
+		"name": "HeaderOut",
+		"value": "GET /.pomerium/sign_in?pomerium_expiry=1681224629&pomerium_issued=1681224329&pomerium_redirect_uri=https%3A%2F%2Fknowledgecentercms.test.mylectra.com%2Fadmin%2Flogin&pomerium_signature=gU56mh9HMT4yHSZ3XcP2y52JeaqMR1XpF4OIuh1FAco%3D HTTP/2\r\nHost: aks15-euw-main-pomerium-auth.infra.mylectra.com\r\nuser-agent: insomnia/2022.6.0\r\ncontent-type: application/json\r\naccept: */*\r\n\r\n",
+		"timestamp": 1681224319432
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (IN), TLS handshake, Newsession Ticket (4):\n",
+		"timestamp": 1681224319432
+	},
+	{
+		"name": "Text",
+		"value": "Connection state changed (MAX_CONCURRENT_STREAMS == 250)!\n",
+		"timestamp": 1681224319452
+	},
+	{
+		"name": "HeaderIn",
+		"value": "HTTP/2 302 \r\n",
+		"timestamp": 1681224319458
+	},
+	{
+		"name": "HeaderIn",
+		"value": "content-security-policy: default-src 'none'; style-src 'self' data:; img-src * data:;\r\n",
+		"timestamp": 1681224319458
+	},
+	{
+		"name": "HeaderIn",
+		"value": "content-type: text/html; charset=utf-8\r\n",
+		"timestamp": 1681224319458
+	},
+	{
+		"name": "HeaderIn",
+		"value": "date: Tue, 11 Apr 2023 14:45:29 GMT\r\n",
+		"timestamp": 1681224319459
+	},
+	{
+		"name": "HeaderIn",
+		"value": "location: https://login.microsoftonline.com/15eb2494-5298-4347-81a3-e2d3c08a0f82/oauth2/v2.0/authorize?access_type=offline&client_id=f0795a13-78a2-49cd-a6fd-0e61e82de719&prompt=select_account&redirect_uri=https%3A%2F%2Faks15-euw-main-pomerium-auth.infra.mylectra.com%2Foauth2%2Fcallback&response_type=code&scope=openid+profile+email+offline_access&state=T0tLZlVyalhMOTdmdVAxZmJXdU10dDB5QWNpbVJoZkhlZGFUakc3S25ycHIvakRXQll1L0dEaUZJWGNFcnJtd3dIM0NDbktMYlFxY25Gbkpmckk0dVE9PXwxNjgxMjI0MzI5fBEYx_kWe-5i01hdG3e-lxa120Edv3Mv4B9Qs_cOnytpnPUZg_I_KYYQIym3nOcoxaOdOz1AmFhpNkZ5aNfhe2FcivvO9BtU0rDdtZQTguQLwB2FeU8VAdH8J-VFee30L4xXAYeS_Fcm5CXYDOwAlTH3al_TLopc8L3mHp1DLgYVZ_aqaPS1CQ53HCerI1FsLLGMCF-9SEpp1-ljRha0uFPXY6dNyw7ziFTv2-yf0ini8dExWGF3WG5528XJ9LRKer8ukWXEBBebdGg3vaXY9QpUr8wU-0ZiYXaq8NfT-YwdZAiQMz3fO2JcmniUg563OV0bVZbyHYAoC4kQluKDL35jV3h5Y3HPsWAw3S3B4Ebr9uKSUGbE_rAL8ZGshdU6VblkUHk-WZJE6JGXYK67kqmUZzXiyN3829xHtfiKq938IIk%3D\r\n",
+		"timestamp": 1681224319459
+	},
+	{
+		"name": "HeaderIn",
+		"value": "referrer-policy: Same-origin\r\n",
+		"timestamp": 1681224319459
+	},
+	{
+		"name": "HeaderIn",
+		"value": "server: envoy\r\n",
+		"timestamp": 1681224319459
+	},
+	{
+		"name": "HeaderIn",
+		"value": "set-cookie: _pomerium_csrf=MTY4MTIyNDMyOXxJbFV4ZVhab1RERmphMDFpYmxCa2QyOWhZMVV4UW1neFVIYzRURlY2V0hKT05WVnlTMUpTUWpSd1owMDlJZ289fO-RjLA_CuNNVRaJJP03AbJb606DMs_YKxK6-QzYjT6T; Path=/; Expires=Wed, 12 Apr 2023 02:45:29 GMT; Max-Age=43200; HttpOnly; Secure; SameSite=Lax\r\n",
+		"timestamp": 1681224319459
+	},
+	{
+		"name": "HeaderIn",
+		"value": "set-cookie: _pomerium=; Path=/; Expires=Tue, 11 Apr 2023 13:45:29 GMT; Max-Age=0; HttpOnly; Secure\r\n",
+		"timestamp": 1681224319459
+	},
+	{
+		"name": "HeaderIn",
+		"value": "strict-transport-security: max-age=15724800; includeSubDomains\r\n",
+		"timestamp": 1681224319459
+	},
+	{
+		"name": "HeaderIn",
+		"value": "vary: Cookie,Origin\r\n",
+		"timestamp": 1681224319459
+	},
+	{
+		"name": "HeaderIn",
+		"value": "x-envoy-upstream-service-time: 0\r\n",
+		"timestamp": 1681224319459
+	},
+	{
+		"name": "HeaderIn",
+		"value": "x-frame-options: DENY\r\n",
+		"timestamp": 1681224319459
+	},
+	{
+		"name": "HeaderIn",
+		"value": "x-pomerium-intercepted-response: true\r\n",
+		"timestamp": 1681224319459
+	},
+	{
+		"name": "HeaderIn",
+		"value": "x-xss-protection: 1; mode=block\r\n",
+		"timestamp": 1681224319459
+	},
+	{
+		"name": "HeaderIn",
+		"value": "content-length: 957\r\n",
+		"timestamp": 1681224319459
+	},
+	{
+		"name": "HeaderIn",
+		"value": "\r\n",
+		"timestamp": 1681224319459
+	},
+	{
+		"name": "Text",
+		"value": "Ignoring the response-body\n",
+		"timestamp": 1681224319459
+	},
+	{
+		"name": "Text",
+		"value": "Received 957 B chunk",
+		"timestamp": 1681224319459
+	},
+	{
+		"name": "Text",
+		"value": "Connection #4 to host aks15-euw-main-pomerium-auth.infra.mylectra.com left intact\n",
+		"timestamp": 1681224319459
+	},
+	{
+		"name": "Text",
+		"value": "Issue another request to this URL: 'https://login.microsoftonline.com/15eb2494-5298-4347-81a3-e2d3c08a0f82/oauth2/v2.0/authorize?access_type=offline&client_id=f0795a13-78a2-49cd-a6fd-0e61e82de719&prompt=select_account&redirect_uri=https%3A%2F%2Faks15-euw-main-pomerium-auth.infra.mylectra.com%2Foauth2%2Fcallback&response_type=code&scope=openid+profile+email+offline_access&state=T0tLZlVyalhMOTdmdVAxZmJXdU10dDB5QWNpbVJoZkhlZGFUakc3S25ycHIvakRXQll1L0dEaUZJWGNFcnJtd3dIM0NDbktMYlFxY25Gbkpmckk0dVE9PXwxNjgxMjI0MzI5fBEYx_kWe-5i01hdG3e-lxa120Edv3Mv4B9Qs_cOnytpnPUZg_I_KYYQIym3nOcoxaOdOz1AmFhpNkZ5aNfhe2FcivvO9BtU0rDdtZQTguQLwB2FeU8VAdH8J-VFee30L4xXAYeS_Fcm5CXYDOwAlTH3al_TLopc8L3mHp1DLgYVZ_aqaPS1CQ53HCerI1FsLLGMCF-9SEpp1-ljRha0uFPXY6dNyw7ziFTv2-yf0ini8dExWGF3WG5528XJ9LRKer8ukWXEBBebdGg3vaXY9QpUr8wU-0ZiYXaq8NfT-YwdZAiQMz3fO2JcmniUg563OV0bVZbyHYAoC4kQluKDL35jV3h5Y3HPsWAw3S3B4Ebr9uKSUGbE_rAL8ZGshdU6VblkUHk-WZJE6JGXYK67kqmUZzXiyN3829xHtfiKq938IIk%3D'\n",
+		"timestamp": 1681224319459
+	},
+	{
+		"name": "Text",
+		"value": "  Trying 40.126.32.76:443...\n",
+		"timestamp": 1681224319479
+	},
+	{
+		"name": "Text",
+		"value": "Connected to login.microsoftonline.com (40.126.32.76) port 443 (#5)\n",
+		"timestamp": 1681224319499
+	},
+	{
+		"name": "Text",
+		"value": "ALPN, offering h2\n",
+		"timestamp": 1681224319499
+	},
+	{
+		"name": "Text",
+		"value": "ALPN, offering http/1.1\n",
+		"timestamp": 1681224319499
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (OUT), TLS handshake, Client hello (1):\n",
+		"timestamp": 1681224319509
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (IN), TLS handshake, Server hello (2):\n",
+		"timestamp": 1681224319529
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (IN), TLS handshake, Certificate (11):\n",
+		"timestamp": 1681224319529
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (IN), TLS handshake, Server key exchange (12):\n",
+		"timestamp": 1681224319529
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (IN), TLS handshake, Server finished (14):\n",
+		"timestamp": 1681224319529
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (OUT), TLS handshake, Client key exchange (16):\n",
+		"timestamp": 1681224319533
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):\n",
+		"timestamp": 1681224319533
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (OUT), TLS handshake, Finished (20):\n",
+		"timestamp": 1681224319533
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (IN), TLS handshake, Finished (20):\n",
+		"timestamp": 1681224319553
+	},
+	{
+		"name": "Text",
+		"value": "SSL connection using TLSv1.2 / ECDHE-RSA-AES256-GCM-SHA384\n",
+		"timestamp": 1681224319553
+	},
+	{
+		"name": "Text",
+		"value": "ALPN, server did not agree to a protocol\n",
+		"timestamp": 1681224319553
+	},
+	{
+		"name": "Text",
+		"value": "Server certificate:\n",
+		"timestamp": 1681224319553
+	},
+	{
+		"name": "Text",
+		"value": " subject: C=US; ST=Washington; L=Redmond; O=Microsoft Corporation; CN=stamp2.login.microsoftonline.com\n",
+		"timestamp": 1681224319553
+	},
+	{
+		"name": "Text",
+		"value": " start date: Feb 24 00:00:00 2023 GMT\n",
+		"timestamp": 1681224319553
+	},
+	{
+		"name": "Text",
+		"value": " expire date: Feb 24 23:59:59 2024 GMT\n",
+		"timestamp": 1681224319553
+	},
+	{
+		"name": "Text",
+		"value": " subjectAltName: host \"login.microsoftonline.com\" matched cert's \"login.microsoftonline.com\"\n",
+		"timestamp": 1681224319553
+	},
+	{
+		"name": "Text",
+		"value": " issuer: C=US; O=DigiCert Inc; CN=DigiCert SHA2 Secure Server CA\n",
+		"timestamp": 1681224319553
+	},
+	{
+		"name": "Text",
+		"value": " SSL certificate verify ok.\n",
+		"timestamp": 1681224319553
+	},
+	{
+		"name": "HeaderOut",
+		"value": "GET /15eb2494-5298-4347-81a3-e2d3c08a0f82/oauth2/v2.0/authorize?access_type=offline&client_id=f0795a13-78a2-49cd-a6fd-0e61e82de719&prompt=select_account&redirect_uri=https%3A%2F%2Faks15-euw-main-pomerium-auth.infra.mylectra.com%2Foauth2%2Fcallback&response_type=code&scope=openid+profile+email+offline_access&state=T0tLZlVyalhMOTdmdVAxZmJXdU10dDB5QWNpbVJoZkhlZGFUakc3S25ycHIvakRXQll1L0dEaUZJWGNFcnJtd3dIM0NDbktMYlFxY25Gbkpmckk0dVE9PXwxNjgxMjI0MzI5fBEYx_kWe-5i01hdG3e-lxa120Edv3Mv4B9Qs_cOnytpnPUZg_I_KYYQIym3nOcoxaOdOz1AmFhpNkZ5aNfhe2FcivvO9BtU0rDdtZQTguQLwB2FeU8VAdH8J-VFee30L4xXAYeS_Fcm5CXYDOwAlTH3al_TLopc8L3mHp1DLgYVZ_aqaPS1CQ53HCerI1FsLLGMCF-9SEpp1-ljRha0uFPXY6dNyw7ziFTv2-yf0ini8dExWGF3WG5528XJ9LRKer8ukWXEBBebdGg3vaXY9QpUr8wU-0ZiYXaq8NfT-YwdZAiQMz3fO2JcmniUg563OV0bVZbyHYAoC4kQluKDL35jV3h5Y3HPsWAw3S3B4Ebr9uKSUGbE_rAL8ZGshdU6VblkUHk-WZJE6JGXYK67kqmUZzXiyN3829xHtfiKq938IIk%3D HTTP/1.1\r\nHost: login.microsoftonline.com\r\nUser-Agent: insomnia/2022.6.0\r\nContent-Type: application/json\r\nAccept: */*\r\n\r\n",
+		"timestamp": 1681224319553
+	},
+	{
+		"name": "Text",
+		"value": "Mark bundle as not supporting multiuse\n",
+		"timestamp": 1681224319660
+	},
+	{
+		"name": "HeaderIn",
+		"value": "HTTP/1.1 200 OK\r\n",
+		"timestamp": 1681224319660
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Cache-Control: no-store, no-cache\r\n",
+		"timestamp": 1681224319661
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Pragma: no-cache\r\n",
+		"timestamp": 1681224319661
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Content-Type: text/html; charset=utf-8\r\n",
+		"timestamp": 1681224319661
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Expires: -1\r\n",
+		"timestamp": 1681224319661
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Strict-Transport-Security: max-age=31536000; includeSubDomains\r\n",
+		"timestamp": 1681224319661
+	},
+	{
+		"name": "HeaderIn",
+		"value": "X-Content-Type-Options: nosniff\r\n",
+		"timestamp": 1681224319661
+	},
+	{
+		"name": "HeaderIn",
+		"value": "X-Frame-Options: DENY\r\n",
+		"timestamp": 1681224319661
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Link: <https://aadcdn.msauth.net>; rel=preconnect; crossorigin\r\n",
+		"timestamp": 1681224319661
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Link: <https://aadcdn.msauth.net>; rel=dns-prefetch\r\n",
+		"timestamp": 1681224319661
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Link: <https://aadcdn.msftauth.net>; rel=dns-prefetch\r\n",
+		"timestamp": 1681224319661
+	},
+	{
+		"name": "HeaderIn",
+		"value": "X-DNS-Prefetch-Control: on\r\n",
+		"timestamp": 1681224319661
+	},
+	{
+		"name": "HeaderIn",
+		"value": "P3P: CP=\"DSP CUR OTPi IND OTRi ONL FIN\"\r\n",
+		"timestamp": 1681224319661
+	},
+	{
+		"name": "HeaderIn",
+		"value": "x-ms-request-id: f6bec9c7-9a20-457e-a68c-662553f42200\r\n",
+		"timestamp": 1681224319661
+	},
+	{
+		"name": "HeaderIn",
+		"value": "x-ms-ests-server: 2.1.15049.4 - WEULR1 ProdSlices\r\n",
+		"timestamp": 1681224319661
+	},
+	{
+		"name": "HeaderIn",
+		"value": "X-XSS-Protection: 0\r\n",
+		"timestamp": 1681224319661
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Set-Cookie: buid=0.AXkAlCTrFZhSR0OBo-LTwIoPghNaefCieM1Jpv0OYegt5xl5AAA.AQABAAEAAAD--DLA3VO7QrddgJg7WevrlWTRfD1qAsJAUtkl5G6GNe4NPGjjGBh8UwrJEPmxZE8VtkMF5FoK5GT4qd73Dx6CPc_G7952C49fgu-4qgiYBO5nwxgmz9LHYGao6WrE88AgAA; expires=Thu, 11-May-2023 14:45:29 GMT; path=/; secure; HttpOnly; SameSite=None\r\n",
+		"timestamp": 1681224319661
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Set-Cookie: esctx=PAQABAAEAAAD--DLA3VO7QrddgJg7Wevri-EarRDXfFluUjOxAbO1FVDfuhLdsoxU8kgxH_ncG3VNBCq7SlFM14eS5PZhsNyxcEBrrJ4R3RVlIMpqD0oeuCO6A8Dy8YkAR14HnAjhxh9ibh1NLSLxzMedUlTVhKVvgh8NvAxQD66GJZ_tG6WIk9fV8pBKegRpoWQBLjE-bW0D_GmZQ5YwNzgRkHjMdKnQnuC64VUVHhwAvAlXmhYByoXTeCofdwO5Yot1OMKo7c8gAA; domain=.login.microsoftonline.com; path=/; secure; HttpOnly; SameSite=None\r\n",
+		"timestamp": 1681224319661
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Set-Cookie: fpc=AgO_0lnLI6dNpY4WnIG-_vCNqYUGAQAAAIlpx9sOAAAA; expires=Thu, 11-May-2023 14:45:29 GMT; path=/; secure; HttpOnly; SameSite=None\r\n",
+		"timestamp": 1681224319661
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Set-Cookie: x-ms-gateway-slice=estsfd; path=/; secure; samesite=none; httponly\r\n",
+		"timestamp": 1681224319661
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Set-Cookie: stsservicecookie=estsfd; path=/; secure; samesite=none; httponly\r\n",
+		"timestamp": 1681224319661
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Date: Tue, 11 Apr 2023 14:45:28 GMT\r\n",
+		"timestamp": 1681224319661
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Content-Length: 204252\r\n",
+		"timestamp": 1681224319661
+	},
+	{
+		"name": "HeaderIn",
+		"value": "\r\n",
+		"timestamp": 1681224319661
+	},
+	{
+		"name": "Text",
+		"value": "Received 14.4 KB chunk",
+		"timestamp": 1681224319661
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1681224319679
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1681224319680
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1681224319698
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1681224319699
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1681224319700
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1681224319715
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1681224319716
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1681224319717
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1681224319719
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1681224319720
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1681224319721
+	},
+	{
+		"name": "Text",
+		"value": "Received 9.1 KB chunk",
+		"timestamp": 1681224319722
+	},
+	{
+		"name": "Text",
+		"value": "Connection #5 to host login.microsoftonline.com left intact\n",
+		"timestamp": 1681224319722
+	}
+]

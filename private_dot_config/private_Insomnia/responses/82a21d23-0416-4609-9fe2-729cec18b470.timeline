@@ -1,0 +1,147 @@
+[
+	{
+		"value": "Preparing request to https://downloadagent-api.cloudservices.dev.mylectra.com/api/software/latest",
+		"name": "Text",
+		"timestamp": 1684758201944
+	},
+	{
+		"value": "Current time is 2023-05-22T12:23:21.944Z",
+		"name": "Text",
+		"timestamp": 1684758201944
+	},
+	{
+		"value": "Enable automatic URL encoding",
+		"name": "Text",
+		"timestamp": 1684758201944
+	},
+	{
+		"value": "Using default HTTP version",
+		"name": "Text",
+		"timestamp": 1684758201945
+	},
+	{
+		"value": "Enable SSL validation",
+		"name": "Text",
+		"timestamp": 1684758201945
+	},
+	{
+		"value": "Enable cookie sending with jar of 6 cookies",
+		"name": "Text",
+		"timestamp": 1684758201945
+	},
+	{
+		"name": "Text",
+		"value": "Found bundle for host downloadagent-api.cloudservices.dev.mylectra.com: 0x1f7803aa70c0 [can multiplex]\n",
+		"timestamp": 1684758201946
+	},
+	{
+		"name": "Text",
+		"value": "Re-using existing connection! (#2) with host downloadagent-api.cloudservices.dev.mylectra.com\n",
+		"timestamp": 1684758201946
+	},
+	{
+		"name": "Text",
+		"value": "Connected to downloadagent-api.cloudservices.dev.mylectra.com (20.56.190.42) port 443 (#2)\n",
+		"timestamp": 1684758201946
+	},
+	{
+		"name": "Text",
+		"value": "Using Stream ID: 3 (easy handle 0x1f7802cf9000)\n",
+		"timestamp": 1684758201946
+	},
+	{
+		"name": "HeaderOut",
+		"value": "GET /api/software/latest HTTP/2\r\nHost: downloadagent-api.cloudservices.dev.mylectra.com\r\nuser-agent: insomnia/2022.6.0\r\ncontent-type: application/json\r\naccept: */*\r\ncontent-length: 119\r\n\r\n",
+		"timestamp": 1684758201946
+	},
+	{
+		"name": "DataOut",
+		"value": "{\"event\": \"event\",\"level\":\"debug\",\"timestamp\": \"2023-03-31T09:57:00.779+00:00\",\"message\":\"message\",\"instanceId\":\"1234\"}",
+		"timestamp": 1684758201946
+	},
+	{
+		"name": "Text",
+		"value": "We are completely uploaded and fine\n",
+		"timestamp": 1684758201946
+	},
+	{
+		"name": "HeaderIn",
+		"value": "HTTP/2 401 \r\n",
+		"timestamp": 1684758201998
+	},
+	{
+		"name": "HeaderIn",
+		"value": "cache-control: no-cache, no-store, max-age=0, must-revalidate\r\n",
+		"timestamp": 1684758201998
+	},
+	{
+		"name": "HeaderIn",
+		"value": "content-security-policy: frame-ancestors 'none';\r\n",
+		"timestamp": 1684758201998
+	},
+	{
+		"name": "HeaderIn",
+		"value": "content-type: application/json\r\n",
+		"timestamp": 1684758201998
+	},
+	{
+		"name": "HeaderIn",
+		"value": "date: Mon, 22 May 2023 12:23:42 GMT\r\n",
+		"timestamp": 1684758201998
+	},
+	{
+		"name": "HeaderIn",
+		"value": "expires: 0\r\n",
+		"timestamp": 1684758201998
+	},
+	{
+		"name": "HeaderIn",
+		"value": "feature-policy: fullscreen 'self';\r\n",
+		"timestamp": 1684758201998
+	},
+	{
+		"name": "HeaderIn",
+		"value": "pragma: no-cache\r\n",
+		"timestamp": 1684758201998
+	},
+	{
+		"name": "HeaderIn",
+		"value": "referrer-policy: strict-origin\r\n",
+		"timestamp": 1684758201998
+	},
+	{
+		"name": "HeaderIn",
+		"value": "strict-transport-security: max-age=15724800; includeSubDomains\r\n",
+		"timestamp": 1684758201998
+	},
+	{
+		"name": "HeaderIn",
+		"value": "x-content-type-options: nosniff\r\n",
+		"timestamp": 1684758201998
+	},
+	{
+		"name": "HeaderIn",
+		"value": "x-frame-options: DENY\r\n",
+		"timestamp": 1684758201998
+	},
+	{
+		"name": "HeaderIn",
+		"value": "x-xss-protection: 1; mode=block\r\n",
+		"timestamp": 1684758201998
+	},
+	{
+		"name": "HeaderIn",
+		"value": "\r\n",
+		"timestamp": 1684758201998
+	},
+	{
+		"name": "Text",
+		"value": "Received 111 B chunk",
+		"timestamp": 1684758201998
+	},
+	{
+		"name": "Text",
+		"value": "Connection #2 to host downloadagent-api.cloudservices.dev.mylectra.com left intact\n",
+		"timestamp": 1684758201999
+	}
+]

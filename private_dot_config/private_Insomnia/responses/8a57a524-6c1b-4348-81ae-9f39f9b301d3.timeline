@@ -1,0 +1,137 @@
+[
+	{
+		"value": "Preparing request to http://localhost:1337/onboardings/codes/QUICK_OFFER%2FAU%2FRETVIEWS/locales/en-US",
+		"name": "Text",
+		"timestamp": 1670924633325
+	},
+	{
+		"value": "Current time is 2022-12-13T09:43:53.325Z",
+		"name": "Text",
+		"timestamp": 1670924633325
+	},
+	{
+		"value": "Enable automatic URL encoding",
+		"name": "Text",
+		"timestamp": 1670924633325
+	},
+	{
+		"value": "Using default HTTP version",
+		"name": "Text",
+		"timestamp": 1670924633327
+	},
+	{
+		"value": "Enable SSL validation",
+		"name": "Text",
+		"timestamp": 1670924633327
+	},
+	{
+		"name": "Text",
+		"value": "Too old connection (459 seconds), disconnect it\n",
+		"timestamp": 1670924633327
+	},
+	{
+		"name": "Text",
+		"value": "Connection 7 seems to be dead!\n",
+		"timestamp": 1670924633327
+	},
+	{
+		"name": "Text",
+		"value": "Closing connection 7\n",
+		"timestamp": 1670924633327
+	},
+	{
+		"name": "Text",
+		"value": "Hostname in DNS cache was stale, zapped\n",
+		"timestamp": 1670924633327
+	},
+	{
+		"name": "Text",
+		"value": "  Trying 127.0.0.1:1337...\n",
+		"timestamp": 1670924633327
+	},
+	{
+		"name": "Text",
+		"value": "Connected to localhost (127.0.0.1) port 1337 (#8)\n",
+		"timestamp": 1670924633327
+	},
+	{
+		"name": "HeaderOut",
+		"value": "GET /onboardings/codes/QUICK_OFFER%2FAU%2FRETVIEWS/locales/en-US HTTP/1.1\r\nHost: localhost:1337\r\nUser-Agent: insomnia/2022.6.0\r\nContent-Type: application/json\r\nAuthorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiaWF0IjoxNjcwOTIzOTgzLCJleHAiOjE2NzM1MTU5ODN9.N6BDtXwAeDrhNs-LeFzwvUImnWbhQx58kwbXJo_Hgco\r\nAccept: */*\r\n\r\n",
+		"timestamp": 1670924633327
+	},
+	{
+		"name": "Text",
+		"value": "Mark bundle as not supporting multiuse\n",
+		"timestamp": 1670924633408
+	},
+	{
+		"name": "HeaderIn",
+		"value": "HTTP/1.1 200 OK\r\n",
+		"timestamp": 1670924633408
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Vary: Origin\r\n",
+		"timestamp": 1670924633408
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Strict-Transport-Security: max-age=31536000; includeSubDomains\r\n",
+		"timestamp": 1670924633408
+	},
+	{
+		"name": "HeaderIn",
+		"value": "X-Frame-Options: SAMEORIGIN\r\n",
+		"timestamp": 1670924633408
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Content-Type: application/json; charset=utf-8\r\n",
+		"timestamp": 1670924633408
+	},
+	{
+		"name": "HeaderIn",
+		"value": "X-Response-Time: 74ms\r\n",
+		"timestamp": 1670924633408
+	},
+	{
+		"name": "HeaderIn",
+		"value": "X-Powered-By: Strapi <strapi.io>\r\n",
+		"timestamp": 1670924633408
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Content-Length: 2\r\n",
+		"timestamp": 1670924633408
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Date: Tue, 13 Dec 2022 09:43:53 GMT\r\n",
+		"timestamp": 1670924633408
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Connection: keep-alive\r\n",
+		"timestamp": 1670924633408
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Keep-Alive: timeout=5\r\n",
+		"timestamp": 1670924633408
+	},
+	{
+		"name": "HeaderIn",
+		"value": "\r\n",
+		"timestamp": 1670924633408
+	},
+	{
+		"name": "Text",
+		"value": "Received 2 B chunk",
+		"timestamp": 1670924633408
+	},
+	{
+		"name": "Text",
+		"value": "Connection #8 to host localhost left intact\n",
+		"timestamp": 1670924633408
+	}
+]

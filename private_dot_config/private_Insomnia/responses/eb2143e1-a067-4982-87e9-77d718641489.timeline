@@ -1,0 +1,337 @@
+[
+	{
+		"value": "Preparing request to https://login.dev.mylectra.com/usernamepassword/login",
+		"name": "Text",
+		"timestamp": 1684762100810
+	},
+	{
+		"value": "Current time is 2023-05-22T13:28:20.810Z",
+		"name": "Text",
+		"timestamp": 1684762100810
+	},
+	{
+		"value": "Enable automatic URL encoding",
+		"name": "Text",
+		"timestamp": 1684762100810
+	},
+	{
+		"value": "Using default HTTP version",
+		"name": "Text",
+		"timestamp": 1684762100811
+	},
+	{
+		"value": "Enable SSL validation",
+		"name": "Text",
+		"timestamp": 1684762100811
+	},
+	{
+		"value": "Enable cookie sending with jar of 10 cookies",
+		"name": "Text",
+		"timestamp": 1684762100811
+	},
+	{
+		"name": "Text",
+		"value": "Too old connection (124 seconds), disconnect it\n",
+		"timestamp": 1684762100813
+	},
+	{
+		"name": "Text",
+		"value": "Connection 8 seems to be dead!\n",
+		"timestamp": 1684762100813
+	},
+	{
+		"name": "Text",
+		"value": "Closing connection 8\n",
+		"timestamp": 1684762100813
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (OUT), TLS alert, close notify (256):\n",
+		"timestamp": 1684762100813
+	},
+	{
+		"name": "Text",
+		"value": "  Trying 104.17.235.88:443...\n",
+		"timestamp": 1684762100816
+	},
+	{
+		"name": "Text",
+		"value": "Connected to login.dev.mylectra.com (104.17.235.88) port 443 (#9)\n",
+		"timestamp": 1684762100829
+	},
+	{
+		"name": "Text",
+		"value": "ALPN, offering h2\n",
+		"timestamp": 1684762100829
+	},
+	{
+		"name": "Text",
+		"value": "ALPN, offering http/1.1\n",
+		"timestamp": 1684762100829
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (OUT), TLS handshake, Client hello (1):\n",
+		"timestamp": 1684762100835
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (IN), TLS handshake, Server hello (2):\n",
+		"timestamp": 1684762100865
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):\n",
+		"timestamp": 1684762100865
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (IN), TLS handshake, Certificate (11):\n",
+		"timestamp": 1684762100865
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (IN), TLS handshake, CERT verify (15):\n",
+		"timestamp": 1684762100865
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (IN), TLS handshake, Finished (20):\n",
+		"timestamp": 1684762100866
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (OUT), TLS change cipher, Change cipher spec (1):\n",
+		"timestamp": 1684762100866
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (OUT), TLS handshake, Finished (20):\n",
+		"timestamp": 1684762100866
+	},
+	{
+		"name": "Text",
+		"value": "SSL connection using TLSv1.3 / TLS_AES_256_GCM_SHA384\n",
+		"timestamp": 1684762100866
+	},
+	{
+		"name": "Text",
+		"value": "ALPN, server accepted to use h2\n",
+		"timestamp": 1684762100866
+	},
+	{
+		"name": "Text",
+		"value": "Server certificate:\n",
+		"timestamp": 1684762100866
+	},
+	{
+		"name": "Text",
+		"value": " subject: CN=login.dev.mylectra.com\n",
+		"timestamp": 1684762100866
+	},
+	{
+		"name": "Text",
+		"value": " start date: Apr 30 00:47:13 2023 GMT\n",
+		"timestamp": 1684762100866
+	},
+	{
+		"name": "Text",
+		"value": " expire date: Jul 29 00:47:12 2023 GMT\n",
+		"timestamp": 1684762100866
+	},
+	{
+		"name": "Text",
+		"value": " subjectAltName: host \"login.dev.mylectra.com\" matched cert's \"login.dev.mylectra.com\"\n",
+		"timestamp": 1684762100866
+	},
+	{
+		"name": "Text",
+		"value": " issuer: C=US; O=Let's Encrypt; CN=R3\n",
+		"timestamp": 1684762100866
+	},
+	{
+		"name": "Text",
+		"value": " SSL certificate verify ok.\n",
+		"timestamp": 1684762100866
+	},
+	{
+		"name": "Text",
+		"value": "Using HTTP2, server supports multiplexing\n",
+		"timestamp": 1684762100866
+	},
+	{
+		"name": "Text",
+		"value": "Connection state changed (HTTP/2 confirmed)\n",
+		"timestamp": 1684762100866
+	},
+	{
+		"name": "Text",
+		"value": "Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0\n",
+		"timestamp": 1684762100866
+	},
+	{
+		"name": "Text",
+		"value": "Using Stream ID: 1 (easy handle 0x1f7802cf6000)\n",
+		"timestamp": 1684762100866
+	},
+	{
+		"name": "HeaderOut",
+		"value": "POST /usernamepassword/login HTTP/2\r\nHost: login.dev.mylectra.com\r\nuser-agent: insomnia/2022.6.0\r\ncookie: _csrf=c_f4yzb-EB9SwV3V3RWsWbEk; did_compat=s%3Av0%3A1002d720-f8a4-11ed-8b12-f93bdde11a23.oOz8xbN0TDxfADpgCA4PF7QV7vzlsCrJihZwmmGqnOM; __cf_bm=yyPCKyaRozO_uSVY.yNZDogSY3kaiFK0DzmhghYoWzs-1684761904-0-AUUsorMzHtaoHratX5TOqaGX5FV08v5I7hRss3KKSNZeFTAmuRWXYkdlZhejYL3Y76vX+WQKUmrTxDeYmDnxEx0=; did=s%3Av0%3A1002d720-f8a4-11ed-8b12-f93bdde11a23.oOz8xbN0TDxfADpgCA4PF7QV7vzlsCrJihZwmmGqnOM\r\ncontent-type: application/json\r\naccept: */*\r\ncontent-length: 781\r\n\r\n",
+		"timestamp": 1684762100866
+	},
+	{
+		"name": "DataOut",
+		"value": "{\"client_id\":\"YW5qKusaOgi3XiN5XpqG6ofdAAnalOzd\",\"redirect_uri\":\"https://downloadcenter.dev.mylectra.com#error=missingAuthorization&error_description=Missing%20permission%20to%20access%20this%20application\",\"tenant\":\"dev-lectra-services\",\"response_type\":\"code\",\"scope\":\"openid profile email\",\"audience\":\"https://downloadcenter.dev.mylectra.com\",\"_csrf\":\"0zmbTDdO-coPRhAVVYO5G44TgqWVfcnZ5h_w\",\"state\":\"hKFo2SByZURmeFJjN0M4VUZ6MEwxa2FSVW5UNUFvODNPcEoxSqFupWxvZ2luo3RpZNkgT0dTcUFiVDFZVDRfU3RfZTNraFpiUThFeGI1UUQzUzOjY2lk2SBZVzVxS3VzYU9naTNYaU41WHBxRzZvZmRBQW5hbE96ZA\",\"_intstate\":\"deprecated\",\"nonce\":\"TllBb3JzWTd5XzQ2VzBpTDcxdnNQNkduYUxnVXRuLWllRGRyak1sOFVmeQ==\",\"username\":\"team.chocolat.1@chocolat.com\",\"password\":\"LectraChocolat33*\",\"connection\":\"Username-Password-Authentication\"}",
+		"timestamp": 1684762100866
+	},
+	{
+		"name": "Text",
+		"value": "We are completely uploaded and fine\n",
+		"timestamp": 1684762100866
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (IN), TLS handshake, Newsession Ticket (4):\n",
+		"timestamp": 1684762100877
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (IN), TLS handshake, Newsession Ticket (4):\n",
+		"timestamp": 1684762100877
+	},
+	{
+		"name": "Text",
+		"value": "old SSL session ID is stale, removing\n",
+		"timestamp": 1684762100878
+	},
+	{
+		"name": "Text",
+		"value": "Connection state changed (MAX_CONCURRENT_STREAMS == 256)!\n",
+		"timestamp": 1684762100878
+	},
+	{
+		"name": "HeaderIn",
+		"value": "HTTP/2 403 \r\n",
+		"timestamp": 1684762100961
+	},
+	{
+		"name": "HeaderIn",
+		"value": "date: Mon, 22 May 2023 13:28:41 GMT\r\n",
+		"timestamp": 1684762100961
+	},
+	{
+		"name": "HeaderIn",
+		"value": "content-type: application/json; charset=utf-8\r\n",
+		"timestamp": 1684762100961
+	},
+	{
+		"name": "HeaderIn",
+		"value": "cf-ray: 7cb5675c795e3c75-CDG\r\n",
+		"timestamp": 1684762100961
+	},
+	{
+		"name": "HeaderIn",
+		"value": "cache-control: private, no-store, no-cache, must-revalidate, post-check=0, pre-check=0, no-transform\r\n",
+		"timestamp": 1684762100961
+	},
+	{
+		"name": "HeaderIn",
+		"value": "etag: W/\"60-iY7A7LuoLP+jX4iSxTYb6OVyKf0\"\r\n",
+		"timestamp": 1684762100961
+	},
+	{
+		"name": "HeaderIn",
+		"value": "strict-transport-security: max-age=31536000\r\n",
+		"timestamp": 1684762100961
+	},
+	{
+		"name": "HeaderIn",
+		"value": "vary: Accept-Encoding\r\n",
+		"timestamp": 1684762100961
+	},
+	{
+		"name": "HeaderIn",
+		"value": "cf-cache-status: DYNAMIC\r\n",
+		"timestamp": 1684762100961
+	},
+	{
+		"name": "HeaderIn",
+		"value": "ot-baggage-auth0-request-id: 7cb5675c795e3c75\r\n",
+		"timestamp": 1684762100961
+	},
+	{
+		"name": "HeaderIn",
+		"value": "ot-tracer-sampled: true\r\n",
+		"timestamp": 1684762100961
+	},
+	{
+		"name": "HeaderIn",
+		"value": "ot-tracer-spanid: 40e7c391250e1042\r\n",
+		"timestamp": 1684762100961
+	},
+	{
+		"name": "HeaderIn",
+		"value": "ot-tracer-traceid: 3c445bfc448a31de\r\n",
+		"timestamp": 1684762100961
+	},
+	{
+		"name": "HeaderIn",
+		"value": "traceparent: 00-00000000000000003c445bfc448a31de-40e7c391250e1042-01\r\n",
+		"timestamp": 1684762100961
+	},
+	{
+		"name": "HeaderIn",
+		"value": "tracestate: auth0-request-id=7cb5675c795e3c75,auth0=true\r\n",
+		"timestamp": 1684762100961
+	},
+	{
+		"name": "HeaderIn",
+		"value": "x-auth0-requestid: 14e00e8fb78339bba52e\r\n",
+		"timestamp": 1684762100961
+	},
+	{
+		"name": "HeaderIn",
+		"value": "x-content-type-options: nosniff\r\n",
+		"timestamp": 1684762100961
+	},
+	{
+		"name": "HeaderIn",
+		"value": "x-ratelimit-limit: 100\r\n",
+		"timestamp": 1684762100961
+	},
+	{
+		"name": "HeaderIn",
+		"value": "x-ratelimit-remaining: 96\r\n",
+		"timestamp": 1684762100961
+	},
+	{
+		"name": "HeaderIn",
+		"value": "x-ratelimit-reset: 1684765578\r\n",
+		"timestamp": 1684762100961
+	},
+	{
+		"name": "HeaderIn",
+		"value": "server: cloudflare\r\n",
+		"timestamp": 1684762100961
+	},
+	{
+		"name": "HeaderIn",
+		"value": "alt-svc: h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400\r\n",
+		"timestamp": 1684762100961
+	},
+	{
+		"name": "HeaderIn",
+		"value": "\r\n",
+		"timestamp": 1684762100961
+	},
+	{
+		"name": "Text",
+		"value": "Received 96 B chunk",
+		"timestamp": 1684762100961
+	},
+	{
+		"name": "Text",
+		"value": "Connection #9 to host login.dev.mylectra.com left intact\n",
+		"timestamp": 1684762100961
+	}
+]

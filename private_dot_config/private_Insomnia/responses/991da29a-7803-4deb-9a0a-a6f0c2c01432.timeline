@@ -1,0 +1,32 @@
+[
+	{
+		"value": "Preparing request to %22http://localhost:1337/admin/login%22",
+		"name": "Text",
+		"timestamp": 1669631793681
+	},
+	{
+		"value": "Current time is 2022-11-28T10:36:33.681Z",
+		"name": "Text",
+		"timestamp": 1669631793681
+	},
+	{
+		"value": "Enable automatic URL encoding",
+		"name": "Text",
+		"timestamp": 1669631793681
+	},
+	{
+		"value": "Using default HTTP version",
+		"name": "Text",
+		"timestamp": 1669631793685
+	},
+	{
+		"value": "Enable SSL validation",
+		"name": "Text",
+		"timestamp": 1669631793685
+	},
+	{
+		"name": "Text",
+		"value": "No URL set!\n",
+		"timestamp": 1669631793687
+	}
+]

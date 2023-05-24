@@ -1,0 +1,302 @@
+[
+	{
+		"value": "Preparing request to https://knowledge-center-euw-dev-search-01.search.windows.net/indexes/ditacontents/docs/search?api-version=2020-06-30",
+		"name": "Text",
+		"timestamp": 1670491764844
+	},
+	{
+		"value": "Current time is 2022-12-08T09:29:24.844Z",
+		"name": "Text",
+		"timestamp": 1670491764844
+	},
+	{
+		"value": "Enable automatic URL encoding",
+		"name": "Text",
+		"timestamp": 1670491764844
+	},
+	{
+		"value": "Using default HTTP version",
+		"name": "Text",
+		"timestamp": 1670491764846
+	},
+	{
+		"value": "Enable SSL validation",
+		"name": "Text",
+		"timestamp": 1670491764846
+	},
+	{
+		"name": "Text",
+		"value": "Too old connection (4377 seconds), disconnect it\n",
+		"timestamp": 1670491764847
+	},
+	{
+		"name": "Text",
+		"value": "Connection 2 seems to be dead!\n",
+		"timestamp": 1670491764847
+	},
+	{
+		"name": "Text",
+		"value": "Closing connection 2\n",
+		"timestamp": 1670491764847
+	},
+	{
+		"name": "Text",
+		"value": "Hostname in DNS cache was stale, zapped\n",
+		"timestamp": 1670491764848
+	},
+	{
+		"name": "Text",
+		"value": "  Trying 13.81.8.10:443...\n",
+		"timestamp": 1670491765005
+	},
+	{
+		"name": "Text",
+		"value": "Connected to knowledge-center-euw-dev-search-01.search.windows.net (13.81.8.10) port 443 (#3)\n",
+		"timestamp": 1670491765024
+	},
+	{
+		"name": "Text",
+		"value": "ALPN, offering h2\n",
+		"timestamp": 1670491765024
+	},
+	{
+		"name": "Text",
+		"value": "ALPN, offering http/1.1\n",
+		"timestamp": 1670491765024
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (OUT), TLS handshake, Client hello (1):\n",
+		"timestamp": 1670491765033
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (IN), TLS handshake, Server hello (2):\n",
+		"timestamp": 1670491765055
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (IN), TLS handshake, Certificate (11):\n",
+		"timestamp": 1670491765055
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (IN), TLS handshake, Server key exchange (12):\n",
+		"timestamp": 1670491765056
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (IN), TLS handshake, Server finished (14):\n",
+		"timestamp": 1670491765056
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (OUT), TLS handshake, Client key exchange (16):\n",
+		"timestamp": 1670491765059
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):\n",
+		"timestamp": 1670491765059
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (OUT), TLS handshake, Finished (20):\n",
+		"timestamp": 1670491765059
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (IN), TLS handshake, Finished (20):\n",
+		"timestamp": 1670491765079
+	},
+	{
+		"name": "Text",
+		"value": "SSL connection using TLSv1.2 / ECDHE-RSA-AES256-GCM-SHA384\n",
+		"timestamp": 1670491765080
+	},
+	{
+		"name": "Text",
+		"value": "ALPN, server accepted to use h2\n",
+		"timestamp": 1670491765080
+	},
+	{
+		"name": "Text",
+		"value": "Server certificate:\n",
+		"timestamp": 1670491765080
+	},
+	{
+		"name": "Text",
+		"value": " subject: C=US; ST=WA; L=Redmond; O=Microsoft Corporation; CN=*.search.windows.net\n",
+		"timestamp": 1670491765080
+	},
+	{
+		"name": "Text",
+		"value": " start date: Sep 30 17:54:57 2022 GMT\n",
+		"timestamp": 1670491765080
+	},
+	{
+		"name": "Text",
+		"value": " expire date: Sep 25 17:54:57 2023 GMT\n",
+		"timestamp": 1670491765080
+	},
+	{
+		"name": "Text",
+		"value": " subjectAltName: host \"knowledge-center-euw-dev-search-01.search.windows.net\" matched cert's \"*.search.windows.net\"\n",
+		"timestamp": 1670491765080
+	},
+	{
+		"name": "Text",
+		"value": " issuer: C=US; O=Microsoft Corporation; CN=Microsoft Azure TLS Issuing CA 05\n",
+		"timestamp": 1670491765080
+	},
+	{
+		"name": "Text",
+		"value": " SSL certificate verify ok.\n",
+		"timestamp": 1670491765080
+	},
+	{
+		"name": "Text",
+		"value": "Using HTTP2, server supports multiplexing\n",
+		"timestamp": 1670491765080
+	},
+	{
+		"name": "Text",
+		"value": "Connection state changed (HTTP/2 confirmed)\n",
+		"timestamp": 1670491765080
+	},
+	{
+		"name": "Text",
+		"value": "Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0\n",
+		"timestamp": 1670491765080
+	},
+	{
+		"name": "Text",
+		"value": "Using Stream ID: 1 (easy handle 0x2e8402cfe800)\n",
+		"timestamp": 1670491765080
+	},
+	{
+		"name": "HeaderOut",
+		"value": "POST /indexes/ditacontents/docs/search?api-version=2020-06-30 HTTP/2\r\nHost: knowledge-center-euw-dev-search-01.search.windows.net\r\nuser-agent: insomnia/2022.6.0\r\ncontent-type: application/json\r\napi-key: 5J3HjQACKM5kFuWfb3PqAs7osbMLEqAc2Ugtv4REloAzSeAGhcSj\r\naccept: */*\r\ncontent-length: 624\r\n\r\n",
+		"timestamp": 1670491765080
+	},
+	{
+		"name": "DataOut",
+		"value": "{\n  \"search\": \"\",\n  \"orderby\": \"\",\n  \"top\": 10,\n  \"skip\": 0,\n  \"count\": true,\n  \"select\": \"id,title,content_type,duration,content,model,updated_at,key\",\n  \"searchFields\": \"title,content,type\",\n  \"filter\": \"locale eq 'fr-FR' and search.in(content_type, 'bestPractice') and search.in(key,'QUICK_OFFER/FA/C2,FLEX/FA/C4,OD/FA/MAT_MANAGER,MTM/FA/MAT_MANAGER,OD/FA/SYS_MANAGER,MTM/FA/SYS_MANAGER,BP_PROD/AU/CONTROL,FLEX/FA/C3,FLEX/FA/C5,ACCU_FLEX/FA/C4,MTM/FA/ORD_MANAGER,ALL/ALL/MY_CONTRACTS,ALL/ALL/MAI_MANAGER,OD/FA/PROD_MANAGER,MTM/FA/PROD_MANAGER,ALL/ALL/IP6,ACCU_FLEX/FA/C3')\",\n  \"searchMode\": \"any\",\n  \"queryType\": \"full\"\n}",
+		"timestamp": 1670491765080
+	},
+	{
+		"name": "Text",
+		"value": "We are completely uploaded and fine\n",
+		"timestamp": 1670491765080
+	},
+	{
+		"name": "HeaderIn",
+		"value": "HTTP/2 200 \r\n",
+		"timestamp": 1670491765196
+	},
+	{
+		"name": "HeaderIn",
+		"value": "cache-control: no-cache\r\n",
+		"timestamp": 1670491765196
+	},
+	{
+		"name": "HeaderIn",
+		"value": "pragma: no-cache\r\n",
+		"timestamp": 1670491765196
+	},
+	{
+		"name": "HeaderIn",
+		"value": "content-type: application/json; odata.metadata=minimal\r\n",
+		"timestamp": 1670491765196
+	},
+	{
+		"name": "HeaderIn",
+		"value": "expires: -1\r\n",
+		"timestamp": 1670491765196
+	},
+	{
+		"name": "HeaderIn",
+		"value": "request-id: 03627495-addd-42ee-8783-f02dd5f6c1ad\r\n",
+		"timestamp": 1670491765196
+	},
+	{
+		"name": "HeaderIn",
+		"value": "elapsed-time: 92\r\n",
+		"timestamp": 1670491765196
+	},
+	{
+		"name": "HeaderIn",
+		"value": "odata-version: 4.0\r\n",
+		"timestamp": 1670491765196
+	},
+	{
+		"name": "HeaderIn",
+		"value": "preference-applied: odata.include-annotations=\"*\"\r\n",
+		"timestamp": 1670491765196
+	},
+	{
+		"name": "HeaderIn",
+		"value": "strict-transport-security: max-age=15724800; includeSubDomains\r\n",
+		"timestamp": 1670491765196
+	},
+	{
+		"name": "HeaderIn",
+		"value": "date: Thu, 08 Dec 2022 09:29:23 GMT\r\n",
+		"timestamp": 1670491765196
+	},
+	{
+		"name": "HeaderIn",
+		"value": "content-length: 49308\r\n",
+		"timestamp": 1670491765196
+	},
+	{
+		"name": "HeaderIn",
+		"value": "\r\n",
+		"timestamp": 1670491765196
+	},
+	{
+		"name": "Text",
+		"value": "Received 15.6 KB chunk",
+		"timestamp": 1670491765196
+	},
+	{
+		"name": "Text",
+		"value": "Received 154 B chunk",
+		"timestamp": 1670491765196
+	},
+	{
+		"name": "Text",
+		"value": "Received 236 B chunk",
+		"timestamp": 1670491765196
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1670491765214
+	},
+	{
+		"name": "Text",
+		"value": "Received 9 B chunk",
+		"timestamp": 1670491765214
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1670491765215
+	},
+	{
+		"name": "Text",
+		"value": "Received 9 B chunk",
+		"timestamp": 1670491765215
+	},
+	{
+		"name": "Text",
+		"value": "Received 156 B chunk",
+		"timestamp": 1670491765215
+	},
+	{
+		"name": "Text",
+		"value": "Connection #3 to host knowledge-center-euw-dev-search-01.search.windows.net left intact\n",
+		"timestamp": 1670491765215
+	}
+]

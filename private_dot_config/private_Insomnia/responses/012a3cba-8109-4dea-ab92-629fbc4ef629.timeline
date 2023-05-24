@@ -1,0 +1,132 @@
+[
+	{
+		"value": "Preparing request to http://localhost:1337/keys/1",
+		"name": "Text",
+		"timestamp": 1670918911267
+	},
+	{
+		"value": "Current time is 2022-12-13T08:08:31.267Z",
+		"name": "Text",
+		"timestamp": 1670918911267
+	},
+	{
+		"value": "Enable automatic URL encoding",
+		"name": "Text",
+		"timestamp": 1670918911267
+	},
+	{
+		"value": "Using default HTTP version",
+		"name": "Text",
+		"timestamp": 1670918911267
+	},
+	{
+		"value": "Enable SSL validation",
+		"name": "Text",
+		"timestamp": 1670918911267
+	},
+	{
+		"name": "Text",
+		"value": "Connection 6 seems to be dead!\n",
+		"timestamp": 1670918911268
+	},
+	{
+		"name": "Text",
+		"value": "Closing connection 6\n",
+		"timestamp": 1670918911268
+	},
+	{
+		"name": "Text",
+		"value": "Hostname in DNS cache was stale, zapped\n",
+		"timestamp": 1670918911268
+	},
+	{
+		"name": "Text",
+		"value": "  Trying 127.0.0.1:1337...\n",
+		"timestamp": 1670918911268
+	},
+	{
+		"name": "Text",
+		"value": "Connected to localhost (127.0.0.1) port 1337 (#7)\n",
+		"timestamp": 1670918911268
+	},
+	{
+		"name": "HeaderOut",
+		"value": "GET /keys/1 HTTP/1.1\r\nHost: localhost:1337\r\nUser-Agent: insomnia/2022.6.0\r\nAuthorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiaWF0IjoxNjcwOTE4NTczLCJleHAiOjE2NzM1MTA1NzN9.yApsJGay7iDFyxaTDOwK2U8u6pc0zKomCRGOG0G_dnU\r\nAccept: */*\r\n\r\n",
+		"timestamp": 1670918911268
+	},
+	{
+		"name": "Text",
+		"value": "Mark bundle as not supporting multiuse\n",
+		"timestamp": 1670918911312
+	},
+	{
+		"name": "HeaderIn",
+		"value": "HTTP/1.1 200 OK\r\n",
+		"timestamp": 1670918911312
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Vary: Origin\r\n",
+		"timestamp": 1670918911312
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Strict-Transport-Security: max-age=31536000; includeSubDomains\r\n",
+		"timestamp": 1670918911312
+	},
+	{
+		"name": "HeaderIn",
+		"value": "X-Frame-Options: SAMEORIGIN\r\n",
+		"timestamp": 1670918911312
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Content-Type: application/json; charset=utf-8\r\n",
+		"timestamp": 1670918911312
+	},
+	{
+		"name": "HeaderIn",
+		"value": "X-Response-Time: 42ms\r\n",
+		"timestamp": 1670918911312
+	},
+	{
+		"name": "HeaderIn",
+		"value": "X-Powered-By: Strapi <strapi.io>\r\n",
+		"timestamp": 1670918911312
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Content-Length: 1359\r\n",
+		"timestamp": 1670918911312
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Date: Tue, 13 Dec 2022 08:08:31 GMT\r\n",
+		"timestamp": 1670918911312
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Connection: keep-alive\r\n",
+		"timestamp": 1670918911312
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Keep-Alive: timeout=5\r\n",
+		"timestamp": 1670918911312
+	},
+	{
+		"name": "HeaderIn",
+		"value": "\r\n",
+		"timestamp": 1670918911312
+	},
+	{
+		"name": "Text",
+		"value": "Received 1359 B chunk",
+		"timestamp": 1670918911312
+	},
+	{
+		"name": "Text",
+		"value": "Connection #7 to host localhost left intact\n",
+		"timestamp": 1670918911312
+	}
+]

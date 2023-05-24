@@ -1,0 +1,107 @@
+[
+	{
+		"value": "Preparing request to http://localhost:8080/api/onboardings",
+		"name": "Text",
+		"timestamp": 1670940868869
+	},
+	{
+		"value": "Current time is 2022-12-13T14:14:28.869Z",
+		"name": "Text",
+		"timestamp": 1670940868869
+	},
+	{
+		"value": "Enable automatic URL encoding",
+		"name": "Text",
+		"timestamp": 1670940868869
+	},
+	{
+		"value": "Using default HTTP version",
+		"name": "Text",
+		"timestamp": 1670940868874
+	},
+	{
+		"value": "Enable SSL validation",
+		"name": "Text",
+		"timestamp": 1670940868874
+	},
+	{
+		"name": "Text",
+		"value": "Found bundle for host localhost: 0x118003ad9800 [serially]\n",
+		"timestamp": 1670940868874
+	},
+	{
+		"name": "Text",
+		"value": "Can not multiplex, even if we wanted to!\n",
+		"timestamp": 1670940868874
+	},
+	{
+		"name": "Text",
+		"value": "Re-using existing connection! (#29) with host localhost\n",
+		"timestamp": 1670940868874
+	},
+	{
+		"name": "Text",
+		"value": "Connected to localhost (127.0.0.1) port 8080 (#29)\n",
+		"timestamp": 1670940868874
+	},
+	{
+		"name": "HeaderOut",
+		"value": "GET /api/onboardings HTTP/1.1\r\nHost: localhost:8080\r\nUser-Agent: insomnia/2022.6.0\r\nContent-Type: application/json\r\nAccept: */*\r\nContent-Length: 463\r\n\r\n",
+		"timestamp": 1670940868874
+	},
+	{
+		"name": "DataOut",
+		"value": "{\n\t\t\t\"permissions\":[\"KNOW_CENTER\",\"ADMSU\", \"API_MGT\", \"C1\", \"C2\", \"C3\", \"C4\", \"C5\", \"CONTROL\", \"IMPROVE\", \"KUBIX\", \"MAI_MANAGER\", \"MAT_MANAGER\", \"MOD_3D\", \"MOD_EXP\", \"MY_CONTRACTS\", \"OD_FA\", \"OPEX\"],\n\t\t\t\"search\": \"\",\n\t\t\t\"orderby\": \"position asc\",\n\t\t\t\"top\":1,\n\t\t\t\"skip\":0,\n\t\t\t\"count\":true,\n\t\t\t\"select\": [],\n\t\t\t\"searchFields\": [],\n\t\t\t\"filter\": {\n\t\t\t\t\"models\": [],\n\t\t\t\t\"types\": [],\n\t\t\t\t\"categories\": [\"releaseNote\"],\n\t\t\t\t\"productVaraiation\": [\"ALL/ALL/ADMSU\"]\n\t\t\t}\n}",
+		"timestamp": 1670940868874
+	},
+	{
+		"name": "Text",
+		"value": "Mark bundle as not supporting multiuse\n",
+		"timestamp": 1670940869326
+	},
+	{
+		"name": "HeaderIn",
+		"value": "HTTP/1.1 200 OK\r\n",
+		"timestamp": 1670940869326
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Connection: keep-alive\r\n",
+		"timestamp": 1670940869326
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Transfer-Encoding: chunked\r\n",
+		"timestamp": 1670940869326
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Content-Type: application/json\r\n",
+		"timestamp": 1670940869326
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Date: Tue, 13 Dec 2022 14:14:29 GMT\r\n",
+		"timestamp": 1670940869326
+	},
+	{
+		"name": "HeaderIn",
+		"value": "\r\n",
+		"timestamp": 1670940869326
+	},
+	{
+		"name": "Text",
+		"value": "Received 3.8 KB chunk",
+		"timestamp": 1670940869326
+	},
+	{
+		"name": "Text",
+		"value": "Received 5 B chunk",
+		"timestamp": 1670940869326
+	},
+	{
+		"name": "Text",
+		"value": "Connection #29 to host localhost left intact\n",
+		"timestamp": 1670940869326
+	}
+]

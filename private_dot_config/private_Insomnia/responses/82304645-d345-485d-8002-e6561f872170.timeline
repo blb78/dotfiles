@@ -1,0 +1,137 @@
+[
+	{
+		"value": "Preparing request to https://downloadcenter.dev.mylectra.com/api/software/latest",
+		"name": "Text",
+		"timestamp": 1684839009841
+	},
+	{
+		"value": "Current time is 2023-05-23T10:50:09.841Z",
+		"name": "Text",
+		"timestamp": 1684839009841
+	},
+	{
+		"value": "Enable automatic URL encoding",
+		"name": "Text",
+		"timestamp": 1684839009841
+	},
+	{
+		"value": "Using default HTTP version",
+		"name": "Text",
+		"timestamp": 1684839009842
+	},
+	{
+		"value": "Enable SSL validation",
+		"name": "Text",
+		"timestamp": 1684839009842
+	},
+	{
+		"value": "Enable cookie sending with jar of 10 cookies",
+		"name": "Text",
+		"timestamp": 1684839009842
+	},
+	{
+		"name": "Text",
+		"value": "Found bundle for host downloadcenter.dev.mylectra.com: 0x375c02cde310 [can multiplex]\n",
+		"timestamp": 1684839009843
+	},
+	{
+		"name": "Text",
+		"value": "Re-using existing connection! (#2) with host downloadcenter.dev.mylectra.com\n",
+		"timestamp": 1684839009843
+	},
+	{
+		"name": "Text",
+		"value": "Connected to downloadcenter.dev.mylectra.com (20.56.190.42) port 443 (#2)\n",
+		"timestamp": 1684839009843
+	},
+	{
+		"name": "Text",
+		"value": "Using Stream ID: 3 (easy handle 0x375c02d01000)\n",
+		"timestamp": 1684839009843
+	},
+	{
+		"name": "HeaderOut",
+		"value": "GET /api/software/latest HTTP/2\r\nHost: downloadcenter.dev.mylectra.com\r\nuser-agent: insomnia/2022.6.0\r\nauthorization: Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Ik9EWTBSREJGTlVFM1JEVTVRVE13TVVRMk9EVXhRVFpCTkVRNU5qRTRPRUZETmprd09VVTRPQSJ9.eyJodHRwczovL21ldGFkYXRhLmxlY3RyYS5jb20iOnsic2l0ZXNQZXJtaXNzaW9ucyI6W3sic2l0ZUlkIjoiODVhZDI4ZGItZDc3NS00ZmE0LWEzNjEtMDZlOWEyMmI1YzA2IiwicGVybWlzc2lvbnMiOlsiQURNU1UiLCJBUElfTUdUIiwiQzEiLCJDMiIsIkMzIiwiQzQiLCJDNSIsIktVQklYIiwiTUFUX01BTkFHRVIiLCJNT0RfM0QiLCJNT0RfRVhQIiwiTVlfQ09OVFJBQ1RTIiwiTkVURVZFTiIsIk9EX0ZBIiwiT1BFWCIsIk9SRF9GT1JNIiwiT1JEX01BTkFHRVIiLCJQQVRURVJOX0VYUCIsIlBDT05WIiwiUFJPRF9NQU5BR0VSIiwiUkVUVklFV1MiLCJTVVBQT1JUIiwiU1lTX01BTkFHRVIiXX0seyJzaXRlSWQiOiI0M2QyZWUxYS04YzliLTQ1NjItYTc2Yi1lNWIzOWE2Y2Y5YTMiLCJwZXJtaXNzaW9ucyI6WyJBRE1TVSIsIk1BSV9NQU5BR0VSIl19XSwic2l0ZUlkIjoiODVhZDI4ZGItZDc3NS00ZmE0LWEzNjEtMDZlOWEyMmI1YzA2IiwidGVuYW50SWQiOiI5YmRmZDI1MS0xZDdiLTQwZjMtYjY4OS1mYWQ5MWQ4NjM5OWUiLCJ1c2Vyc1Zpc2liaWxpdHkiOiJTSVRFIn0sImlzcyI6Imh0dHBzOi8vbG9naW4uZGV2Lm15bGVjdHJhLmNvbS8iLCJzdWIiOiJhdXRoMHw2MGM4OTUzZWU2NWJiODAwNzBlNzUxZmEiLCJhdWQiOlsiaHR0cHM6Ly9kb3dubG9hZGNlbnRlci5kZXYubXlsZWN0cmEuY29tIiwiaHR0cHM6Ly9kZXYtbGVjdHJhLXNlcnZpY2VzLmV1LmF1dGgwLmNvbS91c2VyaW5mbyJdLCJpYXQiOjE2ODQ4MzkwMDgsImV4cCI6MTY4NDkyNTQwOCwiYXpwIjoiWVc1cUt1c2FPZ2kzWGlONVhwcUc2b2ZkQUFuYWxPemQiLCJzY29wZSI6Im9wZW5pZCBwcm9maWxlIGVtYWlsIn0.YgTJOhOWAgih_OPr69t8XyizJcAFXw2rvX4QVmtczMgQUPaWK-IxvP_oZgUIn2Z2sTtycs4XRtuddnLqmIiQFWA6pdEwrbHk5FUlKZINUA3UGMDwZdGwolPomScDs70vO9O1mNHlFZzz7Mr4tQYu3gCyG_ISKlRWGV8DQEpvmYtBIx6_HQk3SbdSfP3jzCSoo2mA-Ypi0fdfpFc9Fue8srnkZ1C3wpPE4Rk5cjZvh5QtgdLgZ4JSVRmiPHLzJ5WFqFXQjZooUEUKf7HMaT2SF1vvrAr2yenP2P3D5h-SRSsS2QirGV8FCs3KyvRl0sl7YBqt7k4GzZ2p7jzQbUxmAQ\r\naccept: */*\r\n\r\n",
+		"timestamp": 1684839009843
+	},
+	{
+		"name": "HeaderIn",
+		"value": "HTTP/2 200 \r\n",
+		"timestamp": 1684839009872
+	},
+	{
+		"name": "HeaderIn",
+		"value": "cache-control: no-cache, no-store, max-age=0, must-revalidate\r\n",
+		"timestamp": 1684839009872
+	},
+	{
+		"name": "HeaderIn",
+		"value": "content-security-policy: frame-ancestors 'none';\r\n",
+		"timestamp": 1684839009872
+	},
+	{
+		"name": "HeaderIn",
+		"value": "date: Tue, 23 May 2023 10:50:30 GMT\r\n",
+		"timestamp": 1684839009872
+	},
+	{
+		"name": "HeaderIn",
+		"value": "expires: 0\r\n",
+		"timestamp": 1684839009872
+	},
+	{
+		"name": "HeaderIn",
+		"value": "feature-policy: fullscreen 'self';\r\n",
+		"timestamp": 1684839009872
+	},
+	{
+		"name": "HeaderIn",
+		"value": "pragma: no-cache\r\n",
+		"timestamp": 1684839009872
+	},
+	{
+		"name": "HeaderIn",
+		"value": "referrer-policy: strict-origin\r\n",
+		"timestamp": 1684839009872
+	},
+	{
+		"name": "HeaderIn",
+		"value": "server-timing: intid;desc=1c766f63bdd8e77d\r\n",
+		"timestamp": 1684839009872
+	},
+	{
+		"name": "HeaderIn",
+		"value": "strict-transport-security: max-age=15724800; includeSubDomains\r\n",
+		"timestamp": 1684839009872
+	},
+	{
+		"name": "HeaderIn",
+		"value": "x-content-type-options: nosniff\r\n",
+		"timestamp": 1684839009872
+	},
+	{
+		"name": "HeaderIn",
+		"value": "x-frame-options: DENY\r\n",
+		"timestamp": 1684839009872
+	},
+	{
+		"name": "HeaderIn",
+		"value": "x-xss-protection: 1; mode=block\r\n",
+		"timestamp": 1684839009872
+	},
+	{
+		"name": "HeaderIn",
+		"value": "content-length: 0\r\n",
+		"timestamp": 1684839009872
+	},
+	{
+		"name": "HeaderIn",
+		"value": "\r\n",
+		"timestamp": 1684839009872
+	},
+	{
+		"name": "Text",
+		"value": "Connection #2 to host downloadcenter.dev.mylectra.com left intact\n",
+		"timestamp": 1684839009872
+	}
+]

@@ -1,0 +1,37 @@
+[
+	{
+		"value": "Preparing request to https://knowledgecenter.cloudservices.dev.mylectra.com/",
+		"name": "Text",
+		"timestamp": 1669898740854
+	},
+	{
+		"value": "Current time is 2022-12-01T12:45:40.854Z",
+		"name": "Text",
+		"timestamp": 1669898740854
+	},
+	{
+		"value": "Enable automatic URL encoding",
+		"name": "Text",
+		"timestamp": 1669898740854
+	},
+	{
+		"value": "Using default HTTP version",
+		"name": "Text",
+		"timestamp": 1669898740856
+	},
+	{
+		"value": "Enable SSL validation",
+		"name": "Text",
+		"timestamp": 1669898740856
+	},
+	{
+		"name": "Text",
+		"value": "Could not resolve host: knowledgecenter.cloudservices.dev.mylectra.com\n",
+		"timestamp": 1669898740914
+	},
+	{
+		"name": "Text",
+		"value": "Closing connection 0\n",
+		"timestamp": 1669898740915
+	}
+]

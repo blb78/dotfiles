@@ -1,0 +1,117 @@
+[
+	{
+		"value": "Preparing request to http://localhost:8080/documents",
+		"name": "Text",
+		"timestamp": 1670858600533
+	},
+	{
+		"value": "Current time is 2022-12-12T15:23:20.533Z",
+		"name": "Text",
+		"timestamp": 1670858600533
+	},
+	{
+		"value": "Enable automatic URL encoding",
+		"name": "Text",
+		"timestamp": 1670858600533
+	},
+	{
+		"value": "Using default HTTP version",
+		"name": "Text",
+		"timestamp": 1670858600534
+	},
+	{
+		"value": "Enable SSL validation",
+		"name": "Text",
+		"timestamp": 1670858600534
+	},
+	{
+		"name": "Text",
+		"value": "Hostname in DNS cache was stale, zapped\n",
+		"timestamp": 1670858600535
+	},
+	{
+		"name": "Text",
+		"value": "  Trying 127.0.0.1:8080...\n",
+		"timestamp": 1670858600535
+	},
+	{
+		"name": "Text",
+		"value": "Connected to localhost (127.0.0.1) port 8080 (#1)\n",
+		"timestamp": 1670858600535
+	},
+	{
+		"name": "HeaderOut",
+		"value": "POST /documents HTTP/1.1\r\nHost: localhost:8080\r\nUser-Agent: insomnia/2022.6.0\r\nContent-Type: application/json\r\nAccept: */*\r\nContent-Length: 498\r\n\r\n",
+		"timestamp": 1670858600535
+	},
+	{
+		"name": "DataOut",
+		"value": "{\n\t\t\t\"permissions\":[\"KNOW_CENTER\",\"ADMSU\", \"API_MGT\", \"C1\", \"C2\", \"C3\", \"C4\", \"C5\", \"CONTROL\", \"IMPROVE\", \"KUBIX\", \"MAI_MANAGER\", \"MAT_MANAGER\", \"MOD_3D\", \"MOD_EXP\", \"MY_CONTRACTS\", \"OD_FA\", \"OPEX\"],\n\t\t\t\"search\": \"\",\n\t\t\t\"orderby\": \"position asc\",\n\t\t\t\"top\":1000,\n\t\t\t\"skip\":0,\n\t\t\t\"count\":true,\n\t\t\t\"searchMode\":\"any\", \n\t\t\t\"queryType\":\"full\",\n\t\t\t\"select\": [],\n\t\t\t\"searchFields\": [],\n\t\t\t\"filter\": {\n\t\t\t\t\"models\": [],\n\t\t\t\t\"types\": [],\n\t\t\t\t\"categories\": [\"releaseNote\"],\n\t\t\t\t\"productVaraiation\": []\n\t\t\t}\n}",
+		"timestamp": 1670858600535
+	},
+	{
+		"name": "Text",
+		"value": "Mark bundle as not supporting multiuse\n",
+		"timestamp": 1670858600633
+	},
+	{
+		"name": "HeaderIn",
+		"value": "HTTP/1.1 404 Not Found\r\n",
+		"timestamp": 1670858600633
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Connection: keep-alive\r\n",
+		"timestamp": 1670858600634
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Vary: Origin\r\n",
+		"timestamp": 1670858600634
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Vary: Access-Control-Request-Method\r\n",
+		"timestamp": 1670858600634
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Vary: Access-Control-Request-Headers\r\n",
+		"timestamp": 1670858600634
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Transfer-Encoding: chunked\r\n",
+		"timestamp": 1670858600634
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Content-Type: application/json\r\n",
+		"timestamp": 1670858600634
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Date: Mon, 12 Dec 2022 15:23:20 GMT\r\n",
+		"timestamp": 1670858600634
+	},
+	{
+		"name": "HeaderIn",
+		"value": "\r\n",
+		"timestamp": 1670858600634
+	},
+	{
+		"name": "Text",
+		"value": "Received 104 B chunk",
+		"timestamp": 1670858600634
+	},
+	{
+		"name": "Text",
+		"value": "Received 5 B chunk",
+		"timestamp": 1670858600636
+	},
+	{
+		"name": "Text",
+		"value": "Connection #1 to host localhost left intact\n",
+		"timestamp": 1670858600636
+	}
+]

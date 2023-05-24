@@ -1,0 +1,262 @@
+[
+	{
+		"value": "Preparing request to https://gateway-auth.cloudservices.dev.mylectra.com/auth/my-credentials",
+		"name": "Text",
+		"timestamp": 1684764256492
+	},
+	{
+		"value": "Current time is 2023-05-22T14:04:16.492Z",
+		"name": "Text",
+		"timestamp": 1684764256492
+	},
+	{
+		"value": "Enable automatic URL encoding",
+		"name": "Text",
+		"timestamp": 1684764256492
+	},
+	{
+		"value": "Using default HTTP version",
+		"name": "Text",
+		"timestamp": 1684764256494
+	},
+	{
+		"value": "Enable SSL validation",
+		"name": "Text",
+		"timestamp": 1684764256494
+	},
+	{
+		"value": "Enable cookie sending with jar of 10 cookies",
+		"name": "Text",
+		"timestamp": 1684764256494
+	},
+	{
+		"name": "Text",
+		"value": "Too old connection (459 seconds), disconnect it\n",
+		"timestamp": 1684764256495
+	},
+	{
+		"name": "Text",
+		"value": "Connection 12 seems to be dead!\n",
+		"timestamp": 1684764256495
+	},
+	{
+		"name": "Text",
+		"value": "Closing connection 12\n",
+		"timestamp": 1684764256495
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (OUT), TLS alert, close notify (256):\n",
+		"timestamp": 1684764256495
+	},
+	{
+		"name": "Text",
+		"value": "  Trying 20.56.190.42:443...\n",
+		"timestamp": 1684764256540
+	},
+	{
+		"name": "Text",
+		"value": "Connected to gateway-auth.cloudservices.dev.mylectra.com (20.56.190.42) port 443 (#13)\n",
+		"timestamp": 1684764256560
+	},
+	{
+		"name": "Text",
+		"value": "ALPN, offering h2\n",
+		"timestamp": 1684764256560
+	},
+	{
+		"name": "Text",
+		"value": "ALPN, offering http/1.1\n",
+		"timestamp": 1684764256560
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (OUT), TLS handshake, Client hello (1):\n",
+		"timestamp": 1684764256567
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (IN), TLS handshake, Server hello (2):\n",
+		"timestamp": 1684764256589
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):\n",
+		"timestamp": 1684764256589
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (IN), TLS handshake, Certificate (11):\n",
+		"timestamp": 1684764256589
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (IN), TLS handshake, CERT verify (15):\n",
+		"timestamp": 1684764256590
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (IN), TLS handshake, Finished (20):\n",
+		"timestamp": 1684764256590
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (OUT), TLS change cipher, Change cipher spec (1):\n",
+		"timestamp": 1684764256590
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (OUT), TLS handshake, Finished (20):\n",
+		"timestamp": 1684764256590
+	},
+	{
+		"name": "Text",
+		"value": "SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256\n",
+		"timestamp": 1684764256590
+	},
+	{
+		"name": "Text",
+		"value": "ALPN, server accepted to use h2\n",
+		"timestamp": 1684764256590
+	},
+	{
+		"name": "Text",
+		"value": "Server certificate:\n",
+		"timestamp": 1684764256590
+	},
+	{
+		"name": "Text",
+		"value": " subject: CN=*.cloudservices.dev.mylectra.com\n",
+		"timestamp": 1684764256590
+	},
+	{
+		"name": "Text",
+		"value": " start date: Apr 25 00:00:00 2023 GMT\n",
+		"timestamp": 1684764256590
+	},
+	{
+		"name": "Text",
+		"value": " expire date: Jul 24 23:59:59 2023 GMT\n",
+		"timestamp": 1684764256590
+	},
+	{
+		"name": "Text",
+		"value": " subjectAltName: host \"gateway-auth.cloudservices.dev.mylectra.com\" matched cert's \"*.cloudservices.dev.mylectra.com\"\n",
+		"timestamp": 1684764256590
+	},
+	{
+		"name": "Text",
+		"value": " issuer: C=AT; O=ZeroSSL; CN=ZeroSSL RSA Domain Secure Site CA\n",
+		"timestamp": 1684764256590
+	},
+	{
+		"name": "Text",
+		"value": " SSL certificate verify ok.\n",
+		"timestamp": 1684764256590
+	},
+	{
+		"name": "Text",
+		"value": "Using HTTP2, server supports multiplexing\n",
+		"timestamp": 1684764256590
+	},
+	{
+		"name": "Text",
+		"value": "Connection state changed (HTTP/2 confirmed)\n",
+		"timestamp": 1684764256590
+	},
+	{
+		"name": "Text",
+		"value": "Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0\n",
+		"timestamp": 1684764256590
+	},
+	{
+		"name": "Text",
+		"value": "Using Stream ID: 1 (easy handle 0x1f7802cfa800)\n",
+		"timestamp": 1684764256590
+	},
+	{
+		"name": "HeaderOut",
+		"value": "POST /auth/my-credentials HTTP/2\r\nHost: gateway-auth.cloudservices.dev.mylectra.com\r\nuser-agent: insomnia/2022.6.0\r\ncontent-type: application/json\r\nauthorization: Bearer dGVhbS5jaG9jb2xhdC4xQGNob2NvbGF0LmNvbTpMZWN0cmFDaG9jb2xhdDMzKgo=\r\naccept: */*\r\ncontent-length: 103\r\n\r\n",
+		"timestamp": 1684764256590
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (IN), TLS handshake, Newsession Ticket (4):\n",
+		"timestamp": 1684764256590
+	},
+	{
+		"name": "DataOut",
+		"value": "{\n\t\"clientId\":\"qpxDky3D38l4gv53fJcmrOEa2eJEnbRY\",\n\t\"audience\": \"https://menthe-external.mylectra.com\"\n}",
+		"timestamp": 1684764256590
+	},
+	{
+		"name": "Text",
+		"value": "We are completely uploaded and fine\n",
+		"timestamp": 1684764256590
+	},
+	{
+		"name": "Text",
+		"value": "Connection state changed (MAX_CONCURRENT_STREAMS == 250)!\n",
+		"timestamp": 1684764256614
+	},
+	{
+		"name": "HeaderIn",
+		"value": "HTTP/2 400 \r\n",
+		"timestamp": 1684764256615
+	},
+	{
+		"name": "HeaderIn",
+		"value": "content-type: application/json\r\n",
+		"timestamp": 1684764256615
+	},
+	{
+		"name": "HeaderIn",
+		"value": "date: Mon, 22 May 2023 14:04:37 GMT\r\n",
+		"timestamp": 1684764256615
+	},
+	{
+		"name": "HeaderIn",
+		"value": "server-timing: intid;desc=10583a4325c3eb05\r\n",
+		"timestamp": 1684764256615
+	},
+	{
+		"name": "HeaderIn",
+		"value": "strict-transport-security: max-age=15724800; includeSubDomains\r\n",
+		"timestamp": 1684764256615
+	},
+	{
+		"name": "HeaderIn",
+		"value": "vary: Origin\r\n",
+		"timestamp": 1684764256615
+	},
+	{
+		"name": "HeaderIn",
+		"value": "vary: Access-Control-Request-Method\r\n",
+		"timestamp": 1684764256615
+	},
+	{
+		"name": "HeaderIn",
+		"value": "vary: Access-Control-Request-Headers\r\n",
+		"timestamp": 1684764256615
+	},
+	{
+		"name": "HeaderIn",
+		"value": "x-frame-options: DENY\r\n",
+		"timestamp": 1684764256615
+	},
+	{
+		"name": "HeaderIn",
+		"value": "\r\n",
+		"timestamp": 1684764256615
+	},
+	{
+		"name": "Text",
+		"value": "Received 52 B chunk",
+		"timestamp": 1684764256615
+	},
+	{
+		"name": "Text",
+		"value": "Connection #13 to host gateway-auth.cloudservices.dev.mylectra.com left intact\n",
+		"timestamp": 1684764256615
+	}
+]

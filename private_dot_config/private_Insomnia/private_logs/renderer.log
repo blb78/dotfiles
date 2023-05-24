@@ -1,0 +1,8 @@
+[2023-05-24 11:15:10.485] [info]  [db] Initialized DB client
+[2023-05-24 11:15:10.588] [warn]  The vm module of Node.js is deprecated in the renderer process and will be removed.
+[2023-05-24 11:15:10.608] [warn]  The vm module of Node.js is deprecated in the renderer process and will be removed.
+[2023-05-24 11:15:12.380] [info]  [FileSystemDriver] Initialized in "/home/blebris/.config/Insomnia/version-control"
+[2023-05-24 11:15:12.394] [info]  [FileSystemDriver] Initialized in "/home/blebris/.config/Insomnia/version-control"
+[2023-05-24 11:15:12.396] [info]  [sync] checking for collections which need to be moved into a remote project
+[2023-05-24 11:15:22.845] [info]  [toast] Received notification linux-update-2023.2.2
+[2023-05-24 11:15:22.846] [info]  [toast] Not showing notification linux-update-2023.2.2 because has already been seen

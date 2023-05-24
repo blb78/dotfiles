@@ -1,0 +1,77 @@
+[
+	{
+		"value": "Preparing request to http://localhost:1337/admin/login",
+		"name": "Text",
+		"timestamp": 1670923697381
+	},
+	{
+		"value": "Current time is 2022-12-13T09:28:17.381Z",
+		"name": "Text",
+		"timestamp": 1670923697381
+	},
+	{
+		"value": "Enable automatic URL encoding",
+		"name": "Text",
+		"timestamp": 1670923697381
+	},
+	{
+		"value": "Using default HTTP version",
+		"name": "Text",
+		"timestamp": 1670923697384
+	},
+	{
+		"value": "Enable SSL validation",
+		"name": "Text",
+		"timestamp": 1670923697384
+	},
+	{
+		"name": "Text",
+		"value": "Too old connection (1353 seconds), disconnect it\n",
+		"timestamp": 1670923697386
+	},
+	{
+		"name": "Text",
+		"value": "Connection 1 seems to be dead!\n",
+		"timestamp": 1670923697386
+	},
+	{
+		"name": "Text",
+		"value": "Closing connection 1\n",
+		"timestamp": 1670923697386
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (OUT), TLS alert, close notify (256):\n",
+		"timestamp": 1670923697386
+	},
+	{
+		"name": "Text",
+		"value": "  Trying 127.0.0.1:1337...\n",
+		"timestamp": 1670923697387
+	},
+	{
+		"name": "Text",
+		"value": "connect to 127.0.0.1 port 1337 failed: Connexion refusée\n",
+		"timestamp": 1670923697387
+	},
+	{
+		"name": "Text",
+		"value": "  Trying ::1:1337...\n",
+		"timestamp": 1670923697387
+	},
+	{
+		"name": "Text",
+		"value": "connect to ::1 port 1337 failed: Connexion refusée\n",
+		"timestamp": 1670923697388
+	},
+	{
+		"name": "Text",
+		"value": "Failed to connect to localhost port 1337 after 1 ms: Connexion refusée\n",
+		"timestamp": 1670923697388
+	},
+	{
+		"name": "Text",
+		"value": "Closing connection 2\n",
+		"timestamp": 1670923697388
+	}
+]

@@ -1,0 +1,62 @@
+[
+	{
+		"value": "Preparing request to https://dev.login.mylectra.com/",
+		"name": "Text",
+		"timestamp": 1684761772792
+	},
+	{
+		"value": "Current time is 2023-05-22T13:22:52.792Z",
+		"name": "Text",
+		"timestamp": 1684761772792
+	},
+	{
+		"value": "Enable automatic URL encoding",
+		"name": "Text",
+		"timestamp": 1684761772792
+	},
+	{
+		"value": "Using default HTTP version",
+		"name": "Text",
+		"timestamp": 1684761772793
+	},
+	{
+		"value": "Enable SSL validation",
+		"name": "Text",
+		"timestamp": 1684761772793
+	},
+	{
+		"value": "Enable cookie sending with jar of 6 cookies",
+		"name": "Text",
+		"timestamp": 1684761772793
+	},
+	{
+		"name": "Text",
+		"value": "Too old connection (982 seconds), disconnect it\n",
+		"timestamp": 1684761772794
+	},
+	{
+		"name": "Text",
+		"value": "Connection 6 seems to be dead!\n",
+		"timestamp": 1684761772794
+	},
+	{
+		"name": "Text",
+		"value": "Closing connection 6\n",
+		"timestamp": 1684761772794
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (OUT), TLS alert, close notify (256):\n",
+		"timestamp": 1684761772794
+	},
+	{
+		"name": "Text",
+		"value": "Could not resolve host: dev.login.mylectra.com\n",
+		"timestamp": 1684761772817
+	},
+	{
+		"name": "Text",
+		"value": "Closing connection 7\n",
+		"timestamp": 1684761772817
+	}
+]

@@ -1,0 +1,232 @@
+[
+	{
+		"value": "Preparing request to https://knowledge-center-euw-test-search-01.search.windows.net/indexes/ditacontents/docs/search?api-version=2020-06-30",
+		"name": "Text",
+		"timestamp": 1682673783298
+	},
+	{
+		"value": "Current time is 2023-04-28T09:23:03.298Z",
+		"name": "Text",
+		"timestamp": 1682673783298
+	},
+	{
+		"value": "Enable automatic URL encoding",
+		"name": "Text",
+		"timestamp": 1682673783298
+	},
+	{
+		"value": "Using default HTTP version",
+		"name": "Text",
+		"timestamp": 1682673783300
+	},
+	{
+		"value": "Enable SSL validation",
+		"name": "Text",
+		"timestamp": 1682673783300
+	},
+	{
+		"value": "Enable cookie sending with jar of 6 cookies",
+		"name": "Text",
+		"timestamp": 1682673783300
+	},
+	{
+		"name": "Text",
+		"value": "  Trying 40.127.130.110:443...\n",
+		"timestamp": 1682673783335
+	},
+	{
+		"name": "Text",
+		"value": "Connected to knowledge-center-euw-test-search-01.search.windows.net (40.127.130.110) port 443 (#0)\n",
+		"timestamp": 1682673783363
+	},
+	{
+		"name": "Text",
+		"value": "ALPN, offering h2\n",
+		"timestamp": 1682673783364
+	},
+	{
+		"name": "Text",
+		"value": "ALPN, offering http/1.1\n",
+		"timestamp": 1682673783364
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (OUT), TLS handshake, Client hello (1):\n",
+		"timestamp": 1682673783372
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (IN), TLS handshake, Server hello (2):\n",
+		"timestamp": 1682673783402
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (IN), TLS handshake, Certificate (11):\n",
+		"timestamp": 1682673783402
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (IN), TLS handshake, Server key exchange (12):\n",
+		"timestamp": 1682673783403
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (IN), TLS handshake, Server finished (14):\n",
+		"timestamp": 1682673783403
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (OUT), TLS handshake, Client key exchange (16):\n",
+		"timestamp": 1682673783406
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):\n",
+		"timestamp": 1682673783406
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (OUT), TLS handshake, Finished (20):\n",
+		"timestamp": 1682673783406
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (IN), TLS handshake, Finished (20):\n",
+		"timestamp": 1682673783435
+	},
+	{
+		"name": "Text",
+		"value": "SSL connection using TLSv1.2 / ECDHE-RSA-AES256-GCM-SHA384\n",
+		"timestamp": 1682673783435
+	},
+	{
+		"name": "Text",
+		"value": "ALPN, server accepted to use h2\n",
+		"timestamp": 1682673783435
+	},
+	{
+		"name": "Text",
+		"value": "Server certificate:\n",
+		"timestamp": 1682673783435
+	},
+	{
+		"name": "Text",
+		"value": " subject: C=US; ST=WA; L=Redmond; O=Microsoft Corporation; CN=*.search.windows.net\n",
+		"timestamp": 1682673783435
+	},
+	{
+		"name": "Text",
+		"value": " start date: Mar 18 23:07:48 2023 GMT\n",
+		"timestamp": 1682673783435
+	},
+	{
+		"name": "Text",
+		"value": " expire date: Mar 12 23:07:48 2024 GMT\n",
+		"timestamp": 1682673783435
+	},
+	{
+		"name": "Text",
+		"value": " subjectAltName: host \"knowledge-center-euw-test-search-01.search.windows.net\" matched cert's \"*.search.windows.net\"\n",
+		"timestamp": 1682673783435
+	},
+	{
+		"name": "Text",
+		"value": " issuer: C=US; O=Microsoft Corporation; CN=Microsoft Azure TLS Issuing CA 02\n",
+		"timestamp": 1682673783435
+	},
+	{
+		"name": "Text",
+		"value": " SSL certificate verify ok.\n",
+		"timestamp": 1682673783435
+	},
+	{
+		"name": "Text",
+		"value": "Using HTTP2, server supports multiplexing\n",
+		"timestamp": 1682673783435
+	},
+	{
+		"name": "Text",
+		"value": "Connection state changed (HTTP/2 confirmed)\n",
+		"timestamp": 1682673783435
+	},
+	{
+		"name": "Text",
+		"value": "Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0\n",
+		"timestamp": 1682673783435
+	},
+	{
+		"name": "Text",
+		"value": "Using Stream ID: 1 (easy handle 0x311002ce7800)\n",
+		"timestamp": 1682673783435
+	},
+	{
+		"name": "HeaderOut",
+		"value": "POST /indexes/ditacontents/docs/search?api-version=2020-06-30 HTTP/2\r\nHost: knowledge-center-euw-test-search-01.search.windows.net\r\nuser-agent: insomnia/2022.6.0\r\ncontent-type: application/json\r\napi-key: 5J3HjQACKM5kFuWfb3PqAs7osbMLEqAc2Ugtv4REloAzSeAGhcSj\r\naccept: */*\r\ncontent-length: 297\r\n\r\n",
+		"timestamp": 1682673783435
+	},
+	{
+		"name": "DataOut",
+		"value": "{\n  \"search\": \"\",\n  \"orderby\": \"\",\n  \"top\": 10,\n  \"skip\": 0,\n  \"count\": true,\n  \"select\": \"*\",\n  \"searchFields\": \"title,content\",\n  \"filter\": \"locale eq 'en-US' and uuid eq 'af432260-0e92-11ed-a3b0-0242eb806d49_c00017a0-0a6c-11ec-8d64-0242eb806d49'\",\n  \"searchMode\": \"any\",\n  \"queryType\": \"full\"\n}",
+		"timestamp": 1682673783435
+	},
+	{
+		"name": "Text",
+		"value": "We are completely uploaded and fine\n",
+		"timestamp": 1682673783436
+	},
+	{
+		"name": "HeaderIn",
+		"value": "HTTP/2 403 \r\n",
+		"timestamp": 1682673783508
+	},
+	{
+		"name": "HeaderIn",
+		"value": "content-language: en\r\n",
+		"timestamp": 1682673783508
+	},
+	{
+		"name": "HeaderIn",
+		"value": "server: Microsoft-IIS/10.0\r\n",
+		"timestamp": 1682673783508
+	},
+	{
+		"name": "HeaderIn",
+		"value": "strict-transport-security: max-age=2592000\r\n",
+		"timestamp": 1682673783508
+	},
+	{
+		"name": "HeaderIn",
+		"value": "preference-applied: odata.include-annotations=\"*\"\r\n",
+		"timestamp": 1682673783508
+	},
+	{
+		"name": "HeaderIn",
+		"value": "request-id: 648699f2-8ea6-4e29-8d06-2d791eef59c0\r\n",
+		"timestamp": 1682673783508
+	},
+	{
+		"name": "HeaderIn",
+		"value": "elapsed-time: 44\r\n",
+		"timestamp": 1682673783508
+	},
+	{
+		"name": "HeaderIn",
+		"value": "strict-transport-security: max-age=15724800; includeSubDomains\r\n",
+		"timestamp": 1682673783508
+	},
+	{
+		"name": "HeaderIn",
+		"value": "date: Fri, 28 Apr 2023 09:23:17 GMT\r\n",
+		"timestamp": 1682673783508
+	},
+	{
+		"name": "HeaderIn",
+		"value": "\r\n",
+		"timestamp": 1682673783509
+	},
+	{
+		"name": "Text",
+		"value": "Connection #0 to host knowledge-center-euw-test-search-01.search.windows.net left intact\n",
+		"timestamp": 1682673783509
+	}
+]

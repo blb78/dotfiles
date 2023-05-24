@@ -1,0 +1,52 @@
+[
+	{
+		"value": "Preparing request to https://knowledgecenter.cloudservices.dev.mylectra.com/api/onboardings",
+		"name": "Text",
+		"timestamp": 1673342508616
+	},
+	{
+		"value": "Current time is 2023-01-10T09:21:48.616Z",
+		"name": "Text",
+		"timestamp": 1673342508616
+	},
+	{
+		"value": "Enable automatic URL encoding",
+		"name": "Text",
+		"timestamp": 1673342508616
+	},
+	{
+		"value": "Using default HTTP version",
+		"name": "Text",
+		"timestamp": 1673342508617
+	},
+	{
+		"value": "Enable SSL validation",
+		"name": "Text",
+		"timestamp": 1673342508617
+	},
+	{
+		"name": "Text",
+		"value": "Too old connection (63531 seconds), disconnect it\n",
+		"timestamp": 1673342508618
+	},
+	{
+		"name": "Text",
+		"value": "Connection 2 seems to be dead!\n",
+		"timestamp": 1673342508618
+	},
+	{
+		"name": "Text",
+		"value": "Closing connection 2\n",
+		"timestamp": 1673342508618
+	},
+	{
+		"name": "Text",
+		"value": "Could not resolve host: knowledgecenter.cloudservices.dev.mylectra.com\n",
+		"timestamp": 1673342508662
+	},
+	{
+		"name": "Text",
+		"value": "Closing connection 3\n",
+		"timestamp": 1673342508662
+	}
+]

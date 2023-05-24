@@ -1,0 +1,237 @@
+[
+	{
+		"value": "Preparing request to https://knowledgecentercms.dev.mylectra.com/admin/login",
+		"name": "Text",
+		"timestamp": 1673342514326
+	},
+	{
+		"value": "Current time is 2023-01-10T09:21:54.326Z",
+		"name": "Text",
+		"timestamp": 1673342514326
+	},
+	{
+		"value": "Enable automatic URL encoding",
+		"name": "Text",
+		"timestamp": 1673342514326
+	},
+	{
+		"value": "Using default HTTP version",
+		"name": "Text",
+		"timestamp": 1673342514328
+	},
+	{
+		"value": "Enable SSL validation",
+		"name": "Text",
+		"timestamp": 1673342514328
+	},
+	{
+		"name": "Text",
+		"value": "  Trying 20.56.190.42:443...\n",
+		"timestamp": 1673342514334
+	},
+	{
+		"name": "Text",
+		"value": "Connected to knowledgecentercms.dev.mylectra.com (20.56.190.42) port 443 (#4)\n",
+		"timestamp": 1673342514354
+	},
+	{
+		"name": "Text",
+		"value": "ALPN, offering h2\n",
+		"timestamp": 1673342514354
+	},
+	{
+		"name": "Text",
+		"value": "ALPN, offering http/1.1\n",
+		"timestamp": 1673342514354
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (OUT), TLS handshake, Client hello (1):\n",
+		"timestamp": 1673342514364
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (IN), TLS handshake, Server hello (2):\n",
+		"timestamp": 1673342514385
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):\n",
+		"timestamp": 1673342514385
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (IN), TLS handshake, Certificate (11):\n",
+		"timestamp": 1673342514385
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (IN), TLS handshake, CERT verify (15):\n",
+		"timestamp": 1673342514386
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (IN), TLS handshake, Finished (20):\n",
+		"timestamp": 1673342514386
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (OUT), TLS change cipher, Change cipher spec (1):\n",
+		"timestamp": 1673342514386
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (OUT), TLS handshake, Finished (20):\n",
+		"timestamp": 1673342514386
+	},
+	{
+		"name": "Text",
+		"value": "SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256\n",
+		"timestamp": 1673342514386
+	},
+	{
+		"name": "Text",
+		"value": "ALPN, server accepted to use h2\n",
+		"timestamp": 1673342514386
+	},
+	{
+		"name": "Text",
+		"value": "Server certificate:\n",
+		"timestamp": 1673342514386
+	},
+	{
+		"name": "Text",
+		"value": " subject: CN=*.dev.mylectra.com\n",
+		"timestamp": 1673342514386
+	},
+	{
+		"name": "Text",
+		"value": " start date: Nov 28 00:00:00 2022 GMT\n",
+		"timestamp": 1673342514386
+	},
+	{
+		"name": "Text",
+		"value": " expire date: Feb 26 23:59:59 2023 GMT\n",
+		"timestamp": 1673342514386
+	},
+	{
+		"name": "Text",
+		"value": " subjectAltName: host \"knowledgecentercms.dev.mylectra.com\" matched cert's \"*.dev.mylectra.com\"\n",
+		"timestamp": 1673342514386
+	},
+	{
+		"name": "Text",
+		"value": " issuer: C=AT; O=ZeroSSL; CN=ZeroSSL RSA Domain Secure Site CA\n",
+		"timestamp": 1673342514386
+	},
+	{
+		"name": "Text",
+		"value": " SSL certificate verify ok.\n",
+		"timestamp": 1673342514386
+	},
+	{
+		"name": "Text",
+		"value": "Using HTTP2, server supports multiplexing\n",
+		"timestamp": 1673342514386
+	},
+	{
+		"name": "Text",
+		"value": "Connection state changed (HTTP/2 confirmed)\n",
+		"timestamp": 1673342514386
+	},
+	{
+		"name": "Text",
+		"value": "Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0\n",
+		"timestamp": 1673342514386
+	},
+	{
+		"name": "Text",
+		"value": "Using Stream ID: 1 (easy handle 0x374002d02000)\n",
+		"timestamp": 1673342514387
+	},
+	{
+		"name": "HeaderOut",
+		"value": "POST /admin/login HTTP/2\r\nHost: knowledgecentercms.dev.mylectra.com\r\nuser-agent: insomnia/2022.6.0\r\ncontent-type: application/json\r\naccept: */*\r\ncontent-length: 63\r\n\r\n",
+		"timestamp": 1673342514387
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (IN), TLS handshake, Newsession Ticket (4):\n",
+		"timestamp": 1673342514387
+	},
+	{
+		"name": "DataOut",
+		"value": "{\"email\": \"admin@lectra.fr\", \"password\":\"7hjYJdJov7YDsQ7SnYYY\"}",
+		"timestamp": 1673342514387
+	},
+	{
+		"name": "Text",
+		"value": "We are completely uploaded and fine\n",
+		"timestamp": 1673342514387
+	},
+	{
+		"name": "Text",
+		"value": "Connection state changed (MAX_CONCURRENT_STREAMS == 250)!\n",
+		"timestamp": 1673342514404
+	},
+	{
+		"name": "HeaderIn",
+		"value": "HTTP/2 200 \r\n",
+		"timestamp": 1673342514552
+	},
+	{
+		"name": "HeaderIn",
+		"value": "content-type: application/json; charset=utf-8\r\n",
+		"timestamp": 1673342514552
+	},
+	{
+		"name": "HeaderIn",
+		"value": "date: Tue, 10 Jan 2023 09:22:04 GMT\r\n",
+		"timestamp": 1673342514552
+	},
+	{
+		"name": "HeaderIn",
+		"value": "strict-transport-security: max-age=15724800; includeSubDomains\r\n",
+		"timestamp": 1673342514552
+	},
+	{
+		"name": "HeaderIn",
+		"value": "vary: Origin\r\n",
+		"timestamp": 1673342514552
+	},
+	{
+		"name": "HeaderIn",
+		"value": "x-frame-options: DENY\r\n",
+		"timestamp": 1673342514552
+	},
+	{
+		"name": "HeaderIn",
+		"value": "x-powered-by: Strapi <strapi.io>\r\n",
+		"timestamp": 1673342514552
+	},
+	{
+		"name": "HeaderIn",
+		"value": "x-response-time: 145ms\r\n",
+		"timestamp": 1673342514552
+	},
+	{
+		"name": "HeaderIn",
+		"value": "content-length: 485\r\n",
+		"timestamp": 1673342514552
+	},
+	{
+		"name": "HeaderIn",
+		"value": "\r\n",
+		"timestamp": 1673342514552
+	},
+	{
+		"name": "Text",
+		"value": "Received 485 B chunk",
+		"timestamp": 1673342514552
+	},
+	{
+		"name": "Text",
+		"value": "Connection #4 to host knowledgecentercms.dev.mylectra.com left intact\n",
+		"timestamp": 1673342514552
+	}
+]

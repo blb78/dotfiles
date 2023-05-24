@@ -1,0 +1,152 @@
+[
+	{
+		"value": "Preparing request to https://downloadagent-api.cloudservices.dev.mylectra.com/api/software/latest",
+		"name": "Text",
+		"timestamp": 1684334881980
+	},
+	{
+		"value": "Current time is 2023-05-17T14:48:01.980Z",
+		"name": "Text",
+		"timestamp": 1684334881980
+	},
+	{
+		"value": "Enable automatic URL encoding",
+		"name": "Text",
+		"timestamp": 1684334881980
+	},
+	{
+		"value": "Using default HTTP version",
+		"name": "Text",
+		"timestamp": 1684334881981
+	},
+	{
+		"value": "Enable SSL validation",
+		"name": "Text",
+		"timestamp": 1684334881981
+	},
+	{
+		"value": "Enable cookie sending with jar of 6 cookies",
+		"name": "Text",
+		"timestamp": 1684334881981
+	},
+	{
+		"name": "Text",
+		"value": "Found bundle for host downloadagent-api.cloudservices.dev.mylectra.com: 0x2298038b01b0 [can multiplex]\n",
+		"timestamp": 1684334881982
+	},
+	{
+		"name": "Text",
+		"value": "Re-using existing connection! (#1) with host downloadagent-api.cloudservices.dev.mylectra.com\n",
+		"timestamp": 1684334881982
+	},
+	{
+		"name": "Text",
+		"value": "Connected to downloadagent-api.cloudservices.dev.mylectra.com (20.56.190.42) port 443 (#1)\n",
+		"timestamp": 1684334881982
+	},
+	{
+		"name": "Text",
+		"value": "Using Stream ID: 5 (easy handle 0x229802ced000)\n",
+		"timestamp": 1684334881982
+	},
+	{
+		"name": "HeaderOut",
+		"value": "GET /api/software/latest HTTP/2\r\nHost: downloadagent-api.cloudservices.dev.mylectra.com\r\nuser-agent: insomnia/2022.6.0\r\nauthorization: Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Ik9EWTBSREJGTlVFM1JEVTVRVE13TVVRMk9EVXhRVFpCTkVRNU5qRTRPRUZETmprd09VVTRPQSJ9.eyJodHRwczovL21ldGFkYXRhLmxlY3RyYS5jb20iOnsic2l0ZXNQZXJtaXNzaW9ucyI6W3sic2l0ZUlkIjoiODVhZDI4ZGItZDc3NS00ZmE0LWEzNjEtMDZlOWEyMmI1YzA2IiwicGVybWlzc2lvbnMiOlsiQURNU1UiLCJBUElfTUdUIiwiQzEiLCJDMiIsIkMzIiwiQzQiLCJDNSIsIklNUFJPVkUiLCJLVUJJWCIsIk1BVF9NQU5BR0VSIiwiTU9EXzNEIiwiTU9EX0VYUCIsIk1ZX0NPTlRSQUNUUyIsIk5FVEVWRU4iLCJPRF9GQSIsIk9QRVgiLCJPUkRfRk9STSIsIk9SRF9NQU5BR0VSIiwiUEFUVEVSTl9FWFAiLCJQQ09OViIsIlBST0RfTUFOQUdFUiIsIlJFTF9NQU5BR0VSIiwiUkVUVklFV1MiLCJTVVBQT1JUIiwiU1lTX01BTkFHRVIiXX0seyJzaXRlSWQiOiI0M2QyZWUxYS04YzliLTQ1NjItYTc2Yi1lNWIzOWE2Y2Y5YTMiLCJwZXJtaXNzaW9ucyI6WyJBRE1TVSIsIk1BSV9NQU5BR0VSIl19XSwic2l0ZUlkIjoiODVhZDI4ZGItZDc3NS00ZmE0LWEzNjEtMDZlOWEyMmI1YzA2IiwidGVuYW50SWQiOiI5YmRmZDI1MS0xZDdiLTQwZjMtYjY4OS1mYWQ5MWQ4NjM5OWUiLCJ1c2Vyc1Zpc2liaWxpdHkiOiJTSVRFIn0sImlzcyI6Imh0dHBzOi8vbG9naW4uZGV2Lm15bGVjdHJhLmNvbS8iLCJzdWIiOiJhdXRoMHw2MGM4OTUzZWU2NWJiODAwNzBlNzUxZmEiLCJhdWQiOlsiaHR0cHM6Ly9kb3dubG9hZGNlbnRlci5kZXYubXlsZWN0cmEuY29tIiwiaHR0cHM6Ly9kZXYtbGVjdHJhLXNlcnZpY2VzLmV1LmF1dGgwLmNvbS91c2VyaW5mbyJdLCJpYXQiOjE2ODQzMzQ4NzgsImV4cCI6MTY4NDQyMTI3OCwiYXpwIjoiWVc1cUt1c2FPZ2kzWGlONVhwcUc2b2ZkQUFuYWxPemQiLCJzY29wZSI6Im9wZW5pZCBwcm9maWxlIGVtYWlsIn0.KUXhTVSH8eH6x8N9aMxz65kkdWvXPmuc7qu2l1oEZ_br0oNLh-Bsi67_w7qumQodvbJ0QHeXESsFIkahVi1SHcKhQnHXziH61LPDZ3j_t-JuPqKBNQ1EBB7bYzdj5uL2Rfr6TxiVkB-BR2ogw6lTuUqQF-lT4T9EZM5iI9Qr9gNIS4WATzL-eggTEir6XGc42_b8KBdmMHEU-l7YJRD3IKWzJD7sUWAbh1r78sQm1C_9SLBWNeBBXg6LioLKTCcNRf-GAkYpLpqtvmrEfBmS_T-W5FuEoU4-FT5Av2AoTJ3EfrculXuZeP4KkvXFZnYmP-JDYXVCeCGyAXVH0eK0fg\r\ncontent-type: application/json\r\naccept: */*\r\ncontent-length: 119\r\n\r\n",
+		"timestamp": 1684334881982
+	},
+	{
+		"name": "DataOut",
+		"value": "{\"event\": \"event\",\"level\":\"debug\",\"timestamp\": \"2023-03-31T09:57:00.779+00:00\",\"message\":\"message\",\"instanceId\":\"1234\"}",
+		"timestamp": 1684334881982
+	},
+	{
+		"name": "Text",
+		"value": "We are completely uploaded and fine\n",
+		"timestamp": 1684334881982
+	},
+	{
+		"name": "HeaderIn",
+		"value": "HTTP/2 200 \r\n",
+		"timestamp": 1684334882586
+	},
+	{
+		"name": "HeaderIn",
+		"value": "cache-control: no-cache, no-store, max-age=0, must-revalidate\r\n",
+		"timestamp": 1684334882586
+	},
+	{
+		"name": "HeaderIn",
+		"value": "content-security-policy: frame-ancestors 'none';\r\n",
+		"timestamp": 1684334882586
+	},
+	{
+		"name": "HeaderIn",
+		"value": "content-type: application/json\r\n",
+		"timestamp": 1684334882586
+	},
+	{
+		"name": "HeaderIn",
+		"value": "date: Wed, 17 May 2023 14:48:22 GMT\r\n",
+		"timestamp": 1684334882586
+	},
+	{
+		"name": "HeaderIn",
+		"value": "expires: 0\r\n",
+		"timestamp": 1684334882586
+	},
+	{
+		"name": "HeaderIn",
+		"value": "feature-policy: fullscreen 'self';\r\n",
+		"timestamp": 1684334882586
+	},
+	{
+		"name": "HeaderIn",
+		"value": "pragma: no-cache\r\n",
+		"timestamp": 1684334882586
+	},
+	{
+		"name": "HeaderIn",
+		"value": "referrer-policy: strict-origin\r\n",
+		"timestamp": 1684334882586
+	},
+	{
+		"name": "HeaderIn",
+		"value": "server-timing: intid;desc=21d1a08cbb83e4c3\r\n",
+		"timestamp": 1684334882586
+	},
+	{
+		"name": "HeaderIn",
+		"value": "strict-transport-security: max-age=15724800; includeSubDomains\r\n",
+		"timestamp": 1684334882586
+	},
+	{
+		"name": "HeaderIn",
+		"value": "x-content-type-options: nosniff\r\n",
+		"timestamp": 1684334882586
+	},
+	{
+		"name": "HeaderIn",
+		"value": "x-frame-options: DENY\r\n",
+		"timestamp": 1684334882586
+	},
+	{
+		"name": "HeaderIn",
+		"value": "x-xss-protection: 1; mode=block\r\n",
+		"timestamp": 1684334882586
+	},
+	{
+		"name": "HeaderIn",
+		"value": "\r\n",
+		"timestamp": 1684334882586
+	},
+	{
+		"name": "Text",
+		"value": "Received 4.4 KB chunk",
+		"timestamp": 1684334882587
+	},
+	{
+		"name": "Text",
+		"value": "Connection #1 to host downloadagent-api.cloudservices.dev.mylectra.com left intact\n",
+		"timestamp": 1684334882587
+	}
+]

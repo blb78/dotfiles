@@ -1,0 +1,37 @@
+[
+	{
+		"value": "Preparing request to http://api/",
+		"name": "Text",
+		"timestamp": 1669707780896
+	},
+	{
+		"value": "Current time is 2022-11-29T07:43:00.896Z",
+		"name": "Text",
+		"timestamp": 1669707780896
+	},
+	{
+		"value": "Enable automatic URL encoding",
+		"name": "Text",
+		"timestamp": 1669707780896
+	},
+	{
+		"value": "Using default HTTP version",
+		"name": "Text",
+		"timestamp": 1669707780897
+	},
+	{
+		"value": "Enable SSL validation",
+		"name": "Text",
+		"timestamp": 1669707780897
+	},
+	{
+		"name": "Text",
+		"value": "Could not resolve host: api\n",
+		"timestamp": 1669707780901
+	},
+	{
+		"name": "Text",
+		"value": "Closing connection 3\n",
+		"timestamp": 1669707780901
+	}
+]

@@ -1,0 +1,44 @@
+[2023-05-23 09:39:14.372] [info]  [db] Initialized DB client
+[2023-05-23 09:39:14.432] [warn]  The vm module of Node.js is deprecated in the renderer process and will be removed.
+[2023-05-23 09:39:14.445] [warn]  The vm module of Node.js is deprecated in the renderer process and will be removed.
+[2023-05-23 09:39:15.369] [info]  [FileSystemDriver] Initialized in "/home/blebris/.config/Insomnia/version-control"
+[2023-05-23 09:39:15.371] [info]  [FileSystemDriver] Initialized in "/home/blebris/.config/Insomnia/version-control"
+[2023-05-23 09:39:15.371] [info]  [sync] checking for collections which need to be moved into a remote project
+[2023-05-23 09:39:25.818] [info]  [toast] Received notification linux-update-2023.2.2
+[2023-05-23 09:39:25.819] [info]  [toast] Not showing notification linux-update-2023.2.2 because has already been seen
+[2023-05-23 09:39:35.273] [info]  [network] Sending req=req_13f3fa1cfdeb4bef9f7c251fb8a74916 env=env_f63904ade9aa41d2922877caa076bb65
+[2023-05-23 09:39:35.766] [info]  [network] Response succeeded req=req_13f3fa1cfdeb4bef9f7c251fb8a74916 status=200
+[2023-05-23 10:09:15.876] [info]  [toast] Received notification linux-update-2023.2.2
+[2023-05-23 10:09:15.877] [info]  [toast] Not showing notification linux-update-2023.2.2 because has already been seen
+[2023-05-23 10:39:15.849] [info]  [toast] Received notification linux-update-2023.2.2
+[2023-05-23 10:39:15.850] [info]  [toast] Not showing notification linux-update-2023.2.2 because has already been seen
+[2023-05-23 11:09:15.920] [info]  [toast] Received notification linux-update-2023.2.2
+[2023-05-23 11:09:15.920] [info]  [toast] Not showing notification linux-update-2023.2.2 because has already been seen
+[2023-05-23 11:39:15.851] [info]  [toast] Received notification linux-update-2023.2.2
+[2023-05-23 11:39:15.852] [info]  [toast] Not showing notification linux-update-2023.2.2 because has already been seen
+[2023-05-23 12:09:42.924] [info]  [toast] Received notification linux-update-2023.2.2
+[2023-05-23 12:09:42.925] [info]  [toast] Not showing notification linux-update-2023.2.2 because has already been seen
+[2023-05-23 12:39:42.843] [info]  [toast] Received notification linux-update-2023.2.2
+[2023-05-23 12:39:42.844] [info]  [toast] Not showing notification linux-update-2023.2.2 because has already been seen
+[2023-05-23 12:48:00.652] [info]  [network] Sending req=req_13f3fa1cfdeb4bef9f7c251fb8a74916 env=env_f63904ade9aa41d2922877caa076bb65
+[2023-05-23 12:48:02.765] [info]  [network] Response succeeded req=req_13f3fa1cfdeb4bef9f7c251fb8a74916 status=200
+[2023-05-23 12:50:04.135] [info]  [network] Sending req=req_13f3fa1cfdeb4bef9f7c251fb8a74916 env=env_f63904ade9aa41d2922877caa076bb65
+[2023-05-23 12:50:04.345] [info]  [network] Response succeeded req=req_13f3fa1cfdeb4bef9f7c251fb8a74916 status=200
+[2023-05-23 12:50:09.793] [info]  [network] Sending req=req_13f3fa1cfdeb4bef9f7c251fb8a74916 env=env_f63904ade9aa41d2922877caa076bb65
+[2023-05-23 12:50:09.874] [info]  [network] Response succeeded req=req_13f3fa1cfdeb4bef9f7c251fb8a74916 status=200
+[2023-05-23 12:50:11.844] [info]  [network] Sending req=req_13f3fa1cfdeb4bef9f7c251fb8a74916 env=env_f63904ade9aa41d2922877caa076bb65
+[2023-05-23 12:50:11.936] [info]  [network] Response succeeded req=req_13f3fa1cfdeb4bef9f7c251fb8a74916 status=200
+[2023-05-23 12:52:18.080] [info]  [network] Sending req=req_13f3fa1cfdeb4bef9f7c251fb8a74916 env=env_f63904ade9aa41d2922877caa076bb65
+[2023-05-23 12:52:18.280] [info]  [network] Response succeeded req=req_13f3fa1cfdeb4bef9f7c251fb8a74916 status=200
+[2023-05-23 13:09:42.884] [info]  [toast] Received notification linux-update-2023.2.2
+[2023-05-23 13:09:42.885] [info]  [toast] Not showing notification linux-update-2023.2.2 because has already been seen
+[2023-05-23 13:39:42.853] [info]  [toast] Received notification linux-update-2023.2.2
+[2023-05-23 13:39:42.854] [info]  [toast] Not showing notification linux-update-2023.2.2 because has already been seen
+[2023-05-23 14:09:42.868] [info]  [toast] Received notification linux-update-2023.2.2
+[2023-05-23 14:09:42.869] [info]  [toast] Not showing notification linux-update-2023.2.2 because has already been seen
+[2023-05-23 14:39:42.492] [warn]  [toast] Failed to fetch user notifications Error: Failed to fetch 'https://api.insomnia.rest/notification'
+    at tF (file:///opt/Insomnia/resources/app.asar/index.95ead712.js:64:61964)
+    at async fz._checkForNotifications (file:///opt/Insomnia/resources/app.asar/index.95ead712.js:1848:1136)
+[2023-05-23 15:09:42.497] [warn]  [toast] Failed to fetch user notifications Error: Failed to fetch 'https://api.insomnia.rest/notification'
+    at tF (file:///opt/Insomnia/resources/app.asar/index.95ead712.js:64:61964)
+    at async fz._checkForNotifications (file:///opt/Insomnia/resources/app.asar/index.95ead712.js:1848:1136)

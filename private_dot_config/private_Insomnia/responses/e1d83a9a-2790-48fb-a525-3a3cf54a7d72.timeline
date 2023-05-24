@@ -1,0 +1,127 @@
+[
+	{
+		"value": "Preparing request to http://localhost:8080/api/variations",
+		"name": "Text",
+		"timestamp": 1669901347106
+	},
+	{
+		"value": "Current time is 2022-12-01T13:29:07.106Z",
+		"name": "Text",
+		"timestamp": 1669901347106
+	},
+	{
+		"value": "Enable automatic URL encoding",
+		"name": "Text",
+		"timestamp": 1669901347106
+	},
+	{
+		"value": "Using default HTTP version",
+		"name": "Text",
+		"timestamp": 1669901347107
+	},
+	{
+		"value": "Enable SSL validation",
+		"name": "Text",
+		"timestamp": 1669901347107
+	},
+	{
+		"name": "Text",
+		"value": "Too old connection (161 seconds), disconnect it\n",
+		"timestamp": 1669901347108
+	},
+	{
+		"name": "Text",
+		"value": "Connection 4 seems to be dead!\n",
+		"timestamp": 1669901347108
+	},
+	{
+		"name": "Text",
+		"value": "Closing connection 4\n",
+		"timestamp": 1669901347108
+	},
+	{
+		"name": "Text",
+		"value": "Hostname in DNS cache was stale, zapped\n",
+		"timestamp": 1669901347108
+	},
+	{
+		"name": "Text",
+		"value": "  Trying 127.0.0.1:8080...\n",
+		"timestamp": 1669901347108
+	},
+	{
+		"name": "Text",
+		"value": "Connected to localhost (127.0.0.1) port 8080 (#5)\n",
+		"timestamp": 1669901347108
+	},
+	{
+		"name": "HeaderOut",
+		"value": "POST /api/variations HTTP/1.1\r\nHost: localhost:8080\r\nUser-Agent: insomnia/2022.6.0\r\nContent-Type: application/json\r\nAccept: */*\r\nContent-Length: 301\r\n\r\n",
+		"timestamp": 1669901347108
+	},
+	{
+		"name": "DataOut",
+		"value": "{\n\t\"permissions\":[\"KNOW_CENTER\",\"ADMSU\", \"API_MGT\", \"C1\", \"C2\", \"C3\", \"C4\", \"C5\", \"CONTROL\", \"IMPROVE\", \"KUBIX\", \"MAI_MANAGER\", \"MAT_MANAGER\", \"MOD_3D\", \"MOD_EXP\", \"MY_CONTRACTS\", \"OD_FA\", \"OPEX\"],\n\t\"tenantId\":\"9bdfd251-1d7b-40f3-b689-fad91d86399e\",\n\t\"siteId\":\"85ad28db-d775-4fa4-a361-06e9a22b5c06 \"\n}",
+		"timestamp": 1669901347108
+	},
+	{
+		"name": "Text",
+		"value": "Mark bundle as not supporting multiuse\n",
+		"timestamp": 1669901362430
+	},
+	{
+		"name": "HeaderIn",
+		"value": "HTTP/1.1 200 OK\r\n",
+		"timestamp": 1669901362430
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Connection: keep-alive\r\n",
+		"timestamp": 1669901362430
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Transfer-Encoding: chunked\r\n",
+		"timestamp": 1669901362430
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Content-Type: application/json\r\n",
+		"timestamp": 1669901362430
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Date: Thu, 01 Dec 2022 13:29:22 GMT\r\n",
+		"timestamp": 1669901362430
+	},
+	{
+		"name": "HeaderIn",
+		"value": "\r\n",
+		"timestamp": 1669901362430
+	},
+	{
+		"name": "Text",
+		"value": "Received 15.9 KB chunk",
+		"timestamp": 1669901362430
+	},
+	{
+		"name": "Text",
+		"value": "Received 7.6 KB chunk",
+		"timestamp": 1669901362430
+	},
+	{
+		"name": "Text",
+		"value": "Received 15.2 KB chunk",
+		"timestamp": 1669901362431
+	},
+	{
+		"name": "Text",
+		"value": "Received 5 B chunk",
+		"timestamp": 1669901362435
+	},
+	{
+		"name": "Text",
+		"value": "Connection #5 to host localhost left intact\n",
+		"timestamp": 1669901362435
+	}
+]

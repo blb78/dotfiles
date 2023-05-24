@@ -1,0 +1,12 @@
+[2023-05-24 11:15:05.886] [info]  Running version 2022.6.0
+[2023-05-24 11:15:05.905] [error] [electron client protocol] FAILED to set default protocol 'insomnia://'
+[2023-05-24 11:15:05.919] [info]  [electron client protocol] the current executable is not the default protocol for 'insomnia://'
+[2023-05-24 11:15:05.995] [info]  [electron client protocol] the default application set for 'insomnia://' is 'insomnia.desktop
+'
+[2023-05-24 11:15:06.470] [info]  [fix] Running database repairs
+[2023-05-24 11:15:06.555] [info]  [db] Initialized DB at /home/blebris/.config/Insomnia/insomnia.$TYPE.db
+[2023-05-24 11:15:06.555] [info]  [db] Init responses DB
+[2023-05-24 11:15:06.556] [info]  [db] Init websocket-responses DB
+[2023-05-24 11:15:06.561] [info]  [localstorage] Initialized at /home/blebris/.config/Insomnia/localStorage
+[2023-05-24 11:15:06.747] [info]  [main] Loading file:///opt/Insomnia/resources/app.asar/index.html
+[2023-05-24 11:15:07.275] [info]  [updater] Updater not running platform=linux dev=false

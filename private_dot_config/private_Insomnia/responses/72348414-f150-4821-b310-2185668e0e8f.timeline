@@ -1,0 +1,57 @@
+[
+	{
+		"value": "Preparing request to http://localhost:1337/keys/30",
+		"name": "Text",
+		"timestamp": 1670917769274
+	},
+	{
+		"value": "Current time is 2022-12-13T07:49:29.274Z",
+		"name": "Text",
+		"timestamp": 1670917769274
+	},
+	{
+		"value": "Enable automatic URL encoding",
+		"name": "Text",
+		"timestamp": 1670917769274
+	},
+	{
+		"value": "Using default HTTP version",
+		"name": "Text",
+		"timestamp": 1670917769278
+	},
+	{
+		"value": "Enable SSL validation",
+		"name": "Text",
+		"timestamp": 1670917769278
+	},
+	{
+		"name": "Text",
+		"value": "  Trying 127.0.0.1:1337...\n",
+		"timestamp": 1670917769280
+	},
+	{
+		"name": "Text",
+		"value": "connect to 127.0.0.1 port 1337 failed: Connexion refusée\n",
+		"timestamp": 1670917769280
+	},
+	{
+		"name": "Text",
+		"value": "  Trying ::1:1337...\n",
+		"timestamp": 1670917769280
+	},
+	{
+		"name": "Text",
+		"value": "connect to ::1 port 1337 failed: Connexion refusée\n",
+		"timestamp": 1670917769280
+	},
+	{
+		"name": "Text",
+		"value": "Failed to connect to localhost port 1337 after 0 ms: Connexion refusée\n",
+		"timestamp": 1670917769280
+	},
+	{
+		"name": "Text",
+		"value": "Closing connection 0\n",
+		"timestamp": 1670917769280
+	}
+]

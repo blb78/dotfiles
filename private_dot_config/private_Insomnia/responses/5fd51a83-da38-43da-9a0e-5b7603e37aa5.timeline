@@ -1,0 +1,57 @@
+[
+	{
+		"value": "Preparing request to http://localhost:8080/documents",
+		"name": "Text",
+		"timestamp": 1670858512686
+	},
+	{
+		"value": "Current time is 2022-12-12T15:21:52.686Z",
+		"name": "Text",
+		"timestamp": 1670858512686
+	},
+	{
+		"value": "Enable automatic URL encoding",
+		"name": "Text",
+		"timestamp": 1670858512686
+	},
+	{
+		"value": "Using default HTTP version",
+		"name": "Text",
+		"timestamp": 1670858512688
+	},
+	{
+		"value": "Enable SSL validation",
+		"name": "Text",
+		"timestamp": 1670858512688
+	},
+	{
+		"name": "Text",
+		"value": "  Trying 127.0.0.1:8080...\n",
+		"timestamp": 1670858512690
+	},
+	{
+		"name": "Text",
+		"value": "connect to 127.0.0.1 port 8080 failed: Connexion refusée\n",
+		"timestamp": 1670858512690
+	},
+	{
+		"name": "Text",
+		"value": "  Trying ::1:8080...\n",
+		"timestamp": 1670858512690
+	},
+	{
+		"name": "Text",
+		"value": "connect to ::1 port 8080 failed: Connexion refusée\n",
+		"timestamp": 1670858512690
+	},
+	{
+		"name": "Text",
+		"value": "Failed to connect to localhost port 8080 after 0 ms: Connexion refusée\n",
+		"timestamp": 1670858512690
+	},
+	{
+		"name": "Text",
+		"value": "Closing connection 0\n",
+		"timestamp": 1670858512690
+	}
+]

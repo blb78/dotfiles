@@ -1,0 +1,137 @@
+[
+	{
+		"value": "Preparing request to http://localhost:9080/api/software/latest",
+		"name": "Text",
+		"timestamp": 1679632975884
+	},
+	{
+		"value": "Current time is 2023-03-24T04:42:55.884Z",
+		"name": "Text",
+		"timestamp": 1679632975884
+	},
+	{
+		"value": "Enable automatic URL encoding",
+		"name": "Text",
+		"timestamp": 1679632975884
+	},
+	{
+		"value": "Using default HTTP version",
+		"name": "Text",
+		"timestamp": 1679632975885
+	},
+	{
+		"value": "Enable SSL validation",
+		"name": "Text",
+		"timestamp": 1679632975885
+	},
+	{
+		"name": "Text",
+		"value": "  Trying 127.0.0.1:9080...\n",
+		"timestamp": 1679632975885
+	},
+	{
+		"name": "Text",
+		"value": "Connected to localhost (127.0.0.1) port 9080 (#3)\n",
+		"timestamp": 1679632975885
+	},
+	{
+		"name": "HeaderOut",
+		"value": "GET /api/software/latest HTTP/1.1\r\nHost: localhost:9080\r\nUser-Agent: insomnia/2022.6.0\r\nAccept: */*\r\n\r\n",
+		"timestamp": 1679632975885
+	},
+	{
+		"name": "Text",
+		"value": "Mark bundle as not supporting multiuse\n",
+		"timestamp": 1679632975972
+	},
+	{
+		"name": "HeaderIn",
+		"value": "HTTP/1.1 401 Unauthorized\r\n",
+		"timestamp": 1679632975972
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Expires: 0\r\n",
+		"timestamp": 1679632975972
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Cache-Control: no-cache, no-store, max-age=0, must-revalidate\r\n",
+		"timestamp": 1679632975972
+	},
+	{
+		"name": "HeaderIn",
+		"value": "X-XSS-Protection: 1; mode=block\r\n",
+		"timestamp": 1679632975972
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Pragma: no-cache\r\n",
+		"timestamp": 1679632975972
+	},
+	{
+		"name": "HeaderIn",
+		"value": "X-Frame-Options: DENY\r\n",
+		"timestamp": 1679632975972
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Referrer-Policy: strict-origin\r\n",
+		"timestamp": 1679632975973
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Content-Security-Policy: frame-ancestors 'none';\r\n",
+		"timestamp": 1679632975973
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Date: Fri, 24 Mar 2023 04:42:55 GMT\r\n",
+		"timestamp": 1679632975973
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Connection: keep-alive\r\n",
+		"timestamp": 1679632975973
+	},
+	{
+		"name": "HeaderIn",
+		"value": "X-Content-Type-Options: nosniff\r\n",
+		"timestamp": 1679632975973
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Feature-Policy: fullscreen 'self';\r\n",
+		"timestamp": 1679632975973
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Transfer-Encoding: chunked\r\n",
+		"timestamp": 1679632975973
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Content-Type: application/json\r\n",
+		"timestamp": 1679632975973
+	},
+	{
+		"name": "HeaderIn",
+		"value": "\r\n",
+		"timestamp": 1679632975973
+	},
+	{
+		"name": "Text",
+		"value": "Received 117 B chunk",
+		"timestamp": 1679632975973
+	},
+	{
+		"name": "Text",
+		"value": "Received 5 B chunk",
+		"timestamp": 1679632975975
+	},
+	{
+		"name": "Text",
+		"value": "Connection #3 to host localhost left intact\n",
+		"timestamp": 1679632975975
+	}
+]

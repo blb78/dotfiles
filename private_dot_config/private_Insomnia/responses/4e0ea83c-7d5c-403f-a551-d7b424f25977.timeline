@@ -1,0 +1,137 @@
+[
+	{
+		"value": "Preparing request to https://knowledge-center-euw-dev-search-01.search.windows.net/indexes/ditacontents/docs/search?api-version=2020-06-30",
+		"name": "Text",
+		"timestamp": 1670487377599
+	},
+	{
+		"value": "Current time is 2022-12-08T08:16:17.599Z",
+		"name": "Text",
+		"timestamp": 1670487377599
+	},
+	{
+		"value": "Enable automatic URL encoding",
+		"name": "Text",
+		"timestamp": 1670487377599
+	},
+	{
+		"value": "Using default HTTP version",
+		"name": "Text",
+		"timestamp": 1670487377600
+	},
+	{
+		"value": "Enable SSL validation",
+		"name": "Text",
+		"timestamp": 1670487377600
+	},
+	{
+		"name": "Text",
+		"value": "Found bundle for host knowledge-center-euw-dev-search-01.search.windows.net: 0x2e84039c79c0 [can multiplex]\n",
+		"timestamp": 1670487377600
+	},
+	{
+		"name": "Text",
+		"value": "Re-using existing connection! (#2) with host knowledge-center-euw-dev-search-01.search.windows.net\n",
+		"timestamp": 1670487377600
+	},
+	{
+		"name": "Text",
+		"value": "Connected to knowledge-center-euw-dev-search-01.search.windows.net (13.81.8.10) port 443 (#2)\n",
+		"timestamp": 1670487377600
+	},
+	{
+		"name": "Text",
+		"value": "Using Stream ID: 7 (easy handle 0x2e8402cfa000)\n",
+		"timestamp": 1670487377600
+	},
+	{
+		"name": "HeaderOut",
+		"value": "POST /indexes/ditacontents/docs/search?api-version=2020-06-30 HTTP/2\r\nHost: knowledge-center-euw-dev-search-01.search.windows.net\r\nuser-agent: insomnia/2022.6.0\r\ncontent-type: application/json\r\napi-key: 5J3HjQACKM5kFuWfb3PqAs7osbMLEqAc2Ugtv4REloAzSeAGhcSj\r\naccept: */*\r\ncontent-length: 610\r\n\r\n",
+		"timestamp": 1670487377600
+	},
+	{
+		"name": "DataOut",
+		"value": "{\n  \"search\": \"\",\n  \"orderby\": \"\",\n  \"top\": 10,\n  \"skip\": 0,\n  \"count\": true,\n  \"select\": \"id,title,content_type,duration,content,model,updated_at,key\",\n  \"searchFields\": \"title,content\",\n  \"filter\": \"locale eq 'fr-FR' and search.in(content_type, 'faq') and search.in(key,'QUICK_OFFER/FA/C2,FLEX/FA/C4,OD/FA/MAT_MANAGER,MTM/FA/MAT_MANAGER,OD/FA/SYS_MANAGER,MTM/FA/SYS_MANAGER,BP_PROD/AU/CONTROL,FLEX/FA/C3,FLEX/FA/C5,ACCU_FLEX/FA/C4,MTM/FA/ORD_MANAGER,ALL/ALL/MY_CONTRACTS,ALL/ALL/MAI_MANAGER,OD/FA/PROD_MANAGER,MTM/FA/PROD_MANAGER,ALL/ALL/IP6,ACCU_FLEX/FA/C3')\",\n  \"searchMode\": \"any\",\n  \"queryType\": \"full\"\n}",
+		"timestamp": 1670487377600
+	},
+	{
+		"name": "Text",
+		"value": "We are completely uploaded and fine\n",
+		"timestamp": 1670487377600
+	},
+	{
+		"name": "HeaderIn",
+		"value": "HTTP/2 200 \r\n",
+		"timestamp": 1670487377775
+	},
+	{
+		"name": "HeaderIn",
+		"value": "cache-control: no-cache\r\n",
+		"timestamp": 1670487377775
+	},
+	{
+		"name": "HeaderIn",
+		"value": "pragma: no-cache\r\n",
+		"timestamp": 1670487377775
+	},
+	{
+		"name": "HeaderIn",
+		"value": "content-type: application/json; odata.metadata=minimal\r\n",
+		"timestamp": 1670487377775
+	},
+	{
+		"name": "HeaderIn",
+		"value": "expires: -1\r\n",
+		"timestamp": 1670487377775
+	},
+	{
+		"name": "HeaderIn",
+		"value": "request-id: eec0471c-e6b3-4fcb-995d-0598c7942f98\r\n",
+		"timestamp": 1670487377775
+	},
+	{
+		"name": "HeaderIn",
+		"value": "elapsed-time: 140\r\n",
+		"timestamp": 1670487377775
+	},
+	{
+		"name": "HeaderIn",
+		"value": "odata-version: 4.0\r\n",
+		"timestamp": 1670487377775
+	},
+	{
+		"name": "HeaderIn",
+		"value": "preference-applied: odata.include-annotations=\"*\"\r\n",
+		"timestamp": 1670487377775
+	},
+	{
+		"name": "HeaderIn",
+		"value": "strict-transport-security: max-age=15724800; includeSubDomains\r\n",
+		"timestamp": 1670487377775
+	},
+	{
+		"name": "HeaderIn",
+		"value": "date: Thu, 08 Dec 2022 08:16:16 GMT\r\n",
+		"timestamp": 1670487377776
+	},
+	{
+		"name": "HeaderIn",
+		"value": "content-length: 7093\r\n",
+		"timestamp": 1670487377776
+	},
+	{
+		"name": "HeaderIn",
+		"value": "\r\n",
+		"timestamp": 1670487377776
+	},
+	{
+		"name": "Text",
+		"value": "Received 6.9 KB chunk",
+		"timestamp": 1670487377776
+	},
+	{
+		"name": "Text",
+		"value": "Connection #2 to host knowledge-center-euw-dev-search-01.search.windows.net left intact\n",
+		"timestamp": 1670487377776
+	}
+]

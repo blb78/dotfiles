@@ -1,0 +1,892 @@
+[
+	{
+		"value": "Preparing request to http://localhost:8080/api/documents",
+		"name": "Text",
+		"timestamp": 1670858608965
+	},
+	{
+		"value": "Current time is 2022-12-12T15:23:28.965Z",
+		"name": "Text",
+		"timestamp": 1670858608965
+	},
+	{
+		"value": "Enable automatic URL encoding",
+		"name": "Text",
+		"timestamp": 1670858608965
+	},
+	{
+		"value": "Using default HTTP version",
+		"name": "Text",
+		"timestamp": 1670858608966
+	},
+	{
+		"value": "Enable SSL validation",
+		"name": "Text",
+		"timestamp": 1670858608966
+	},
+	{
+		"name": "Text",
+		"value": "Found bundle for host localhost: 0x35f40313a910 [serially]\n",
+		"timestamp": 1670858608966
+	},
+	{
+		"name": "Text",
+		"value": "Can not multiplex, even if we wanted to!\n",
+		"timestamp": 1670858608966
+	},
+	{
+		"name": "Text",
+		"value": "Re-using existing connection! (#1) with host localhost\n",
+		"timestamp": 1670858608966
+	},
+	{
+		"name": "Text",
+		"value": "Connected to localhost (127.0.0.1) port 8080 (#1)\n",
+		"timestamp": 1670858608966
+	},
+	{
+		"name": "HeaderOut",
+		"value": "POST /api/documents HTTP/1.1\r\nHost: localhost:8080\r\nUser-Agent: insomnia/2022.6.0\r\nContent-Type: application/json\r\nAccept: */*\r\nContent-Length: 498\r\n\r\n",
+		"timestamp": 1670858608966
+	},
+	{
+		"name": "DataOut",
+		"value": "{\n\t\t\t\"permissions\":[\"KNOW_CENTER\",\"ADMSU\", \"API_MGT\", \"C1\", \"C2\", \"C3\", \"C4\", \"C5\", \"CONTROL\", \"IMPROVE\", \"KUBIX\", \"MAI_MANAGER\", \"MAT_MANAGER\", \"MOD_3D\", \"MOD_EXP\", \"MY_CONTRACTS\", \"OD_FA\", \"OPEX\"],\n\t\t\t\"search\": \"\",\n\t\t\t\"orderby\": \"position asc\",\n\t\t\t\"top\":1000,\n\t\t\t\"skip\":0,\n\t\t\t\"count\":true,\n\t\t\t\"searchMode\":\"any\", \n\t\t\t\"queryType\":\"full\",\n\t\t\t\"select\": [],\n\t\t\t\"searchFields\": [],\n\t\t\t\"filter\": {\n\t\t\t\t\"models\": [],\n\t\t\t\t\"types\": [],\n\t\t\t\t\"categories\": [\"releaseNote\"],\n\t\t\t\t\"productVaraiation\": []\n\t\t\t}\n}",
+		"timestamp": 1670858608966
+	},
+	{
+		"name": "Text",
+		"value": "Mark bundle as not supporting multiuse\n",
+		"timestamp": 1670858684848
+	},
+	{
+		"name": "HeaderIn",
+		"value": "HTTP/1.1 200 OK\r\n",
+		"timestamp": 1670858684848
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Connection: keep-alive\r\n",
+		"timestamp": 1670858684848
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Transfer-Encoding: chunked\r\n",
+		"timestamp": 1670858684848
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Content-Type: application/json\r\n",
+		"timestamp": 1670858684848
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Date: Mon, 12 Dec 2022 15:24:44 GMT\r\n",
+		"timestamp": 1670858684848
+	},
+	{
+		"name": "HeaderIn",
+		"value": "\r\n",
+		"timestamp": 1670858684848
+	},
+	{
+		"name": "Text",
+		"value": "Received 15.9 KB chunk",
+		"timestamp": 1670858684848
+	},
+	{
+		"name": "Text",
+		"value": "Received 2.3 KB chunk",
+		"timestamp": 1670858684849
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1670858684851
+	},
+	{
+		"name": "Text",
+		"value": "Received 1955 B chunk",
+		"timestamp": 1670858684851
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1670858684854
+	},
+	{
+		"name": "Text",
+		"value": "Received 1521 B chunk",
+		"timestamp": 1670858684854
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1670858684855
+	},
+	{
+		"name": "Text",
+		"value": "Received 847 B chunk",
+		"timestamp": 1670858684855
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1670858684856
+	},
+	{
+		"name": "Text",
+		"value": "Received 3.4 KB chunk",
+		"timestamp": 1670858684857
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1670858684857
+	},
+	{
+		"name": "Text",
+		"value": "Received 3.5 KB chunk",
+		"timestamp": 1670858684857
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1670858684858
+	},
+	{
+		"name": "Text",
+		"value": "Received 469 B chunk",
+		"timestamp": 1670858684858
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1670858684859
+	},
+	{
+		"name": "Text",
+		"value": "Received 23 B chunk",
+		"timestamp": 1670858684859
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1670858684859
+	},
+	{
+		"name": "Text",
+		"value": "Received 1066 B chunk",
+		"timestamp": 1670858684859
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1670858684859
+	},
+	{
+		"name": "Text",
+		"value": "Received 1861 B chunk",
+		"timestamp": 1670858684860
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1670858684860
+	},
+	{
+		"name": "Text",
+		"value": "Received 540 B chunk",
+		"timestamp": 1670858684860
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1670858684861
+	},
+	{
+		"name": "Text",
+		"value": "Received 442 B chunk",
+		"timestamp": 1670858684861
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1670858684861
+	},
+	{
+		"name": "Text",
+		"value": "Received 2.7 KB chunk",
+		"timestamp": 1670858684861
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1670858684862
+	},
+	{
+		"name": "Text",
+		"value": "Received 2033 B chunk",
+		"timestamp": 1670858684862
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1670858684862
+	},
+	{
+		"name": "Text",
+		"value": "Received 404 B chunk",
+		"timestamp": 1670858684862
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1670858684862
+	},
+	{
+		"name": "Text",
+		"value": "Received 241 B chunk",
+		"timestamp": 1670858684862
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1670858684863
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 B chunk",
+		"timestamp": 1670858684863
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1670858684863
+	},
+	{
+		"name": "Text",
+		"value": "Received 3.1 KB chunk",
+		"timestamp": 1670858684863
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1670858684864
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1670858684864
+	},
+	{
+		"name": "Text",
+		"value": "Received 3.4 KB chunk",
+		"timestamp": 1670858684864
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1670858684865
+	},
+	{
+		"name": "Text",
+		"value": "Received 2.4 KB chunk",
+		"timestamp": 1670858684865
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1670858684865
+	},
+	{
+		"name": "Text",
+		"value": "Received 2.3 KB chunk",
+		"timestamp": 1670858684865
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1670858684865
+	},
+	{
+		"name": "Text",
+		"value": "Received 2.3 KB chunk",
+		"timestamp": 1670858684865
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1670858684866
+	},
+	{
+		"name": "Text",
+		"value": "Received 759 B chunk",
+		"timestamp": 1670858684866
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1670858684866
+	},
+	{
+		"name": "Text",
+		"value": "Received 1071 B chunk",
+		"timestamp": 1670858684866
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1670858684867
+	},
+	{
+		"name": "Text",
+		"value": "Received 1060 B chunk",
+		"timestamp": 1670858684867
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1670858684867
+	},
+	{
+		"name": "Text",
+		"value": "Received 1631 B chunk",
+		"timestamp": 1670858684867
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1670858684867
+	},
+	{
+		"name": "Text",
+		"value": "Received 496 B chunk",
+		"timestamp": 1670858684867
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1670858684868
+	},
+	{
+		"name": "Text",
+		"value": "Received 699 B chunk",
+		"timestamp": 1670858684868
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1670858684868
+	},
+	{
+		"name": "Text",
+		"value": "Received 973 B chunk",
+		"timestamp": 1670858684868
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1670858684869
+	},
+	{
+		"name": "Text",
+		"value": "Received 4.1 KB chunk",
+		"timestamp": 1670858684869
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1670858684869
+	},
+	{
+		"name": "Text",
+		"value": "Received 169 B chunk",
+		"timestamp": 1670858684869
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1670858684869
+	},
+	{
+		"name": "Text",
+		"value": "Received 404 B chunk",
+		"timestamp": 1670858684869
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1670858684870
+	},
+	{
+		"name": "Text",
+		"value": "Received 545 B chunk",
+		"timestamp": 1670858684870
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1670858684870
+	},
+	{
+		"name": "Text",
+		"value": "Received 606 B chunk",
+		"timestamp": 1670858684870
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1670858684870
+	},
+	{
+		"name": "Text",
+		"value": "Received 2.5 KB chunk",
+		"timestamp": 1670858684870
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1670858684871
+	},
+	{
+		"name": "Text",
+		"value": "Received 2.1 KB chunk",
+		"timestamp": 1670858684871
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1670858684879
+	},
+	{
+		"name": "Text",
+		"value": "Received 1696 B chunk",
+		"timestamp": 1670858684879
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1670858684879
+	},
+	{
+		"name": "Text",
+		"value": "Received 1410 B chunk",
+		"timestamp": 1670858684879
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1670858684879
+	},
+	{
+		"name": "Text",
+		"value": "Received 2.5 KB chunk",
+		"timestamp": 1670858684879
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1670858684879
+	},
+	{
+		"name": "Text",
+		"value": "Received 746 B chunk",
+		"timestamp": 1670858684879
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1670858684880
+	},
+	{
+		"name": "Text",
+		"value": "Received 897 B chunk",
+		"timestamp": 1670858684880
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1670858684880
+	},
+	{
+		"name": "Text",
+		"value": "Received 2028 B chunk",
+		"timestamp": 1670858684880
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1670858684880
+	},
+	{
+		"name": "Text",
+		"value": "Received 2.3 KB chunk",
+		"timestamp": 1670858684880
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1670858684881
+	},
+	{
+		"name": "Text",
+		"value": "Received 1277 B chunk",
+		"timestamp": 1670858684881
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1670858684881
+	},
+	{
+		"name": "Text",
+		"value": "Received 196 B chunk",
+		"timestamp": 1670858684881
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1670858684881
+	},
+	{
+		"name": "Text",
+		"value": "Received 375 B chunk",
+		"timestamp": 1670858684881
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1670858684881
+	},
+	{
+		"name": "Text",
+		"value": "Received 1735 B chunk",
+		"timestamp": 1670858684881
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1670858684881
+	},
+	{
+		"name": "Text",
+		"value": "Received 765 B chunk",
+		"timestamp": 1670858684881
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1670858684882
+	},
+	{
+		"name": "Text",
+		"value": "Received 2.6 KB chunk",
+		"timestamp": 1670858684882
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1670858684882
+	},
+	{
+		"name": "Text",
+		"value": "Received 4.7 KB chunk",
+		"timestamp": 1670858684882
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1670858684882
+	},
+	{
+		"name": "Text",
+		"value": "Received 2.3 KB chunk",
+		"timestamp": 1670858684882
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1670858684882
+	},
+	{
+		"name": "Text",
+		"value": "Received 1491 B chunk",
+		"timestamp": 1670858684882
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1670858684883
+	},
+	{
+		"name": "Text",
+		"value": "Received 1147 B chunk",
+		"timestamp": 1670858684883
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1670858684883
+	},
+	{
+		"name": "Text",
+		"value": "Received 187 B chunk",
+		"timestamp": 1670858684883
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1670858684883
+	},
+	{
+		"name": "Text",
+		"value": "Received 727 B chunk",
+		"timestamp": 1670858684883
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1670858684883
+	},
+	{
+		"name": "Text",
+		"value": "Received 4.8 KB chunk",
+		"timestamp": 1670858684883
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1670858684883
+	},
+	{
+		"name": "Text",
+		"value": "Received 1574 B chunk",
+		"timestamp": 1670858684883
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1670858684883
+	},
+	{
+		"name": "Text",
+		"value": "Received 392 B chunk",
+		"timestamp": 1670858684884
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1670858684884
+	},
+	{
+		"name": "Text",
+		"value": "Received 20 B chunk",
+		"timestamp": 1670858684884
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1670858684884
+	},
+	{
+		"name": "Text",
+		"value": "Received 1868 B chunk",
+		"timestamp": 1670858684884
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1670858684884
+	},
+	{
+		"name": "Text",
+		"value": "Received 2.6 KB chunk",
+		"timestamp": 1670858684884
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1670858684884
+	},
+	{
+		"name": "Text",
+		"value": "Received 302 B chunk",
+		"timestamp": 1670858684884
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1670858684884
+	},
+	{
+		"name": "Text",
+		"value": "Received 2.4 KB chunk",
+		"timestamp": 1670858684884
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1670858684885
+	},
+	{
+		"name": "Text",
+		"value": "Received 4.5 KB chunk",
+		"timestamp": 1670858684885
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1670858684885
+	},
+	{
+		"name": "Text",
+		"value": "Received 2.8 KB chunk",
+		"timestamp": 1670858684885
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1670858684885
+	},
+	{
+		"name": "Text",
+		"value": "Received 1210 B chunk",
+		"timestamp": 1670858684885
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1670858684885
+	},
+	{
+		"name": "Text",
+		"value": "Received 1445 B chunk",
+		"timestamp": 1670858684885
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1670858684885
+	},
+	{
+		"name": "Text",
+		"value": "Received 1215 B chunk",
+		"timestamp": 1670858684886
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1670858684886
+	},
+	{
+		"name": "Text",
+		"value": "Received 3.7 KB chunk",
+		"timestamp": 1670858684886
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1670858684886
+	},
+	{
+		"name": "Text",
+		"value": "Received 1902 B chunk",
+		"timestamp": 1670858684886
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1670858684886
+	},
+	{
+		"name": "Text",
+		"value": "Received 1851 B chunk",
+		"timestamp": 1670858684886
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1670858684886
+	},
+	{
+		"name": "Text",
+		"value": "Received 2.1 KB chunk",
+		"timestamp": 1670858684886
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1670858684886
+	},
+	{
+		"name": "Text",
+		"value": "Received 569 B chunk",
+		"timestamp": 1670858684887
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1670858684887
+	},
+	{
+		"name": "Text",
+		"value": "Received 193 B chunk",
+		"timestamp": 1670858684887
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1670858684887
+	},
+	{
+		"name": "Text",
+		"value": "Received 2 KB chunk",
+		"timestamp": 1670858684887
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1670858684887
+	},
+	{
+		"name": "Text",
+		"value": "Received 1021 B chunk",
+		"timestamp": 1670858684887
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1670858684887
+	},
+	{
+		"name": "Text",
+		"value": "Received 1797 B chunk",
+		"timestamp": 1670858684887
+	},
+	{
+		"name": "Text",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1670858684887
+	},
+	{
+		"name": "Text",
+		"value": "Received 1284 B chunk",
+		"timestamp": 1670858684887
+	},
+	{
+		"name": "Text",
+		"value": "Received 14.1 KB chunk",
+		"timestamp": 1670858684888
+	},
+	{
+		"name": "Text",
+		"value": "Received 5 B chunk",
+		"timestamp": 1670858684888
+	},
+	{
+		"name": "Text",
+		"value": "Connection #1 to host localhost left intact\n",
+		"timestamp": 1670858684888
+	}
+]

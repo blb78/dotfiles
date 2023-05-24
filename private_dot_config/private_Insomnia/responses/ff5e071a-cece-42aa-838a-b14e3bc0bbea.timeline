@@ -1,0 +1,112 @@
+[
+	{
+		"value": "Preparing request to https://knowledgecentercms.dev.mylectra.com/keys/7",
+		"name": "Text",
+		"timestamp": 1670922148937
+	},
+	{
+		"value": "Current time is 2022-12-13T09:02:28.937Z",
+		"name": "Text",
+		"timestamp": 1670922148937
+	},
+	{
+		"value": "Enable automatic URL encoding",
+		"name": "Text",
+		"timestamp": 1670922148937
+	},
+	{
+		"value": "Using default HTTP version",
+		"name": "Text",
+		"timestamp": 1670922148939
+	},
+	{
+		"value": "Enable SSL validation",
+		"name": "Text",
+		"timestamp": 1670922148939
+	},
+	{
+		"name": "Text",
+		"value": "Found bundle for host knowledgecentercms.dev.mylectra.com: 0x118003193fc0 [can multiplex]\n",
+		"timestamp": 1670922148939
+	},
+	{
+		"name": "Text",
+		"value": "Re-using existing connection! (#0) with host knowledgecentercms.dev.mylectra.com\n",
+		"timestamp": 1670922148939
+	},
+	{
+		"name": "Text",
+		"value": "Connected to knowledgecentercms.dev.mylectra.com (20.56.190.42) port 443 (#0)\n",
+		"timestamp": 1670922148939
+	},
+	{
+		"name": "Text",
+		"value": "Using Stream ID: 3 (easy handle 0x118002cf7000)\n",
+		"timestamp": 1670922148939
+	},
+	{
+		"name": "HeaderOut",
+		"value": "GET /keys/7 HTTP/2\r\nHost: knowledgecentercms.dev.mylectra.com\r\nuser-agent: insomnia/2022.6.0\r\nauthorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiaWF0IjoxNjcwOTIwMDg5LCJleHAiOjE2NzM1MTIwODl9.sp0y65oN3qGVVvpr7tJLxZcZEjviIUluQzihvKO4hEA\r\naccept: */*\r\n\r\n",
+		"timestamp": 1670922148939
+	},
+	{
+		"name": "HeaderIn",
+		"value": "HTTP/2 200 \r\n",
+		"timestamp": 1670922149016
+	},
+	{
+		"name": "HeaderIn",
+		"value": "content-type: application/json; charset=utf-8\r\n",
+		"timestamp": 1670922149016
+	},
+	{
+		"name": "HeaderIn",
+		"value": "date: Tue, 13 Dec 2022 09:02:30 GMT\r\n",
+		"timestamp": 1670922149016
+	},
+	{
+		"name": "HeaderIn",
+		"value": "strict-transport-security: max-age=15724800; includeSubDomains\r\n",
+		"timestamp": 1670922149016
+	},
+	{
+		"name": "HeaderIn",
+		"value": "vary: Origin\r\n",
+		"timestamp": 1670922149016
+	},
+	{
+		"name": "HeaderIn",
+		"value": "x-frame-options: DENY\r\n",
+		"timestamp": 1670922149016
+	},
+	{
+		"name": "HeaderIn",
+		"value": "x-powered-by: Strapi <strapi.io>\r\n",
+		"timestamp": 1670922149016
+	},
+	{
+		"name": "HeaderIn",
+		"value": "x-response-time: 55ms\r\n",
+		"timestamp": 1670922149016
+	},
+	{
+		"name": "HeaderIn",
+		"value": "content-length: 1596\r\n",
+		"timestamp": 1670922149016
+	},
+	{
+		"name": "HeaderIn",
+		"value": "\r\n",
+		"timestamp": 1670922149016
+	},
+	{
+		"name": "Text",
+		"value": "Received 1596 B chunk",
+		"timestamp": 1670922149016
+	},
+	{
+		"name": "Text",
+		"value": "Connection #0 to host knowledgecentercms.dev.mylectra.com left intact\n",
+		"timestamp": 1670922149017
+	}
+]

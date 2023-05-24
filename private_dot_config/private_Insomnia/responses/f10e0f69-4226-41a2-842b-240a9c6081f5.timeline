@@ -1,0 +1,152 @@
+[
+	{
+		"value": "Preparing request to http://localhost:8080/api/logs",
+		"name": "Text",
+		"timestamp": 1680256620747
+	},
+	{
+		"value": "Current time is 2023-03-31T09:57:00.747Z",
+		"name": "Text",
+		"timestamp": 1680256620747
+	},
+	{
+		"value": "Enable automatic URL encoding",
+		"name": "Text",
+		"timestamp": 1680256620747
+	},
+	{
+		"value": "Using default HTTP version",
+		"name": "Text",
+		"timestamp": 1680256620748
+	},
+	{
+		"value": "Enable SSL validation",
+		"name": "Text",
+		"timestamp": 1680256620748
+	},
+	{
+		"name": "Text",
+		"value": "Found bundle for host localhost: 0x6c4038a1950 [serially]\n",
+		"timestamp": 1680256620748
+	},
+	{
+		"name": "Text",
+		"value": "Can not multiplex, even if we wanted to!\n",
+		"timestamp": 1680256620748
+	},
+	{
+		"name": "Text",
+		"value": "Re-using existing connection! (#0) with host localhost\n",
+		"timestamp": 1680256620748
+	},
+	{
+		"name": "Text",
+		"value": "Connected to localhost (127.0.0.1) port 8080 (#0)\n",
+		"timestamp": 1680256620748
+	},
+	{
+		"name": "HeaderOut",
+		"value": "POST /api/logs HTTP/1.1\r\nHost: localhost:8080\r\nUser-Agent: insomnia/2022.6.0\r\nAuthorization: Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Ik9EWTBSREJGTlVFM1JEVTVRVE13TVVRMk9EVXhRVFpCTkVRNU5qRTRPRUZETmprd09VVTRPQSJ9.eyJodHRwczovL21ldGFkYXRhLmxlY3RyYS5jb20iOnsic2l0ZXNQZXJtaXNzaW9ucyI6W3sic2l0ZUlkIjoiOWY4Mjg4ZGMtNzhkZS00ZjA4LWIwYmEtMjBkNWYwYjM4NTk5IiwicGVybWlzc2lvbnMiOlsiQURNU1UiLCJBUElfTUdUIiwiQzEiLCJDMiIsIkNPTlRST0wiLCJJTVBST1ZFIiwiSlVTVF9QVCIsIktBTF9TVEwiLCJLVUJJWCIsIk1BSV9NQU5BR0VSIiwiTUFUX01BTkFHRVIiLCJNT0RfM0QiLCJNT0RfQ0xBIiwiTU9EX0VYUCIsIk1ZX0NPTlRSQUNUUyIsIk9EX0ZBIiwiT1BFWCIsIk9SRF9GT1JNIiwiT1JEX01BTkFHRVIiLCJQQVRURVJOX0VYUCIsIlBDT05WIiwiUFJPRF9NQU5BR0VSIiwiUkVMX01BTkFHRVIiLCJTVVBQT1JUIiwiU1lTX01BTkFHRVIiXX1dLCJzaXRlSWQiOiI5ZjgyODhkYy03OGRlLTRmMDgtYjBiYS0yMGQ1ZjBiMzg1OTkiLCJ0ZW5hbnRJZCI6IjA3ZmJjZmE5LWUzZjAtNDYzMi1iOGEyLWE5OWFiOWU2YjgwYyIsInVzZXJzVmlzaWJpbGl0eSI6IlNJVEUifSwiaXNzIjoiaHR0cHM6Ly9sb2dpbi5kZXYubXlsZWN0cmEuY29tLyIsInN1YiI6ImF1dGgwfDYyMWY2ZjI5MjhkODZkMDA2YTY2YTkwZCIsImF1ZCI6WyJodHRwczovL2Rvd25sb2FkY2VudGVyLmRldi5teWxlY3RyYS5jb20iLCJodHRwczovL2Rldi1sZWN0cmEtc2VydmljZXMuZXUuYXV0aDAuY29tL3VzZXJpbmZvIl0sImlhdCI6MTY4MDI1NjU0MiwiZXhwIjoxNjgwMzQyOTQyLCJhenAiOiJZVzVxS3VzYU9naTNYaU41WHBxRzZvZmRBQW5hbE96ZCIsInNjb3BlIjoib3BlbmlkIHByb2ZpbGUgZW1haWwifQ.g1DowLvv3neZvWrlsA-8gWEM-tJvJHdcYemJ-Ye2_UMkhZVdb5IzbXMjqzJoWu0d-gtr4Pzgxmmgm5NqeC06Jpfr0XLUq41XnZ6JWF-NMuLhre20Q835dsMKizDsj7YDdGWy0GlqK-mXj1d5CNH_0PU3T1oi7nKcKkgwiBwor9iKJ0RRqRE-zHXnzJ-j6Dri18F4Aa99jCxloJGl1V_p4pE7gXoxO0IqviT7STPV9sSnKYCIBsM-MVpsYAnVfucW-prx688lRimySwXEwWVgpKMVC5wzCb8RA-fyTJ68SCzNYE4AtWOsH-AD6i05uRS2xQhnobZHnQOZsSzMFWEfUg\r\nContent-Type: application/json\r\nAccept: */*\r\nContent-Length: 18\r\n\r\n",
+		"timestamp": 1680256620748
+	},
+	{
+		"name": "DataOut",
+		"value": "{\"event\": \"event\"}",
+		"timestamp": 1680256620748
+	},
+	{
+		"name": "Text",
+		"value": "Mark bundle as not supporting multiuse\n",
+		"timestamp": 1680256620780
+	},
+	{
+		"name": "HeaderIn",
+		"value": "HTTP/1.1 400 Bad Request\r\n",
+		"timestamp": 1680256620780
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Expires: 0\r\n",
+		"timestamp": 1680256620780
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Cache-Control: no-cache, no-store, max-age=0, must-revalidate\r\n",
+		"timestamp": 1680256620780
+	},
+	{
+		"name": "HeaderIn",
+		"value": "X-XSS-Protection: 1; mode=block\r\n",
+		"timestamp": 1680256620780
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Pragma: no-cache\r\n",
+		"timestamp": 1680256620780
+	},
+	{
+		"name": "HeaderIn",
+		"value": "X-Frame-Options: DENY\r\n",
+		"timestamp": 1680256620780
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Referrer-Policy: strict-origin\r\n",
+		"timestamp": 1680256620780
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Content-Security-Policy: frame-ancestors 'none';\r\n",
+		"timestamp": 1680256620780
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Date: Fri, 31 Mar 2023 09:57:00 GMT\r\n",
+		"timestamp": 1680256620780
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Connection: keep-alive\r\n",
+		"timestamp": 1680256620780
+	},
+	{
+		"name": "HeaderIn",
+		"value": "X-Content-Type-Options: nosniff\r\n",
+		"timestamp": 1680256620780
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Feature-Policy: fullscreen 'self';\r\n",
+		"timestamp": 1680256620780
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Transfer-Encoding: chunked\r\n",
+		"timestamp": 1680256620780
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Content-Type: application/json\r\n",
+		"timestamp": 1680256620780
+	},
+	{
+		"name": "HeaderIn",
+		"value": "\r\n",
+		"timestamp": 1680256620780
+	},
+	{
+		"name": "Text",
+		"value": "Received 105 B chunk",
+		"timestamp": 1680256620780
+	},
+	{
+		"name": "Text",
+		"value": "Received 5 B chunk",
+		"timestamp": 1680256620780
+	},
+	{
+		"name": "Text",
+		"value": "Connection #0 to host localhost left intact\n",
+		"timestamp": 1680256620780
+	}
+]

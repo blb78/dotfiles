@@ -1,0 +1,137 @@
+[
+	{
+		"value": "Preparing request to http://localhost:1337/admin/login",
+		"name": "Text",
+		"timestamp": 1670918572944
+	},
+	{
+		"value": "Current time is 2022-12-13T08:02:52.944Z",
+		"name": "Text",
+		"timestamp": 1670918572944
+	},
+	{
+		"value": "Enable automatic URL encoding",
+		"name": "Text",
+		"timestamp": 1670918572944
+	},
+	{
+		"value": "Using default HTTP version",
+		"name": "Text",
+		"timestamp": 1670918572945
+	},
+	{
+		"value": "Enable SSL validation",
+		"name": "Text",
+		"timestamp": 1670918572945
+	},
+	{
+		"name": "Text",
+		"value": "Too old connection (687 seconds), disconnect it\n",
+		"timestamp": 1670918572945
+	},
+	{
+		"name": "Text",
+		"value": "Connection 1 seems to be dead!\n",
+		"timestamp": 1670918572945
+	},
+	{
+		"name": "Text",
+		"value": "Closing connection 1\n",
+		"timestamp": 1670918572945
+	},
+	{
+		"name": "Text",
+		"value": "  Trying 127.0.0.1:1337...\n",
+		"timestamp": 1670918572946
+	},
+	{
+		"name": "Text",
+		"value": "Connected to localhost (127.0.0.1) port 1337 (#2)\n",
+		"timestamp": 1670918572946
+	},
+	{
+		"name": "HeaderOut",
+		"value": "POST /admin/login HTTP/1.1\r\nHost: localhost:1337\r\nUser-Agent: insomnia/2022.6.0\r\nContent-Type: application/json\r\nAccept: */*\r\nContent-Length: 51\r\n\r\n",
+		"timestamp": 1670918572946
+	},
+	{
+		"name": "DataOut",
+		"value": "{\"email\": \"admin@lectra.fr\", \"password\":\"password\"}",
+		"timestamp": 1670918572946
+	},
+	{
+		"name": "Text",
+		"value": "Mark bundle as not supporting multiuse\n",
+		"timestamp": 1670918573062
+	},
+	{
+		"name": "HeaderIn",
+		"value": "HTTP/1.1 200 OK\r\n",
+		"timestamp": 1670918573062
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Vary: Origin\r\n",
+		"timestamp": 1670918573062
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Strict-Transport-Security: max-age=31536000; includeSubDomains\r\n",
+		"timestamp": 1670918573062
+	},
+	{
+		"name": "HeaderIn",
+		"value": "X-Frame-Options: SAMEORIGIN\r\n",
+		"timestamp": 1670918573062
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Content-Type: application/json; charset=utf-8\r\n",
+		"timestamp": 1670918573062
+	},
+	{
+		"name": "HeaderIn",
+		"value": "X-Response-Time: 114ms\r\n",
+		"timestamp": 1670918573062
+	},
+	{
+		"name": "HeaderIn",
+		"value": "X-Powered-By: Strapi <strapi.io>\r\n",
+		"timestamp": 1670918573062
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Content-Length: 485\r\n",
+		"timestamp": 1670918573062
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Date: Tue, 13 Dec 2022 08:02:53 GMT\r\n",
+		"timestamp": 1670918573062
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Connection: keep-alive\r\n",
+		"timestamp": 1670918573062
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Keep-Alive: timeout=5\r\n",
+		"timestamp": 1670918573062
+	},
+	{
+		"name": "HeaderIn",
+		"value": "\r\n",
+		"timestamp": 1670918573062
+	},
+	{
+		"name": "Text",
+		"value": "Received 485 B chunk",
+		"timestamp": 1670918573062
+	},
+	{
+		"name": "Text",
+		"value": "Connection #2 to host localhost left intact\n",
+		"timestamp": 1670918573062
+	}
+]
