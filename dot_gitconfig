@@ -1,0 +1,33 @@
+[alias]
+	alias  = ! git config --get-regexp ^alias\\. | sed -e s/^alias\\.// -e s/\\ /\\ =\\ / # Show alias
+	c      = commit
+	cm     = commit -m
+	cam    = commit -am
+	cleanb = ! git branch | grep -v "master"| grep -v  "main"| grep -v "dev" | xargs git branch -D  # Remove all branch except master
+	co     = checkout
+	cob    = checkout -b
+	conf   = ! nvim  ~/.gitconfig
+	f      = fetch -p       # Fetch from a repository and prune any remote-tracking references that no longer exist on the remote.
+	c      = commit         # Commit you changes
+	p      = push           # Push you changes to a remote
+	ba     = branch -a      # List both remote-tracking branches and local branches.
+	bd     = branch -d      # Delete a branch only if it has been merged
+	bD     = branch -D      # Force delete a branch
+	dc     = diff --cached  # Display the staged changes
+	st     = status
+	lazy   = ! lazygit
+	lg     = log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) - %C(bold cyan)%aD%C(reset) %C(bold green)(%ar)%C(reset)%C(bold yellow)%d%C(reset)%n''          %C(white)%s%C(reset) %C(dim white)- %an%C(reset)' --all
+	mom    = !git fetch origin main && git merge origin/main
+	mr     = !git fetch && git merge origin/main && git push -u origin
+	rom    = !git rebase origin/main
+	wa     = worktree add
+	wl     = worktree list
+	wr     = worktree remove
+	wc     = ! git worktree list | grep -v "master|main" | xargs git worktree remove
+[user]
+	email  = b.lebris@lectra.com
+	name   = Benjamin LE BRIS
+[core]
+	editor = nvim
+[pull]
+	rebase = merges
